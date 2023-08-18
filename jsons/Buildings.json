@@ -1,0 +1,242 @@
+[
+        {
+		"name": "Mod Hunt Place",
+		"culture": 1,
+		"hurryCostModifier": 20,
+                "requiredNearbyImprovedResources": ["Dilophosaur", "Tsintaosaurus", "Pinacosaurus", "Ouranosaurus", "Postosuchus", "Nasutoceratops", "Equus", "Andrewsarchus"],
+		"uniques": ["[+1 Food] from [Dilophosaur] tiles [in this city]",
+			"[+1 Food] from [Tsintaosaurus] tiles [in this city]",
+			"[+1 Food] from [Pinacosaurus] tiles [in this city]",
+                        "[+1 Food] from [Ouranosaurus] tiles [in this city]"
+                        "[+1 Food] from [Postosuchus] tiles [in this city]"
+                        "[+1 Food] from [Nasutoceratops] tiles [in this city]"
+                        "[+1 Food] from [Equus] tiles [in this city]"
+                        "[+1 Food] from [Andrewsarchus] tiles [in this city]"],
+		"requiredTech": "Spear"
+	},
+        {
+		"name": "Sunken Quarry",
+		"culture": 1,
+		"hurryCostModifier": 20,
+                "requiredNearbyImprovedResources": ["Marble", "Coal", "Aluminium", "Limestone"],
+		"uniques": ["[+1 Production] from [Marble] tiles [in this city]",
+			"[+1 Production] from [Coal] tiles [in this city]",
+			"[+1 Production] from [Aluminium] tiles [in this city]",
+                        "[+1 Production] from [Limestone] tiles [in this city]"],
+		"requiredTech": "Stone Hatchet"
+	},
+        {
+		"name": "District",
+		"production": 1,
+		"hurryCostModifier": 50,
+		"requiredTech": "Spear"
+	},
+        {
+		"name": "Well",
+                "greatPersonPoints": {"Great Engineer": 1},
+		"food": 1,
+                "maintenance": 1,
+		"hurryCostModifier": 50,
+		"requiredTech": "Waterskin"
+	},
+        {
+		"name": "Wheelbarrow Manufacture",
+                "greatPersonPoints": {"Great Engineer": 1},
+		"production": 1,
+                "maintenance": 1,
+		"hurryCostModifier": 50,
+                "requiredBuilding": "District"
+		"requiredTech": "Thatch Houses"
+	},
+        {
+		"name": "City Lights",
+                "greatPersonPoints": {"Great Engineer": 1},
+		"culture": 1,
+                "production": 1,
+                "maintenance": 3,
+		"hurryCostModifier": 50,
+		"requiredTech": "Stone Houses"
+	},
+        {
+		"name": "Windmill",
+                "greatPersonPoints": {"Great Engineer": 1},
+		"food": 2,
+                "production": 1,
+                "maintenance": 3,
+		"hurryCostModifier": 50,
+		"requiredTech": "Stone Irrigation Pipe"
+	},
+        {
+		"name": "Neighborhood",
+                "greatPersonPoints": {"Great Engineer": 1},
+		"food": 2,
+                "culture": 2,
+                "maintenance": 2,
+		"hurryCostModifier": 50,
+		"requiredTech": "Fishing Rod"
+	},
+        {
+		"name": "Fruit Market Price",
+                "uniqueTo": "Imperio da Grandeza",
+		"gold": 2,
+                "culture": -2,
+		"hurryCostModifier": 50,
+		"requiredTech": "GPS"
+	},
+        {
+		"name": "Restaurant",
+                "uniqueTo": "Merveilleuse Commande",
+		"gold": 5,
+                "culture": 3,
+                "science": -1,
+		"hurryCostModifier": 50,
+		"requiredTech": "GPS"
+	},
+        {
+		"name": "Europe Bank",
+                "uniqueTo": "Germania",
+		"gold": 4,
+                "production": 2,
+                "faith": -2,
+                "culture": -1,
+               "science": -1,
+		"hurryCostModifier": 50,
+		"requiredTech": "Fabricator"
+	},
+        {
+		"name": "Sunken Exportation",
+                "uniqueTo": "Sunken",
+		"food": 2,
+                "production": 1,
+		"hurryCostModifier": 50,
+		"requiredTech": "Dock"
+	},
+        {
+		"name": "Mosque",
+                "uniqueTo": "Alwahid hu Alsahih",
+		"faith": 2,
+                "culture": 2,
+		"hurryCostModifier": 50,
+		"requiredTech": "Tranq Arrow"
+	},
+        {
+		"name": "Flower Palace",
+                "uniqueTo": "Spiras Foria",
+		"culture": 2,
+                "science": 1,
+		"hurryCostModifier": 50,
+		"requiredTech": "Gunpowder"
+	},
+        {
+		"name": "Nuclear Plant",
+                "uniqueTo": "Imperial America",
+                "greatPersonPoints": {"Great Engineer": 4},
+		"production": 3,
+                "food": -2,
+                "maintenance": 1,
+		"hurryCostModifier": 50,
+		"requiredTech": "Flamethrower"
+	},
+        {
+		"name": "Park Creation",
+                "uniques": ["Provides [1] [Park]"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Smithy"
+	},
+        {
+		"name": "Notho Colocation",
+            "requiredBuilding": "Park Creation"
+            "requiredResource": "Park"
+		"requiredTech": "Smithy"
+		"uniques": [
+"Creates a [Nothosaurus] improvement on a specific tile",
+"Unsellable",
+"Cannot be purchased",
+"Never destroyed when city is captured",
+                ]
+	},
+        {
+		"name": "Shoni Colocation",
+            "requiredBuilding": "Park Creation"
+            "requiredResource": "Park"
+		"requiredTech": "Smithy"
+		"uniques": [
+"Creates a [Shonisaurus] improvement on a specific tile",
+"Unsellable",
+"Cannot be purchased",
+"Never destroyed when city is captured",
+                ]
+	},
+        {
+		"name": "Tany Colocation",
+            "requiredBuilding": "Park Creation"
+            "requiredResource": "Park"
+		"requiredTech": "Smithy"
+		"uniques": [
+"Creates a [Tanystropheus] improvement on a specific tile",
+"Unsellable",
+"Cannot be purchased",
+"Never destroyed when city is captured",
+                ]
+	},
+        {
+		"name": "Haino Colocation",
+            "requiredBuilding": "Park Creation"
+            "requiredResource": "Park"
+		"requiredTech": "Smithy"
+		"uniques": [
+"Creates a [Hainosaurus] improvement on a specific tile",
+"Unsellable",
+"Cannot be purchased",
+"Never destroyed when city is captured",
+                ]
+	},
+        {
+		"name": "Kentro Colocation",
+            "requiredBuilding": "Park Creation"
+            "requiredResource": "Park"
+		"requiredTech": "Smithy"
+		"uniques": [
+"Creates a [Kentrosaurus] improvement on a specific tile",
+"Unsellable",
+"Cannot be purchased",
+"Never destroyed when city is captured",
+                ]
+	},
+        {
+		"name": "Cryo Colocation",
+            "requiredBuilding": "Park Creation"
+            "requiredResource": "Park"
+		"requiredTech": "Smithy"
+		"uniques": [
+"Creates a [Cryolophosaurus] improvement on a specific tile",
+"Unsellable",
+"Cannot be purchased",
+"Never destroyed when city is captured",
+                ]
+	},
+        {
+		"name": "Acro Colocation",
+            "requiredBuilding": "Park Creation"
+            "requiredResource": "Park"
+		"requiredTech": "Smithy"
+		"uniques": [
+"Creates a [Acrocanthosaurus] improvement on a specific tile",
+"Unsellable",
+"Cannot be purchased",
+"Never destroyed when city is captured",
+                ]
+	},
+        {
+		"name": "Procerato Colocation",
+            "requiredBuilding": "Park Creation"
+            "requiredResource": "Park"
+		"requiredTech": "Smithy"
+		"uniques": [
+"Creates a [Proceratosaurus] improvement on a specific tile",
+"Unsellable",
+"Cannot be purchased",
+"Never destroyed when city is captured",
+                ]
+	},
+]

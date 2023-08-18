@@ -1,0 +1,214 @@
+[
+        {
+		//nations
+		"name": "Imperio da Grandeza",
+		"leaderName": "Sophia",
+		"adjective": ["Brasilians"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Reino da beleza e da Arte",
+                "uniques": ["[+2 Culture] from every [Jungle]", "[+1 Science] from every [Lakes]"],
+
+		"outerColor": [148, 156, 62],
+		"innerColor": [255, 254, 196],
+		"cities": ["Brasilia","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+	{
+		//nations
+		"name": "Merveilleuse Commande",
+		"leaderName": "Brigitte",
+		"adjective": ["Edmundiums"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Grande est la nouvelle France",
+                "uniques": ["[+1 Culture] [in all cities]", "[+1 Food] from every [Luxury resource]", "[+1 Faith] from every [Wonder]"],
+
+		"outerColor": [50, 20, 60],
+		"innerColor": [210, 100, 200],
+		"cities": ["Paris","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        {
+		"name": "Imperial America",
+		"leaderName": "Evolet",
+		"adjective": ["America"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Freedom",
+                "uniques": ["[+1 Gold] from every [Ark Monument]", "[+1 Happiness] from every [Ark Monument]", "[-2 Gold] from every [Place Mark]"],
+
+		"outerColor": [163, 150, 98],
+		"innerColor": [247, 200, 161],
+		"cities": ["Washington","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	}
+        {
+		"name": "Germania",
+		"leaderName": "Irma",
+		"adjective": ["Germany"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Neues Reich",
+                "uniques": ["[+15]% of excess happiness converted to [Production]", "[+25]% [Production] [in all cities] <when at war>", "[-50]% [Culture] [in all cities] <when at war>", "[-15]% [Science] [in all cities] <when at war>", "[-50]% [Faith] [in all cities] <when at war>"],
+
+		"outerColor": [31, 29, 29],
+		"innerColor": [217, 4, 4],
+		"cities": ["Germania","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	}
+        {
+		"name": "Alwahid hu Alsahih",
+		"leaderName": "Mehmet",
+		"adjective": ["Arab"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Barakak Allah",
+                "uniques": ["[+1 Faith] from every [Bonus resource]", "[+1 Production] from every [Rockwell Stories]", "[+1 Gold] from every [Desert]"],
+
+		"outerColor": [22, 54, 12],
+		"innerColor": [88, 201, 52],
+		"cities": ["Almuqadasa","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	}
+        {
+		"name": "Sunken",
+		"leaderName": "Hafsa",
+		"adjective": ["Sunken"],
+		"startBias": ["Sunken Land"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Afkar Jadida",
+                "uniques": ["[+1 Food] from every [Coast]", "[+1 Food] from every [Sunken Coast]", "[+2 Culture] from every [First Armory]"],
+
+		"outerColor": [96, 150, 129],
+		"innerColor": [45, 64, 57],
+		"cities": ["Mylie","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	}
+        {
+		"name": "Spiras Foria",
+		"leaderName": "Mila",
+		"adjective": ["Autumn"],
+		"startBias": ["Autumn Land"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Afkar Jadida",
+                "uniques": ["[+1 Production] from every [Forest]", "[+1 Food] from every [Ark Monument]", "[+1 Gold] from every [Windmill]"],
+
+		"outerColor": [84, 13, 3],
+		"innerColor": [252, 116, 5],
+		"cities": ["Tiperrary","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	}
+]
