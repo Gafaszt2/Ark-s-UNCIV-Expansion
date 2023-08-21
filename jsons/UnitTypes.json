@@ -1,5 +1,25 @@
 [
     {
+        "name": "Tek Planes",
+        "movementType": "Land"
+        "uniques": ["[+4] Sight", "Can see over obstacles", "[+35]% Strength <vs [Tek Assault Vehicles] units>"]
+    },
+    {
+        "name": "Tek Siege Vehicles",
+        "movementType": "Land"
+        "uniques": ["[+30]% Strength <vs cities>"]
+    },
+    {
+        "name": "Tek Assault Vehicles",
+        "movementType": "Land"
+        "uniques": ["[+35]% Strength <vs [Homodeus] units>"]
+    },
+    {
+        "name": "Homodeus",
+        "movementType": "Land"
+        "uniques": ["[+35]% Strength <vs [Tek Siege Vehicles] units>"]
+    },
+    {
         "name": "Civilian",
         "movementType": "Land"
     },

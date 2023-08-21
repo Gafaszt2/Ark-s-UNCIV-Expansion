@@ -1,0 +1,684 @@
+[
+	{
+		"columnNumber": 0,
+		"era": "Ancient era",
+		"techCost": 20,
+		"buildingCost": 40,
+                "wonderCost": 185,
+		"techs": [
+			{
+				"name": "Agriculture",
+				"row": 6,
+				"quote": "Where am i?",
+				"uniques": ["Starting tech"]
+			}
+		]
+	},
+	{
+		"columnNumber": 1,
+		"era": "Ancient era",
+		"techCost": 50,
+		"buildingCost": 90,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Torch",
+				"row": 3,
+				"prerequisites": ["Agriculture"],
+				"quote": "This is similar to survivors on the Island waking up naked on a sandy beach."
+			},
+			{
+				"name": "Stone Pick",
+				"row": 6,
+				"prerequisites": ["Agriculture"],
+				"quote": "Mining and mining."             
+			}
+		]
+	},
+	{
+		"columnNumber": 2,
+		"era": "Ancient era",
+		"techCost": 60,
+		"buildingCost": 120,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Campfire",
+				"row": 3,
+				"prerequisites": ["Torch"],
+				"quote": "Warm place to live."
+			},
+			{
+				"name": "Spear",
+				"row": 5,
+				"prerequisites": ["Stone Pick"],
+                        "quote": "Strike strike."
+			},
+                        {
+				"name": "Stone Hatchet",
+				"row": 6,
+				"prerequisites": ["Stone Pick"],
+                        "quote": "Chop chop."
+			}
+		]
+	},
+	{
+		"columnNumber": 3,
+		"era": "Ancient era",
+		"techCost": 100,
+		"buildingCost": 140,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Waterskin",
+				"row": 3,
+				"prerequisites": ["Campfire"],
+				"quote": "Also it works as a filter."
+			},
+			{
+				"name": "Thatch Houses",
+				"row": 5,
+				"prerequisites": ["Stone Hatchet"],
+                        "quote": "My first house!"
+			},
+                        {
+				"name": "Sleeping Bag",
+				"row": 6,
+				"prerequisites": ["Spear"],
+                        "quote": "Good Night."
+			}
+		]
+	},
+	{
+		"columnNumber": 4,
+		"era": "Ancient era",
+		"techCost": 140,
+		"buildingCost": 120,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Slingshot",
+				"row": 3,
+				"prerequisites": ["Thatch Houses"],
+				"quote": "Point and Bayou!"
+			},
+                        {
+				"name": "Spyglass",
+				"row": 2,
+				"prerequisites": ["Waterskin"],
+                                "uniques": ["Enables embarkation for land units"],
+				"quote": "Over there and over the hills!"
+			},
+			{
+				"name": "Mortar",
+				"row": 5,
+				"prerequisites": ["Waterskin"],
+                        "quote": "Crush and Crush."
+			},
+                        {
+				"name": "Narcotics",
+				"row": 6,
+				"prerequisites": ["Thatch Houses"],
+                        "quote": "Sleepy."
+			},
+                        {
+				"name": "Wooden Houses",
+				"row": 7,
+				"prerequisites": ["Thatch Houses", "Sleeping Bag"],
+                        "quote": "Dont worry."
+			}
+		]
+	},
+	{
+		"columnNumber": 5,
+		"era": "Leather era",
+		"techCost": 300,
+		"buildingCost": 450,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Cementing Paste",
+				"row": 7,
+				"prerequisites": ["Mortar", "Wooden Houses"],
+				"quote": "Stick Together!"
+			},
+			{
+				"name": "Bow and Arrow",
+				"row": 5,
+				"prerequisites": ["Slingshot", "Narcotics"],
+                        "quote": "Poison Arrows?"
+			},
+                        {
+				"name": "Fish Basquet",
+				"row": 2,
+				"prerequisites": ["Spyglass"],
+                        "quote": "Bass?"
+			}
+		]
+	},
+	{
+		"columnNumber": 6,
+		"era": "Leather era",
+		"techCost": 400,
+		"buildingCost": 450,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Stone Houses",
+				"row": 7,
+				"prerequisites": ["Cementing Paste"],
+				"quote": "Stonehenge!"
+			},
+			{
+				"name": "Professional Domestication",
+				"row": 5,
+				"prerequisites": ["Bow and Arrow"],
+                        "quote": "Gotcha!"
+			},
+                        {
+				"name": "Raft",
+				"row": 2,
+                                "uniques": ["Enables [Embarked] units to enter ocean tiles"],
+				"prerequisites": ["Fish Basquet"],
+                        "quote": "Wilson..."
+			}
+		]
+	},
+	{
+		"columnNumber": 7,
+		"era": "Leather era",
+		"techCost": 420,
+		"buildingCost": 450,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Bookshelf",
+				"row": 8,
+				"prerequisites": ["Stone Houses"],
+				"quote": "A place of study."
+			},
+                        {
+				"name": "Stone Irrigation Pipe",
+				"row": 6,
+				"prerequisites": ["Stone Houses"],
+				"quote": "My first plant."
+			},
+			{
+				"name": "Preserving Bin",
+				"row": 5,
+				"prerequisites": ["Professional Domestication"],
+                        "quote": "Meat with salt, try out."
+			},
+                        {
+				"name": "Spike Wall",
+				"row": 2,
+				"prerequisites": ["Professional Domestication", "Raft"],
+                        "quote": "There is a zombie on my lawn."
+			},
+                        {
+				"name": "Fishing Rod",
+				"row": 1,
+				"prerequisites": ["Raft"],
+                        "quote": "Catch!"
+			}
+		]
+	},
+	{
+		"columnNumber": 8,
+		"era": "Smithy era",
+		"techCost": 400,
+		"buildingCost": 550,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Gunpowder",
+				"row": 8,
+				"prerequisites": ["Bookshelf", "Preserving Bin"],
+				"quote": "No shoot yet!"
+                                "uniques": ["[+1 Science] [in all cities]"],
+			},
+                        {
+				"name": "Smithy",
+				"row": 6,
+				"prerequisites": ["Stone Irrigation Pipe", "Spike Wall"],
+				"quote": "Workplace full of anvils and hammers."
+			},
+			{
+				"name": "Refining Forge",
+				"row": 5,
+				"prerequisites": ["Bookshelf", "Spike Wall"],
+                        "quote": "Things getting warm."
+			}
+		]
+	},
+	{
+		"columnNumber": 9,
+		"era": "Smithy era",
+		"techCost": 440,
+		"buildingCost": 550,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Metal Hatchet",
+				"row": 8,
+				"prerequisites": ["Refining Forge"],
+				"quote": "Im not afraid."
+			},
+                        {
+				"name": "Dock",
+				"row": 1,
+				"prerequisites": ["Fishing Rod", "Gunpowder"],
+				"quote": "Sea of Thieves"
+                                "uniques": ["[+1 Food] [in all cities]"],
+			},
+                        {
+				"name": "Metal Pick",
+				"row": 6,
+				"prerequisites": ["Refining Forge"],
+				"quote": "Mine and Craft"
+			},
+			{
+				"name": "Tranq Arrow",
+				"row": 5,
+				"prerequisites": ["Smithy"],
+                        "quote": "This will make that beast asleep!"
+			}
+		]
+	},
+	{
+		"columnNumber": 10,
+		"era": "Smithy era",
+		"techCost": 550,
+		"buildingCost": 550,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Crossbow",
+				"row": 8,
+				"prerequisites": ["Dock"],
+				"quote": "Chu ko nu?"
+			},
+                        {
+				"name": "Pike",
+				"row": 6,
+				"prerequisites": ["Metal Pick"],
+				"quote": "Age of Empires"
+			},
+			{
+				"name": "Balista",
+				"row": 5,
+				"prerequisites": ["Metal Hatchet", "Tranq Arrow"],
+                        "quote": "Shiny Balista!"
+			}
+		]
+	},
+	{
+		"columnNumber": 11,
+		"era": "Smithy era",
+		"techCost": 500,
+		"buildingCost": 550,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Greenhouse",
+				"row": 1,
+				"prerequisites": ["Dock", "Balista"],
+				"quote": "They cultivate vegetables here."
+                                "uniques": ["[+2 Food] [in all cities]"],
+			},
+                        {
+				"name": "Sword",
+				"row": 6,
+				"prerequisites": ["Balista","Crossbow", "Pike"],
+				"quote": "The sharpest blade."
+                                "uniques": [
+			"[+1 Food] from [Hill] tiles [in this city]",
+		],
+			},
+			{
+				"name": "Metal House",
+				"row": 9,
+				"prerequisites": ["Crossbow"],
+                        "quote": "The safest home."
+                        "uniques": [
+			"[+1 Production] from [Hill] tiles [in this city]",
+			"[+1 Production] from [Mountain] tiles [in this city]"
+		],
+			}
+		]
+	},
+	{
+		"columnNumber": 12,
+		"era": "Electric era",
+		"techCost": 600,
+		"buildingCost": 850,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Fabricator",
+				"row": 6,
+				"prerequisites": ["Greenhouse", "Metal House", "Sword"],
+				"quote": "A huge machine powered by gasoil"
+			}
+		]
+	},
+	{
+		"columnNumber": 13,
+		"era": "Electric era",
+		"techCost": 600,
+		"buildingCost": 750,
+		"wonderCost": 750,
+		"techs": [
+			{
+				"name": "Polymer",
+				"row": 1,
+				"prerequisites": ["Fabricator"],
+				"quote": "Normally found on baby penguins, but this time is going to be artificial."
+			},
+                        {
+				"name": "Electronics",
+				"row": 6,
+				"prerequisites": ["Fabricator"],
+				"quote": "Watch out!"
+			},
+			{
+				"name": "Industrial Grill",
+				"row": 9,
+				"prerequisites": ["Fabricator"],
+                        "quote": "This will make a difference."
+			}
+		]
+	},
+	{
+		"columnNumber": 14,
+		"era": "Electric era",
+		"techCost": 500,
+		"buildingCost": 750,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Chainsaw",
+				"row": 1,
+				"prerequisites": ["Industrial Grill", "Polymer"],
+				"quote": "The best recolector."
+			},
+                        {
+				"name": "GPS",
+				"row": 5,
+				"prerequisites": ["Electronics"],
+				"quote": "Location device used by the survivors."
+			},
+                        {
+				"name": "Cryopod",
+				"row": 6,
+				"prerequisites": ["Electronics", "Polymer"],
+				"quote": "Used as a pokeball for big dinosaurs."
+			},
+			{
+				"name": "Canteen",
+				"row": 9,
+				"prerequisites": ["Polymer"],
+                        "quote": "Used to save water on dry places."
+			}
+		]
+	},
+	{
+		"columnNumber": 15,
+		"era": "Electric era",
+		"techCost": 500,
+		"buildingCost": 750,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Flak Armor",
+				"row": 1,
+				"prerequisites": ["Chainsaw", "Cryopod"],
+				"quote": "The highest tier armor."
+			},
+                        {
+				"name": "Radio",
+				"row": 5,
+				"prerequisites": ["GPS", "Canteen"],
+				"quote": "A tech used to mantain comunications."
+			},
+                        {
+				"name": "Chain Bola",
+				"row": 6,
+				"prerequisites": ["GPS"],
+				"quote": "A weapon used to immobilize big creatures."
+			}
+		]
+	},
+	{
+		"columnNumber": 16,
+		"era": "Electric era",
+		"techCost": 500,
+		"buildingCost": 750,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Assault Riffle",
+				"row": 1,
+				"prerequisites": ["Flak Armor"],
+				"quote": "The same report says the Terran Federation wanted to use a new dark energy source."
+			},
+                        {
+				"name": "Flamethrower",
+				"row": 5,
+				"prerequisites": ["Chain Bola"],
+				"quote": "A story about an underground explorer finding a culture of creatures called the Vril-Ya that has a society that runs on Vril, an alI-permeating fluid that the Vril-Ya can control with their minds. - Edward Bulwer-Lytton"
+			},
+                        {
+				"name": "Auto Torret",
+				"row": 6,
+				"prerequisites": ["Radio"],
+				"quote": "Depicts a now prevalent observation that machines are taking over more and more of man's roles in society and man becoming slaves to those machines."
+			}
+		]
+	},
+	{
+		"columnNumber": 17,
+		"era": "Tek era",
+		"techCost": 600,
+		"buildingCost": 510,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Defeat Broodmother",
+				"row": 2,
+				"prerequisites": ["Assault Riffle", "Flamethrower", "Auto Torret"],
+				"quote": "Helena noted that she doesn't know how much time has passed ever since she has ascended. Where a typical person lives a day, her ability to see and experience entire time streams as singular moments may have allowed Helena's human mind to live millions of millennia in a single day."
+			},
+                        {
+				"name": "Defeat the Dragon",
+				"row": 4,
+				"prerequisites": ["Assault Riffle", "Flamethrower", "Auto Torret"],
+				"quote": "Helena noted that she doesn't know how much time has passed ever since she has ascended. Where a typical person lives a day, her ability to see and experience entire time streams as singular moments may have allowed Helena's human mind to live millions of millennia in a single day."
+			},
+                        {
+				"name": "Defeat Megapithecus",
+				"row": 6,
+				"prerequisites": ["Assault Riffle", "Flamethrower", "Auto Torret"],
+				"quote": "Helena noted that she doesn't know how much time has passed ever since she has ascended. Where a typical person lives a day, her ability to see and experience entire time streams as singular moments may have allowed Helena's human mind to live millions of millennia in a single day."
+			}
+		]
+	},
+	{
+		"columnNumber": 18,
+		"era": "Tek era",
+		"techCost": 600,
+		"buildingCost": 510,
+		"wonderCost": 185,
+		"techs": [
+                         {
+				"name": "Element Dust",
+				"row": 1,
+				"prerequisites": ["Defeat Broodmother"],
+				"quote": "Helena noted that she doesn't know how much time has passed ever since she has ascended. Where a typical person lives a day, her ability to see and experience entire time streams as singular moments may have allowed Helena's human mind to live millions of millennia in a single day."
+			},
+                        {
+				"name": "Resource Attractor",
+				"row": 2,
+				"prerequisites": ["Defeat Broodmother"],
+				"quote": "Helena noted that she doesn't know how much time has passed ever since she has ascended. Where a typical person lives a day, her ability to see and experience entire time streams as singular moments may have allowed Helena's human mind to live millions of millennia in a single day."
+			},
+                        {
+				"name": "Tek Sword",
+				"row": 4,
+				"prerequisites": ["Defeat the Dragon"],
+                                "uniques": ["[+2 Science] [in all cities]"],
+				"quote": "Helena noted that she doesn't know how much time has passed ever since she has ascended. Where a typical person lives a day, her ability to see and experience entire time streams as singular moments may have allowed Helena's human mind to live millions of millennia in a single day."
+			},
+                        {
+				"name": "Tek Shield",
+				"row": 5,
+				"prerequisites": ["Defeat the Dragon"],
+				"quote": "Helena noted that she doesn't know how much time has passed ever since she has ascended. Where a typical person lives a day, her ability to see and experience entire time streams as singular moments may have allowed Helena's human mind to live millions of millennia in a single day."
+			},
+                        {
+				"name": "Tek Turret",
+				"row": 8,
+				"prerequisites": ["Defeat Megapithecus"],
+				"quote": "Helena noted that she doesn't know how much time has passed ever since she has ascended. Where a typical person lives a day, her ability to see and experience entire time streams as singular moments may have allowed Helena's human mind to live millions of millennia in a single day."
+			},
+                        {
+				"name": "Shield Generator",
+				"row": 9,
+				"prerequisites": ["Defeat Megapithecus"],
+				"quote": "Helena noted that she doesn't know how much time has passed ever since she has ascended. Where a typical person lives a day, her ability to see and experience entire time streams as singular moments may have allowed Helena's human mind to live millions of millennia in a single day."
+			}
+		]
+	},
+    {
+		"columnNumber": 19,
+		"era": "Tek era",
+		"techCost": 500,
+		"buildingCost": 510,
+		"wonderCost": 185,
+		"techs": [
+                         {
+				"name": "Tek Armor",
+				"row": 1,
+				"prerequisites": ["Element Dust"],
+				"quote": "Helena noted that she doesn't know how much time has passed ever since she has ascended. Where a typical person lives a day, her ability to see and experience entire time streams as singular moments may have allowed Helena's human mind to live millions of millennia in a single day."
+			},
+                        {
+				"name": "Tek Forcefield",
+				"row": 2,
+				"prerequisites": ["Resource Attractor"],
+				"quote": "Helena noted that she doesn't know how much time has passed ever since she has ascended. Where a typical person lives a day, her ability to see and experience entire time streams as singular moments may have allowed Helena's human mind to live millions of millennia in a single day."
+			},
+                        {
+				"name": "Tek Pistols",
+				"row": 4,
+				"prerequisites": ["Tek Sword", "Resource Attractor"],
+                                "uniques": ["[+2 Science] [in all cities]", "[+2 Production] [in all cities]"],
+				"quote": "Helena noted that she doesn't know how much time has passed ever since she has ascended. Where a typical person lives a day, her ability to see and experience entire time streams as singular moments may have allowed Helena's human mind to live millions of millennia in a single day."
+			},
+                        {
+				"name": "Tek Riffle",
+				"row": 5,
+				"prerequisites": ["Tek Shield", "Tek Turret"],
+				"quote": "Helena noted that she doesn't know how much time has passed ever since she has ascended. Where a typical person lives a day, her ability to see and experience entire time streams as singular moments may have allowed Helena's human mind to live millions of millennia in a single day."
+			},
+                        {
+				"name": "Pulse Cannon",
+				"row": 8,
+				"prerequisites": ["Tek Turret"],
+				"quote": "Helena noted that she doesn't know how much time has passed ever since she has ascended. Where a typical person lives a day, her ability to see and experience entire time streams as singular moments may have allowed Helena's human mind to live millions of millennia in a single day."
+			},
+                        {
+				"name": "Shield Protector",
+				"row": 9,
+				"prerequisites": ["Shield Generator"],
+				"quote": "Helena noted that she doesn't know how much time has passed ever since she has ascended. Where a typical person lives a day, her ability to see and experience entire time streams as singular moments may have allowed Helena's human mind to live millions of millennia in a single day."
+			}
+		]
+	},
+             {
+		"columnNumber": 20,
+		"era": "Tek era",
+		"techCost": 500,
+		"buildingCost": 510,
+		"wonderCost": 185,
+		"techs": [
+                        {
+				"name": "Transhumanism",
+				"row": 5,
+				"prerequisites": ["Tek Armor", "Tek Forcefield", "Tek Pistols", "Tek Riffle", "Pulse Cannon", "Shield Protector"],
+			}
+		]
+	},
+    {
+		"columnNumber": 21,
+		"era": "Transcendence era",
+		"techCost": 500,
+		"buildingCost": 510,
+		"wonderCost": 185,
+		"techs": [
+                        {
+				"name": "Infinity Theory",
+				"row": 2,
+				"prerequisites": ["Transhumanism"],
+			},
+                        {
+				"name": "Smart Resource Refinement",
+				"row": 4,
+				"prerequisites": ["Transhumanism"],
+			},
+                        {
+				"name": "War of the Robots",
+				"row": 8,
+				"prerequisites": ["Transhumanism"],
+			},
+                        {
+				"name": "Space Industry",
+				"row": 9,
+				"prerequisites": ["Transhumanism"],
+			}
+		]
+	},
+    {
+		"columnNumber": 22,
+		"era": "Transcendence era",
+		"techCost": 500,
+		"buildingCost": 510,
+		"wonderCost": 185,
+		"techs": [
+                        {
+				"name": "Galactic Theory",
+				"row": 2,
+				"prerequisites": ["Infinity Theory"],
+			},
+                        {
+				"name": "Heart of Steel",
+				"row": 4,
+				"prerequisites": ["Smart Resource Refinement"],
+			},
+                        {
+				"name": "Serving Machines",
+				"row": 8,
+				"prerequisites": ["War of the Robots"],
+			},
+                        {
+				"name": "Total War",
+				"row": 9,
+				"prerequisites": ["Space Industry"],
+			}
+		]
+	},
+    {
+		"columnNumber": 23,
+		"era": "Transcendence era",
+		"techCost": 500,
+		"buildingCost": 510,
+		"wonderCost": 185,
+		"techs": [
+                        {
+				"name": "End of The World",
+				"row": 5,
+				"prerequisites": ["Galactic Theory", "Heart of Steel", "Serving Machines", "Total War"],
+			}
+		]
+	}
+]

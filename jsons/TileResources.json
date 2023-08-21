@@ -111,7 +111,25 @@
 		"gold": 1,
 		"improvement": "Fishing Boats",
 		"improvementStats": {"food": 1},
-		"uniques": ["Generated on every [436] tiles <in [Coast] tiles>"]
+		"uniques": ["Generated on every [150] tiles <in [Coast] tiles>"]
+	},
+        {
+		"name": "Platecarpus",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Ocean"],
+		"science": 1,
+		"improvement": "Fishing Boats",
+		"improvementStats": {"culture": 2},
+		"uniques": ["Generated on every [320] tiles <in [Ocean] tiles>"]
+	},
+        {
+		"name": "Opetiosaurus",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Ocean"],
+		"production": 2,
+		"improvement": "Fishing Boats",
+		"improvementStats": {"faith": 1},
+		"uniques": ["Generated on every [320] tiles <in [Ocean] tiles>"]
 	},
         {
 		"name": "Reeds",

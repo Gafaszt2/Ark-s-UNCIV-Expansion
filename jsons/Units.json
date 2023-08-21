@@ -7,11 +7,13 @@
 		"strength": 38,
 		"cost": 158,
 		"requiredTech": "Fishing Rod",
+                "obsoleteTech": "Dock",
                 "requiredResource": "Prionosuchus",
 		"attackSound": "dinoroar"
 	},
         {
 		"name": "Neovenator Rider",
+                "obsoleteTech": "Transhumanism",
                 "upgradesTo": "Giga Rider",
 		"unitType": "Mounted",
 		"movement": 3,
@@ -25,6 +27,7 @@
 	},
         {
 		"name": "Siamosaurus Rider",
+                "obsoleteTech": "Transhumanism",
                 "upgradesTo": "Giga Rider",
 		"unitType": "Mounted",
 		"movement": 2,
@@ -52,6 +55,7 @@
 	},
         {
 		"name": "Tek Spino",
+                "obsoleteTech": "Transhumanism",
                 "replaces": "New Artillery",
 		"uniqueTo": "Sunken",
 		"unitType": "Mounted",
@@ -64,6 +68,7 @@
 	},
         {
 		"name": "Elite Reaper",
+                "obsoleteTech": "Transhumanism",
                 "replaces": "Reaper",
 		"uniqueTo": "Alwahid hu Alsahih",
 		"unitType": "Mounted",
@@ -134,7 +139,7 @@
 		"cost": 75,
 		"requiredTech": "Slingshot",
                 "upgradesTo": "Kapro Rider",
-                "obsoleteTech": "Tranq Arrow",
+                "obsoleteTech": "Professional Domestication",
 		"uniques": ["Can move after attacking", "[+15]% Strength <when fighting in [Sunken Coast] tiles>"],
 		"hurryCostModifier": 20,
                 "requiredResource": "Reeds",
@@ -149,6 +154,7 @@
 		"cost": 65,
                 "uniques": ["Can also be produced in cities next to [Sunken Coast]"]
 		"requiredTech": "Slingshot",
+                "obsoleteTech": "Raft",
                 "requiredResource": "Seagrass",
 		"attackSound": "dinoroar"
 	},
@@ -156,6 +162,7 @@
 		"name": "Kaiwhekea",
                 "upgradesTo": "Megalodon Rider",
 		"unitType": "Melee Water",
+                "obsoleteTech": "Raft",
 		"movement": 2,
 		"strength": 17,
 		"cost": 70,
@@ -167,6 +174,7 @@
 		"name": "Stethacanthus",
                 "upgradesTo": "Plesio Rider",
 		"unitType": "Melee Water",
+                "obsoleteTech": "Dock",
 		"movement": 3,
 		"strength": 32,
 		"cost": 120,
@@ -183,6 +191,7 @@
 		"strength": 155,
 		"cost": 320,
 		"requiredTech": "Auto Torret",
+                "obsoleteTech": "Tek Sword",
                 "uniques": ["Can also be produced in cities next to [Sunken Coast]"]
                 "requiredResource": "Volcanic Ore",
 		"attackSound": "dinoroar"
@@ -195,11 +204,13 @@
 		"cost": 320,
 		"requiredTech": "Tek Sword",
                 "requiredResource": "Volcanic Ore",
+                "obsoleteTech": "Tek Pistols",
                 "uniques": ["Can also be produced in cities next to [Sunken Coast]"]
 		"attackSound": "dinoroar"
 	},
         {
 		"name": "Alpha Leedsicthys",
+                "obsoleteTech": "Transhumanism",
 		"unitType": "Melee Water",
 		"movement": 2,
 		"strength": 500,
@@ -211,6 +222,7 @@
 	},
         {
 		"name": "Shastasaur Rider",
+                "obsoleteTech": "Transhumanism",
 		"unitType": "Melee Water",
 		"movement": 2,
 		"strength": 450,
@@ -220,6 +232,7 @@
 	},
         {
 		"name": "Becklespinax",
+                "obsoleteTech": "Transhumanism",
                 "upgradesTo": "Tek Becklespinax",
 		"unitType": "Mounted",
 		"movement": 2,
@@ -234,6 +247,7 @@
 	},
         {
 		"name": "Tek Becklespinax",
+                "obsoleteTech": "Transhumanism",
 		"unitType": "Mounted",
 		"movement": 3,
 		"strength": 310,
@@ -260,6 +274,7 @@
 	},
         {
 		"name": "Tek Tapejara Rider",
+                "obsoleteTech": "Transhumanism",
                 "upgradesTo": "Tek Rex Rider",
 		"unitType": "Mounted",
 		"movement": 4,
@@ -278,6 +293,7 @@
 		"strength": 40,
 		"cost": 190,
 		"requiredTech": "Cryopod",
+                "obsoleteTech": "Chain Bola",
 		"uniques": ["Can move after attacking", "[1] additional attacks per turn", "Double movement in [Open terrain]"],
 		"hurryCostModifier": 20,
                 "promotions": ["Shock I"],
@@ -292,9 +308,60 @@
 		"requiredTech": "Cementing Paste",
                 "upgradesTo": "Kapro Rider",
                 "obsoleteTech": "Professional Domestication",
-		"uniques": ["Can move after attacking"],
 		"hurryCostModifier": 20,
 		"attackSound": "chari"
+	},
+        {
+		"name": "Albertosaurus",
+                "requiredResource": "Chitin"
+		"unitType": "Chariot",
+		"movement": 2.5,
+		"strength": 28,
+		"cost": 89,
+		"requiredTech": "Spike Wall",
+                "upgradesTo": "Stego Rider",
+                "obsoleteTech": "Tranq Arrow",
+		"uniques": ["[+10]% Strength <vs [Mounted] units>"],
+		"hurryCostModifier": 20,
+		"attackSound": "chari"
+	},
+        {
+		"name": "Qianzhousaurus",
+                "upgradesTo": "Astrocetus",
+		"unitType": "Chariot",
+		"movement": 2.5,
+		"strength": 88,
+		"cost": 310,
+		"requiredTech": "Auto Torret",
+		"uniques": ["[+10]% Strength <vs [Mounted] units>", "[+20]% Strength <when fighting in [Jungle] tiles>"],
+		"hurryCostModifier": 20,
+                "obsoleteTech": "Tek Forcefield",
+                "promotions": ["Divine I"],
+		"attackSound": "chari"
+	},
+        {
+		"name": "Stomatosuchus",
+		"unitType": "Chariot",
+		"movement": 2,
+		"strength": 16,
+		"cost": 79,
+		"requiredTech": "Professional Domestication",
+                "upgradesTo": "Rugops",
+                "obsoleteTech": "Fabricator",
+		"uniques": ["[+10]% Strength <when fighting in [Hill] tiles>"],
+		"hurryCostModifier": 20,
+		"attackSound": "chari"
+	},
+        {
+		"name": "Plotosaurus",
+                "upgradesTo": "Dunkleosteous Rider",
+                "obsoleteTech": "GPS",
+		"unitType": "Melee Water",
+		"movement": 2.5,
+		"strength": 49,
+		"cost": 105,
+		"requiredTech": "Electronics",
+		"attackSound": "dinoroar"
 	},
         {
 		"name": "Rugops",
@@ -311,13 +378,14 @@
 	},
         {
 		"name": "Rock Elemental",
-                "requiredNearbyImprovedResources": ["Sand"],
                 "upgradesTo": "Skorpiovenator",
 		"unitType": "Chariot",
 		"movement": 2,
 		"strength": 39,
 		"cost": 200,
-		"requiredTech": "Metal Pick",
+		"requiredTech": "Gunpowder",
+                "requiredResource": "Chitin",
+                "uniques": ["[+20]% Strength <when fighting in [Desert] tiles>", "[+10]% Strength <when fighting in [Hill] tiles>", "[+10]% Strength <when fighting in [Plains] tiles>"]
                 "obsoleteTech": "Pike",
 		"hurryCostModifier": 20,
                 "promotions": ["Terror I"],
@@ -325,15 +393,16 @@
 	},
         {
 		"name": "Enforcer",
-                "requiredNearbyImprovedResources": ["Corrupted Nodule", "Gasbags"],
                 "upgradesTo": "Skorpiovenator",
 		"unitType": "Chariot",
 		"movement": 2,
 		"strength": 39,
 		"cost": 200,
-		"requiredTech": "Metal Pick",
+		"requiredTech": "Smithy",
+                "requiredResource": "Metal",
                 "obsoleteTech": "Pike",
 		"hurryCostModifier": 20,
+                "uniques": ["[+20]% Strength <when fighting in [Dead Land] tiles>", "[+10]% Strength <when fighting in [Fallout Land] tiles>", "[+25]% Strength <when fighting in [Tek Soil] tiles>"]
                 "promotions": ["Interfectorem Circuitus"],
 		"attackSound": "chari"
 	},
@@ -366,6 +435,7 @@
         {
 		"name": "Mapusaurus",
 		"unitType": "Chariot",
+                "obsoleteTech": "Tek Forcefield",
 		"movement": 2,
 		"strength": 52,
 		"cost": 325,
@@ -381,6 +451,7 @@
 		"strength": 154,
 		"cost": 390,
 		"requiredTech": "Tek Forcefield",
+                "obsoleteTech": "Transhumanism",
 		"hurryCostModifier": 20,
                 "promotions": ["Divine I", "Divine II", "Divine III"],
 		"attackSound": "chari"
@@ -392,6 +463,7 @@
 		"strength": 29,
 		"cost": 70,
 		"requiredTech": "Tranq Arrow",
+                "obsoleteTech": "Fabricator",
 		"hurryCostModifier": 20,
                 "upgradesTo": "Genyodectes",
 		"attackSound": "chari"
@@ -399,18 +471,20 @@
         {
 		"name": "Fasolasuchus",
 		"unitType": "Chariot",
+                "obsoleteTech": "Tek Forcefield",
 		"movement": 2,
 		"strength": 75,
 		"cost": 190,
 		"requiredTech": "Chain Bola",
                 "requiredResource": "Metal",
-                "uniques": ["[+20]% Strength <when fighting in [Desert] tiles>"]
+                "uniques": ["[+20]% Strength <when fighting in [Desert] tiles>", "[+10]% Strength <when fighting in [Hill] tiles>", "[-5]% Strength <when fighting in [Tundra] tiles>"]
 		"hurryCostModifier": 20,
                 "promotions": ["Terror I", "Terror II", "Terror III"],
 		"attackSound": "chari"
 	},
         {
 		"name": "Hydrotherosaurus",
+                "obsoleteTech": "GPS",
                 "upgradesTo": "Dunkleosteous Rider",
 		"unitType": "Melee Water",
 		"movement": 3,
@@ -419,5 +493,202 @@
 		"requiredTech": "Greenhouse",
 		"attackSound": "dinoroar"
 	},
-        
+                {
+		"name": "Reaper",
+		"unitType": "Mounted",
+                "obsoleteTech": "Transhumanism",
+		"movement": 3,
+		"strength": 210,
+		"cost": 390,
+		"requiredTech": "Tek Riffle",
+		"uniques": ["[+20]% Strength <vs cities>","[+20]% Strength <vs [Siege] units>", "Can move after attacking"],
+		"hurryCostModifier": 20,
+		"attackSound": "dinoroar"
+	},
+        {
+		"name": "New Artillery",
+		"unitType": "Siege",
+                "obsoleteTech": "Transhumanism",
+		"movement": 2,
+		"strength": 130,
+		"rangedStrength": 155,
+		"cost": 290,
+		"requiredTech": "Shield Generator",
+		"uniques": ["[+170]% Strength <vs cities> <when attacking>", "[+30]% Strength <vs [Mounted] units>", "Never appears as a Barbarian unit"],
+		"attackSound": "fire"
+	},
+        {
+		"name": "Ultimate Destructor",
+		"unitType": "Siege",
+		"movement": 2,
+                "obsoleteTech": "Transhumanism",
+		"strength": 110,
+		"rangedStrength": 180,
+		"cost": 300,
+		"requiredTech": "Shield Protector",
+		"uniques": ["[+220]% Strength <vs cities> <when attacking>", "[+33]% Strength <vs [Mounted] units>", "Never appears as a Barbarian unit"],
+		"attackSound": "machinegun"
+	},
+        {
+		"name": "Bazooka",
+		"unitType": "Gunpowder",
+		"movement": 2,
+                "obsoleteTech": "Transhumanism",
+		"strength": 100,
+		"rangedStrength": 188,
+		"cost": 290,
+		"requiredTech": "Element Dust",
+		"uniques": ["[+40]% Strength <vs [Siege] units>"],
+		"attackSound": "missile"
+	},
+        {
+		"name": "Tek HomoDeus",
+		"unitType": "Gunpowder",
+                "obsoleteTech": "Transhumanism",
+		"movement": 2,
+		"strength": 150,
+		"rangedStrength": 195,
+		"cost": 290,
+		"requiredTech": "Tek Armor",
+		"uniques": ["[+50]% Strength <vs [Siege] units>"],
+		"attackSound": "nonmetalhit"
+	},
+        {
+		"name": "Ascended HomoDeus",
+		"unitType": "Gunpowder",
+		"movement": 3,
+                "obsoleteTech": "Transhumanism",
+		"strength": 300,
+		"rangedStrength": 210,
+		"cost": 290,
+		"requiredTech": "Tek Pistols",
+		"uniques": ["[+10]% Strength <vs [Mounted] units>", "[+10]% Strength <vs [Siege] units>"],
+		"attackSound": "nonmetalhit"
+	},
+        {
+		"name": "Ascended Gunner",
+		"unitType": "Gunpowder",
+                "obsoleteTech": "Transhumanism",
+		"movement": 3,
+		"strength": 340,
+		"rangedStrength": 208,
+		"cost": 290,
+		"requiredTech": "Pulse Cannon",  
+                "requiredResource": "Pulse Cannon Resource",
+		"uniques": ["[+5]% Strength <vs [Mounted] units>", "[+5]% Strength <vs [Siege] units>"],
+		"attackSound": "nonmetalhit"
+	},
+        {
+		"name": "Flak Survivor",
+                "upgradesTo": "Android Homodeus",
+                "obsoleteTech": "Transhumanism",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 40,
+                "rangedStrength": 22,
+		"cost": 88,
+		"attackSound": "nonmetalhit"
+                "requiredTech": "Flak Armor",
+                "uniques": ["Can build [Land] improvements on tiles", "Requires at least [1] population"],
+        },
+        {
+		"name": "Android Homodeus",
+		"unitType": "Homodeus",
+		"movement": 1,
+		"strength": 190,
+                "rangedStrength": 95,
+		"cost": 115,
+		"attackSound": "gdrAttack"
+                "requiredTech": "Transhumanism",
+                "uniques": ["Can build [Land] improvements on tiles"],
+        },
+        {
+		"name": "Champion",
+                "upgradesTo": "Transhuman Champion",
+                "obsoleteTech": "War of the Robots",
+		"unitType": "Homodeus",
+		"movement": 2,
+		"strength": 220,
+		"cost": 295,
+		"attackSound": "gdrAttack"
+                "requiredTech": "Transhumanism",
+        },
+        {
+		"name": "GR33N DE4TH",
+                "upgradesTo": "CR73L DICTATOR",
+                "obsoleteTech": "Total War",
+		"unitType": "Tek Planes",
+		"movement": 4,
+		"strength": 340,
+		"cost": 350,
+		"attackSound": "gdrAttack"
+                "requiredTech": "Space Industry",
+        },
+        {
+		"name": "Draconial Jeep",
+                "upgradesTo": "Total War Mecha",
+                "obsoleteTech": "Galactic Theory",
+		"unitType": "Tek Assault Vehicles",
+		"movement": 3,
+		"strength": 340,
+		"cost": 350,
+		"attackSound": "gdrAttack"
+                "requiredTech": "Infinity Theory",
+        },
+        {
+		"name": "Napoleon",
+                "upgradesTo": "Gustav Weapon",
+                "obsoleteTech": "Total War",
+		"unitType": "Tek Siege Vehicles",
+		"movement": 3,
+		"strength": 340,
+		"cost": 350,
+		"attackSound": "gdrAttack"
+                "requiredTech": "Smart Resource Refinement",
+        },
+        {
+		"name": "Transhuman Champion",
+		"unitType": "Homodeus",
+		"movement": 2,
+		"strength": 330,
+		"cost": 300,
+		"attackSound": "gdrAttack"
+                "requiredTech": "War of the Robots",
+        },
+         {
+		"name": "CR73L DICTATOR",
+		"unitType": "Tek Planes",
+		"movement": 4,
+		"strength": 420,
+		"cost": 350,
+		"attackSound": "gdrAttack"
+                "requiredTech": "Total War",
+        },
+        {
+		"name": "Total War Mecha",
+		"unitType": "Tek Assault Vehicles",
+		"movement": 3,
+		"strength": 420,
+		"cost": 350,
+		"attackSound": "gdrAttack"
+                "requiredTech": "Galactic Theory",
+        },
+        {
+		"name": "Gustav Weapon",
+		"unitType": "Tek Siege Vehicles",
+		"movement": 3,
+		"strength": 420,
+		"cost": 350,
+		"attackSound": "gdrAttack"
+                "requiredTech": "Heart of Steel",
+        },
+        {
+		"name": "Bloodthirsty War Criminal",
+		"unitType": "Homodeus",
+		"movement": 2,
+		"strength": 390,
+		"cost": 300,
+		"attackSound": "gdrAttack"
+                "requiredTech": "Serving Machines",
+        },
 ]
