@@ -638,7 +638,7 @@
         {
 		"name": "Napoleon",
                 "upgradesTo": "Gustav Weapon",
-                "obsoleteTech": "Total War",
+                "obsoleteTech": "Heart of Steel",
 		"unitType": "Tek Siege Vehicles",
 		"movement": 3,
 		"strength": 340,
