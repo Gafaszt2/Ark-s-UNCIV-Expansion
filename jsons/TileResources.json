@@ -134,16 +134,18 @@
         {
 		"name": "Reeds",
 		"resourceType": "Strategic",
-		"terrainsCanBeFoundOn": ["Sunken Land"],
+		"terrainsCanBeFoundOn": ["Sunken Land","Grassland"],
 		"food": 1,
 		"improvement": "Farm",
 		"improvementStats": {"production": 1},
+                "uniques": ["Generated on every [320] tiles <in [Grassland] tiles>"]
 	},
         {
 		"name": "Seagrass",
 		"resourceType": "Strategic",
                 "revealedBy": "Slingshot",
-		"terrainsCanBeFoundOn": ["Sunken Coast"],
+		"terrainsCanBeFoundOn": ["Sunken Coast","Coast"],
+                "uniques": ["Generated on every [320] tiles <in [Coast] tiles>"]
 		"food": 1,
 		"improvement": "Acuatic Exploration",
 		"improvementStats": {"production": 1},
@@ -152,7 +154,8 @@
 		"name": "Sea Scales",
 		"resourceType": "Strategic",
                 "revealedBy": "Dock",
-		"terrainsCanBeFoundOn": ["Sunken Ocean"],
+                "uniques": ["Generated on every [520] tiles <in [Ocean] tiles>"]
+		"terrainsCanBeFoundOn": ["Sunken Ocean","Ocean"],
 		"production": 1,
 		"improvement": "Acuatic Exploration",
 		"improvementStats": {"gold": 1},
@@ -161,7 +164,8 @@
 		"name": "Seashells",
                 "revealedBy": "Fabricator",
 		"resourceType": "Strategic",
-		"terrainsCanBeFoundOn": ["Sunken Coast"],
+		"terrainsCanBeFoundOn": ["Sunken Coast","Coast"],
+                "uniques": ["Generated on every [320] tiles <in [Coast] tiles>"]
 		"culture": 1,
 		"improvement": "Acuatic Exploration",
 		"improvementStats": {"science": 1},
@@ -170,15 +174,17 @@
 		"name": "Volcanic Ore",
 		"resourceType": "Strategic",
                 "revealedBy": "Auto Torret",
-		"terrainsCanBeFoundOn": ["Sunken Ocean"],
+		"terrainsCanBeFoundOn": ["Sunken Ocean","Ocean"],
 		"science": 1,
+                "uniques": ["Generated on every [420] tiles <in [Ocean] tiles>"]
 		"improvement": "Acuatic Exploration",
 		"improvementStats": {"science": 1},
 	},
         {
 		"name": "Coral",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Sunken Coast"],
+		"terrainsCanBeFoundOn": ["Sunken Coast","Coast"],
+                "uniques": ["Generated on every [920] tiles <in [Coast] tiles>"]
 		"production": 1,
 		"improvement": "Acuatic Exploration",
 		"improvementStats": {"production": 1},
@@ -186,7 +192,8 @@
         {
 		"name": "Marble",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Sunken Land"],
+		"terrainsCanBeFoundOn": ["Sunken Land","Plains"],
+                "uniques": ["Generated on every [920] tiles <in [Plains] tiles>"]
 		"gold": 1,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1},
