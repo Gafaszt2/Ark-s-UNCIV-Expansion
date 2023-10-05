@@ -53,6 +53,11 @@
         "uniques": ["Can pass through impassable tiles"]
     },
     {
+        "name": "Destroyer of Theropods",
+        "movementType": "Land"
+        "uniques": ["[+10]% Strength <vs [Mounted] units>","[+10]% Strength <vs [Chariot] units>","[-10]% Strength <vs [Gunpowder] units>"]
+    },
+    {
         "name": "Armored",
         "movementType": "Land"
     },

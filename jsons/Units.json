@@ -691,4 +691,137 @@
 		"attackSound": "gdrAttack"
                 "requiredTech": "Serving Machines",
         },
+        {
+		"name": "Saurosuchus",
+		"unitType": "Chariot",
+                "obsoleteTech": "Canteen",
+		"movement": 3,
+		"strength": 48,
+		"cost": 210,
+		"requiredTech": "Industrial Grill",
+                "uniques": ["[+20]% Strength <when fighting in [Jungle] tiles>"]
+		"hurryCostModifier": 20,
+                "promotions": ["Terror I"],
+		"attackSound": "chari"
+	},
+        {
+		"name": "Brachiosaurus Rider",
+		"unitType": "Destroyer of Theropods",
+                "obsoleteTech": "Canteen",
+		"movement": 2,
+		"strength": 48,
+		"cost": 210,
+		"requiredTech": "Electronics",
+                "uniques": ["[+20]% Strength <when fighting in [Plains] tiles>", "[+5]% Strength <when fighting in [Tundra] tiles>"]
+		"hurryCostModifier": 20,
+                "promotions": ["Terror I"],
+		"attackSound": "herb"
+	},
+        {
+		"name": "Europasaurus",
+		"unitType": "Destroyer of Theropods",
+                "obsoleteTech": "Canteen",
+		"movement": 2,
+		"strength": 48,
+		"cost": 210,
+		"requiredTech": "Electronics",
+                "uniques": ["[+20]% Strength <when fighting in [Grassland] tiles>", "[+5]% Strength <when fighting in [Desert] tiles>"]
+		"hurryCostModifier": 20,
+                "promotions": ["Divine I"],
+		"attackSound": "herb"
+	},
+        {
+		"name": "Torvosaurus",
+		"unitType": "Mounted",
+                "obsoleteTech": "Chain Bola",
+		"movement": 2,
+		"strength": 58,
+		"cost": 210,
+		"requiredTech": "GPS",
+                "uniques": ["[+20]% Strength <when fighting in [Tundra] tiles>", "[+15]% Strength <when fighting in [Snow] tiles>"]
+		"hurryCostModifier": 20,
+		"attackSound": "dinoroar"
+	},
+        {
+		"name": "Ophiacodon",
+		"unitType": "Destroyer of Theropods",
+                "obsoleteTech": "Cementing Paste",
+		"movement": 2,
+		"strength": 14,
+		"cost": 110,
+		"requiredTech": "Narcotics",
+                "uniques": ["[+5]% Strength <when fighting in [Swamp Zone] tiles>"]
+		"hurryCostModifier": 20,
+		"attackSound": "chari"
+	},
+        {
+		"name": "Dimetrodon",
+		"unitType": "Destroyer of Theropods",
+                "obsoleteTech": "Cementing Paste",
+		"movement": 2,
+		"strength": 15,
+		"cost": 110,
+		"requiredTech": "Spyglass",
+                "uniques": ["[+5]% Strength <when fighting in [Desert] tiles>"]
+		"hurryCostModifier": 20,
+		"attackSound": "chari"
+	},
+        {
+		"name": "Chilesaurus",
+		"unitType": "Mounted",
+                "obsoleteTech": "Spike Wall",
+		"movement": 2,
+		"strength": 17,
+		"cost": 120,
+		"requiredTech": "Raft",
+                "uniques": ["[+15]% Strength <when fighting in [Hill] tiles>"]
+		"hurryCostModifier": 20,
+		"attackSound": "dinoroar"
+	},
+        {
+		"name": "Scutosaurus",
+		"unitType": "Mounted",
+                "obsoleteTech": "Spike Wall",
+		"movement": 2,
+		"strength": 18,
+		"cost": 180,
+		"requiredTech": "Stone Houses",
+                "uniques": ["[+15]% Strength <when fighting in [Desert] tiles>"]
+		"hurryCostModifier": 20,
+		"attackSound": "herb"
+	},
+        {
+		"name": "Chainsaw Machimosaurus",
+		"unitType": "Chariot",
+                "obsoleteTech": "Chain Bola",
+		"movement": 2,
+		"strength": 60,
+		"cost": 310,
+		"requiredTech": "Chainsaw",
+                "uniques": ["[+10]% Strength <when fighting in [Desert] tiles>", "[+10]% Strength <when fighting in [Hill] tiles>", "[+15]% Strength <when fighting in [Strategic resource] tiles>"]
+		"hurryCostModifier": 20,
+		"attackSound": "chain"
+	},
+        {
+		"name": "Durodon",
+                "obsoleteTech": "Radio",
+                "upgradesTo": "Mosa Rider",
+		"unitType": "Melee Water",
+		"movement": 3,
+		"strength": 59,
+		"cost": 225,
+		"requiredTech": "Industrial Grill",
+		"attackSound": "herb"
+	},
+        {
+		"name": "Drill Platysuchus",
+                "obsoleteTech": "Radio",
+                "upgradesTo": "Mosa Rider",
+		"unitType": "Melee Water",
+		"movement": 3,
+		"strength": 75,
+		"cost": 225,
+		"requiredTech": "Chainsaw",
+		"attackSound": "chain"
+	},
 ]
