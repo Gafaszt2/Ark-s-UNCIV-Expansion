@@ -2,38 +2,11 @@
 
 	{
 		"name": "Acuatic Exploration",
-		"terrainsCanBeBuiltOn": ["Sunken Coast","Sunken Ocean"],
+		"terrainsCanBeBuiltOn": ["Coast","Ocean"],
 		"food": 1,
 		"turnsToBuild": 2,
 		"uniques": ["Can only be built to improve a resource"],
 	}
-        {
-		"name": "Farm",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains","Dead Land","Fallout Land","Genesis Soil","Sunken Land","Autumn Land","Temperate Land"],
-		"food": 1,
-		"turnsToBuild": 7,
-		"uniques": ["Can also be built on tiles adjacent to fresh water"],
-		"shortcutKey": "F"
-	},
-        {
-		"name": "Pastizal",
-                "replaces": "Farm",
-		"uniqueTo": "Democracy of the South",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains","Dead Land","Fallout Land","Genesis Soil","Sunken Land","Autumn Land","Temperate Land"],
-		"food": 2,
-                "culture": 1,
-		"turnsToBuild": 7,
-		"uniques": ["Can also be built on tiles adjacent to fresh water"],
-		"shortcutKey": "F"
-	},
-	{
-		"name": "Trading post",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","Dead Land","Fallout Land","Genesis Soil","Tek Soil","Sunken Land","Autumn Land","Temperate Land"],
-		"gold": 1,
-		"turnsToBuild": 7,
-		"shortcutKey": "T"
-                "techRequired": "Raft",
-	},
         {
 		"name": "Nothosaurus",
 		"terrainsCanBeBuiltOn": ["Land"],

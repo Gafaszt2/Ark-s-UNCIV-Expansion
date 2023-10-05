@@ -171,7 +171,7 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Afkar Jadida",
-                "uniques": ["[+1 Food] from every [Coast]", "[+1 Food] from every [Sunken Coast]", "[+2 Culture] from every [First Armory]"],
+                "uniques": ["[+1 Food] from every [Coast]", "[+2 Culture] from every [First Armory]"],
 
 		"outerColor": [96, 150, 129],
 		"innerColor": [45, 64, 57],

@@ -140,7 +140,7 @@
 		"requiredTech": "Slingshot",
                 "upgradesTo": "Kapro Rider",
                 "obsoleteTech": "Professional Domestication",
-		"uniques": ["Can move after attacking", "[+15]% Strength <when fighting in [Sunken Coast] tiles>"],
+		"uniques": ["Can move after attacking", "[+15]% Strength <when fighting in [Coast] tiles>"],
 		"hurryCostModifier": 20,
                 "requiredResource": "Reeds",
 		"attackSound": "dinoroar"

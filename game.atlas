@@ -1,1973 +1,1692 @@
 
 game.png
-size: 2048, 2048
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Acro Colocation
   rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
+  xy: 4, 908
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Acrocanthosaurus
   rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
+  xy: 4, 908
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Acuatic Exploration
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Albertosaurus
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Alpha Leedsicthys
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game2.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-NationIcons/Alwahid hu Alsahih
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-ResourceIcons/Aluminium
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-ResourceIcons/Amethyst
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Alpha Tylosaurus
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game3.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-ResourceIcons/Andrewsarchus
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-ResourceIcons/Anzu
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Andrew Rider
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Android Homodeus
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game4.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-ResourceIcons/Aquamarine
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Arthopleura
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Astrocetus
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Becklespinax
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game5.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-UnitIcons/Bloodthirsty War Criminal
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/CR73L DICTATOR
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Cameroceras
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Champion
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game6.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 BuildingIcons/City Lights
   rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
+  xy: 544, 908
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Cryo Colocation
   rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
+  xy: 220, 476
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Cryolophosaurus
   rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
+  xy: 220, 476
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Coal
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-ResourceIcons/Coral
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game7.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 BuildingIcons/District
   rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
+  xy: 544, 800
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Dilong
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-ResourceIcons/Dilophosaur
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Draconial Jeep
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game8.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 BuildingIcons/Europe Bank
   rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
+  xy: 328, 476
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Equus
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Elite Reaper
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Enforcer
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game9.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 BuildingIcons/Flower Palace
   rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
+  xy: 544, 692
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Fruit Market Price
   rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
+  xy: 652, 800
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Fasolasuchus
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/GR33N DE4TH
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game10.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-NationIcons/Germania
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Genyodectes
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Gigantoraptor
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Gustav Weapon
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game11.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 BuildingIcons/Haino Colocation
   rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
+  xy: 436, 476
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Hainosaurus
   rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
+  xy: 436, 476
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Imperial America
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Hydrotherosaurus
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Imperial Theropod
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game12.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 BuildingIcons/Kentro Colocation
   rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
+  xy: 328, 260
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Kentrosaurus
   rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
+  xy: 328, 260
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Imperio da Grandeza
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-ResourceIcons/Kelenken
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Kaiwhekea
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game13.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-NationIcons/Merveilleuse Commande
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-ResourceIcons/Limestone
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-ResourceIcons/Marble
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Mapusaurus
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game14.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 BuildingIcons/Mod Hunt Place
   rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
+  xy: 868, 800
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mosque
   rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
+  xy: 976, 908
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Nasutoceratops
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Napoleon
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game15.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 BuildingIcons/Neighborhood
   rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
+  xy: 436, 260
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Notho Colocation
   rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
+  xy: 760, 584
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Nothosaurus
   rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
+  xy: 760, 584
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Neovenator
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Neovenator Rider
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game16.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 BuildingIcons/Nuclear Plant
   rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
+  xy: 868, 692
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Opetiosaurus
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-ResourceIcons/Ouranosaurus
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-ResourceIcons/Park
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game17.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 BuildingIcons/Park Creation
   rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
+  xy: 436, 152
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Peridot
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-ResourceIcons/Pinacosaurus
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-ResourceIcons/Platecarpus
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game18.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-ResourceIcons/Postosuchus
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-ResourceIcons/Prionosuchus
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Plotosaurus
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Prionosuchus Rider
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game19.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 BuildingIcons/Procerato Colocation
   rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
+  xy: 436, 44
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Proceratosaurus
   rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
+  xy: 436, 44
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Reeds
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Protoceratops
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Qianzhousaurus
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game20.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 BuildingIcons/Restaurant
   rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
+  xy: 868, 476
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Ruby
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Rock Elemental
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Rugops
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game21.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-ResourceIcons/Sapphire
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-ResourceIcons/Sea Scales
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-ResourceIcons/Seagrass
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-ResourceIcons/Seashells
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game22.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 BuildingIcons/Shoni Colocation
   rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
+  xy: 976, 476
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Shonisaurus
   rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
+  xy: 976, 476
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Siamosaurus
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Shastasaur Rider
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Siamosaurus Rider
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game23.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-NationIcons/Spiras Foria
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Skorpiovenator
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Stethacanthus 
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Stomatosuchus
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game24.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 BuildingIcons/Sunken Exportation
   rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
+  xy: 976, 368
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Sunken Quarry
   rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
+  xy: 1084, 476
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tany Colocation
   rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
+  xy: 1192, 584
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Tanystropheus
   rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
+  xy: 1192, 584
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Sunken
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game25.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-UnitIcons/Tapejara Rider
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Tek Becklespinax
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Tek Spino
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Tek Tapejara Rider
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game26.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-ResourceIcons/Topaz
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-ResourceIcons/Tsintaosaurus
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Total War Mecha
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Transhuman Champion
-  rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game27.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 BuildingIcons/Well
   rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
+  xy: 1516, 800
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Volcanic Ore
-  rotate: false
-  xy: 4, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-ResourceIcons/Whale Fat
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Tylosaurus
-  rotate: false
-  xy: 4, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-
-game28.png
-size: 2048, 1024
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 BuildingIcons/Wheelbarrow Manufacture
   rotate: false
-  xy: 4, 268
-  size: 752, 752
-  orig: 752, 752
+  xy: 868, 44
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Windmill
   rotate: false
-  xy: 764, 268
-  size: 752, 752
-  orig: 752, 752
+  xy: 976, 152
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-LeaderIcons/Brigitte
+ImprovementIcons/Acuatic Exploration
   rotate: false
-  xy: 4, 4
-  size: 256, 256
-  orig: 256, 256
+  xy: 4, 800
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-LeaderIcons/Evolet
+NationIcons/Alwahid hu Alsahih
   rotate: false
-  xy: 268, 4
-  size: 256, 256
-  orig: 256, 256
+  xy: 4, 584
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-LeaderIcons/Hafsa
+NationIcons/Germania
   rotate: false
-  xy: 532, 4
-  size: 256, 256
-  orig: 256, 256
+  xy: 112, 152
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-LeaderIcons/Irma
+NationIcons/Imperial America
   rotate: false
-  xy: 796, 4
-  size: 256, 256
-  orig: 256, 256
+  xy: 652, 692
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-LeaderIcons/Mehmet
+NationIcons/Imperio da Grandeza
   rotate: false
-  xy: 1060, 4
-  size: 256, 256
-  orig: 256, 256
+  xy: 868, 908
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-LeaderIcons/Mila
+NationIcons/Merveilleuse Commande
   rotate: false
-  xy: 1324, 4
-  size: 256, 256
-  orig: 256, 256
+  xy: 760, 692
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-LeaderIcons/Sophia
+NationIcons/Spiras Foria
   rotate: false
-  xy: 1524, 764
-  size: 256, 256
-  orig: 256, 256
+  xy: 1408, 908
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Sunken
+  rotate: false
+  xy: 868, 260
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Aluminium
+  rotate: false
+  xy: 220, 908
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Amethyst
+  rotate: false
+  xy: 112, 692
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Andrewsarchus
+  rotate: false
+  xy: 328, 908
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Anzu
+  rotate: false
+  xy: 112, 584
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Aquamarine
+  rotate: false
+  xy: 220, 692
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Coal
+  rotate: false
+  xy: 4, 260
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Coral
+  rotate: false
+  xy: 112, 368
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Dilong
+  rotate: false
+  xy: 328, 584
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Dilophosaur
+  rotate: false
+  xy: 436, 692
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Equus
+  rotate: false
+  xy: 220, 368
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Kelenken
+  rotate: false
+  xy: 220, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Limestone
+  rotate: false
+  xy: 436, 368
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Marble
+  rotate: false
+  xy: 652, 584
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Nasutoceratops
+  rotate: false
+  xy: 328, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Neovenator
+  rotate: false
+  xy: 544, 368
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Opetiosaurus
+  rotate: false
+  xy: 976, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Ouranosaurus
+  rotate: false
+  xy: 1084, 908
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Park
+  rotate: false
+  xy: 328, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Peridot
+  rotate: false
+  xy: 544, 260
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Pinacosaurus
+  rotate: false
+  xy: 652, 368
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Platecarpus
+  rotate: false
+  xy: 760, 476
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Postosuchus
+  rotate: false
+  xy: 976, 692
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Prionosuchus
+  rotate: false
+  xy: 1084, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Reeds
+  rotate: false
+  xy: 760, 368
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Ruby
+  rotate: false
+  xy: 1084, 692
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Sapphire
+  rotate: false
+  xy: 1300, 908
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Sea Scales
+  rotate: false
+  xy: 544, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Seagrass
+  rotate: false
+  xy: 652, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Seashells
+  rotate: false
+  xy: 760, 260
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Siamosaurus
+  rotate: false
+  xy: 1084, 584
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Topaz
+  rotate: false
+  xy: 868, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Tsintaosaurus
+  rotate: false
+  xy: 1192, 476
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Volcanic Ore
+  rotate: false
+  xy: 1408, 692
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Whale Fat
+  rotate: false
+  xy: 1624, 908
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Acrocanthosaurus
   rotate: false
-  xy: 1582, 666
+  xy: 4, 4
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Acuatic Exploration
   rotate: false
-  xy: 1788, 876
+  xy: 1084, 274
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Aluminium
   rotate: false
-  xy: 1524, 554
+  xy: 1250, 440
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Amethyst
   rotate: false
-  xy: 1698, 728
+  xy: 1300, 490
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Andrewsarchus
   rotate: false
-  xy: 1582, 630
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Anzu
-  rotate: false
-  xy: 1944, 992
+  xy: 1408, 598
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Anzu2
   rotate: false
-  xy: 1524, 518
+  xy: 1516, 706
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Aquamarine
   rotate: false
-  xy: 1738, 728
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Autumn Land
-  rotate: false
-  xy: 1788, 804
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Autumn Land+Forest
-  rotate: false
-  xy: 1984, 992
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Autumn Mountain
-  rotate: false
-  xy: 1524, 474
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Boreal
-  rotate: false
-  xy: 1524, 402
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Boreal+Forest
-  rotate: false
-  xy: 1524, 366
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Boreal+Hill
-  rotate: false
-  xy: 1524, 330
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Boreal+Hill+Forest
-  rotate: false
-  xy: 1524, 294
+  xy: 1574, 764
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Camp-Transcendence era
   rotate: false
-  xy: 1662, 594
+  xy: 1084, 234
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City center-Transcendence era
   rotate: false
-  xy: 1828, 854
+  xy: 1084, 190
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Coal
   rotate: false
-  xy: 1828, 818
+  xy: 84, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Coast-Transcendence era
   rotate: false
-  xy: 1828, 782
+  xy: 1870, 980
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Coral
   rotate: false
-  xy: 1904, 956
+  xy: 1084, 154
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Crocodile
   rotate: false
-  xy: 1944, 956
+  xy: 124, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Cryolophosaurus
   rotate: false
-  xy: 1984, 952
+  xy: 1910, 976
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Desert-Transcendence era
   rotate: false
-  xy: 1886, 920
+  xy: 164, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Dilong
   rotate: false
-  xy: 1926, 920
+  xy: 1950, 980
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Dilophosaur
   rotate: false
-  xy: 1886, 884
+  xy: 204, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Equus
   rotate: false
-  xy: 1868, 848
+  xy: 324, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Farm-Transcendence era
   rotate: false
-  xy: 1868, 808
+  xy: 364, 4
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Grassland-Transcendence era
   rotate: false
-  xy: 1828, 746
+  xy: 644, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland2
+  rotate: false
+  xy: 564, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland3
+  rotate: false
+  xy: 604, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/GrasslandForest2
+  rotate: false
+  xy: 684, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/GrasslandForest3
+  rotate: false
+  xy: 724, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Hainosaurus
   rotate: false
-  xy: 1868, 732
+  xy: 804, 4
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Kelenken
   rotate: false
-  xy: 1908, 704
+  xy: 1142, 296
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Kentrosaurus
   rotate: false
-  xy: 1948, 840
+  xy: 1250, 400
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Limestone
   rotate: false
-  xy: 1948, 804
+  xy: 1358, 512
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Marble
   rotate: false
-  xy: 1948, 732
+  xy: 1574, 728
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mountain-Transcendence era
   rotate: false
-  xy: 1948, 688
+  xy: 1124, 164
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mountain2
+  rotate: false
+  xy: 1124, 252
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mountain3
+  rotate: false
+  xy: 1124, 208
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Nasutoceratops
   rotate: false
-  xy: 1948, 652
+  xy: 1034, 80
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Neovenator
   rotate: false
-  xy: 1564, 554
+  xy: 1790, 944
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Neovenator2
   rotate: false
-  xy: 1564, 518
+  xy: 1830, 944
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Nothosaurus
   rotate: false
-  xy: 1564, 442
+  xy: 1910, 936
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ocean-Transcendence era
   rotate: false
-  xy: 1564, 406
+  xy: 1950, 944
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Opetiosaurus
   rotate: false
-  xy: 1564, 370
+  xy: 1990, 944
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ouranosaurus
   rotate: false
-  xy: 1564, 334
+  xy: 1192, 346
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ouranosaurus2
   rotate: false
-  xy: 1564, 298
+  xy: 1182, 310
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Pastizal-Transcendence era
   rotate: false
-  xy: 2006, 912
+  xy: 1232, 360
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Peridot
   rotate: false
-  xy: 2006, 876
+  xy: 1300, 454
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Pinacosaurus
   rotate: false
-  xy: 1988, 840
+  xy: 1290, 418
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Plains-Transcendence era
   rotate: false
-  xy: 1988, 804
+  xy: 1340, 476
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Platecarpus
   rotate: false
-  xy: 1988, 768
+  xy: 1340, 440
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Postosuchus
   rotate: false
-  xy: 1988, 696
+  xy: 1330, 404
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Prionosuchus
   rotate: false
-  xy: 1988, 660
+  xy: 1330, 368
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Prionosuchus2
   rotate: false
-  xy: 1702, 692
+  xy: 1408, 562
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Proceratosaurus
   rotate: false
-  xy: 1702, 616
+  xy: 1448, 580
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Reeds
   rotate: false
-  xy: 1742, 620
+  xy: 1506, 634
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ruby
   rotate: false
-  xy: 1782, 660
+  xy: 1556, 656
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Sapphire
   rotate: false
-  xy: 1822, 674
+  xy: 1614, 742
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Sea Scales
   rotate: false
-  xy: 1822, 638
+  xy: 1664, 800
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Seagrass
   rotate: false
-  xy: 1862, 660
+  xy: 1664, 764
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Seashells
   rotate: false
-  xy: 1702, 580
+  xy: 1732, 886
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Shonisaurus
   rotate: false
-  xy: 1822, 598
+  xy: 1812, 904
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Siamosaurus
   rotate: false
-  xy: 1862, 624
+  xy: 1852, 908
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Siamosaurus2
   rotate: false
-  xy: 1902, 632
+  xy: 1772, 872
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Sunken Coast
+TileSets/FantasyHex/Tiles/Swamp Zone2
   rotate: false
-  xy: 1782, 552
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Sunken Land
-  rotate: false
-  xy: 1742, 548
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Sunken Land+Forest
-  rotate: false
-  xy: 1942, 580
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Sunken Land2
-  rotate: false
-  xy: 1862, 552
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Sunken Land3
-  rotate: false
-  xy: 1902, 560
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Sunken Mountain
-  rotate: false
-  xy: 1822, 518
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Sunken Ocean
-  rotate: false
-  xy: 1782, 516
+  xy: 976, 22
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Tanystropheus
   rotate: false
-  xy: 1862, 512
+  xy: 1016, 40
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Temperate Land
-  rotate: false
-  xy: 1942, 472
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Temperate Land+Forest
-  rotate: false
-  xy: 1604, 558
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
 TileSets/FantasyHex/Tiles/Topaz
   rotate: false
-  xy: 1604, 522
+  xy: 1164, 152
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Tsintaosaurus
   rotate: false
-  xy: 1604, 414
+  xy: 1074, 82
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Tsintaosaurus2
   rotate: false
-  xy: 1604, 378
+  xy: 1164, 116
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Tundra-Transcendence era
   rotate: false
-  xy: 1604, 342
+  xy: 1124, 92
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Volcanic Ore
   rotate: false
-  xy: 1644, 558
+  xy: 1232, 324
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Whale Fat
   rotate: false
-  xy: 1644, 522
+  xy: 1272, 346
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Alpha Leedsicthys
   rotate: false
-  xy: 1846, 934
+  xy: 1142, 332
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Alpha Tylosaurus
   rotate: false
-  xy: 1904, 992
+  xy: 1192, 382
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Andrew Rider
   rotate: false
-  xy: 1622, 670
+  xy: 1358, 548
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Android Homodeus
   rotate: false
-  xy: 1788, 840
+  xy: 1466, 656
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Arthopleura
   rotate: false
-  xy: 1622, 634
+  xy: 1624, 814
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Astrocetus
   rotate: false
-  xy: 1582, 594
+  xy: 1682, 872
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Becklespinax
   rotate: false
-  xy: 1622, 598
+  xy: 1732, 922
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bloodthirsty War Criminal
   rotate: false
-  xy: 1788, 768
+  xy: 1790, 980
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bob-Germania
   rotate: false
-  xy: 1524, 438
+  xy: 976, 58
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/CR73L DICTATOR
   rotate: false
-  xy: 1662, 670
+  xy: 1034, 116
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cameroceras
   rotate: false
-  xy: 1662, 634
+  xy: 44, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Champion
   rotate: false
-  xy: 1846, 898
+  xy: 1830, 980
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Draconial Jeep
   rotate: false
-  xy: 1926, 884
+  xy: 1990, 980
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Elite Reaper
   rotate: false
-  xy: 1966, 916
+  xy: 244, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Enforcer
   rotate: false
-  xy: 1966, 880
+  xy: 284, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Fasolasuchus
   rotate: false
-  xy: 1908, 848
+  xy: 404, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/GR33N DE4TH
   rotate: false
-  xy: 1908, 812
+  xy: 444, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Genyodectes
   rotate: false
-  xy: 1868, 772
+  xy: 484, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gigantoraptor
   rotate: false
-  xy: 1908, 776
+  xy: 524, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gustav Weapon
   rotate: false
-  xy: 1788, 732
+  xy: 764, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Hydrotherosaurus
   rotate: false
-  xy: 1908, 740
+  xy: 844, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Imperial Theropod
   rotate: false
-  xy: 1828, 710
+  xy: 884, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Kaiwhekea
   rotate: false
-  xy: 1868, 696
+  xy: 924, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mapusaurus
   rotate: false
-  xy: 1948, 768
+  xy: 1466, 620
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Napoleon
   rotate: false
-  xy: 1908, 668
+  xy: 1682, 836
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Neovenator Rider
   rotate: false
-  xy: 1564, 482
+  xy: 1870, 944
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Plotosaurus
   rotate: false
-  xy: 1988, 732
+  xy: 1290, 382
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Prionosuchus Rider
   rotate: false
-  xy: 1702, 656
+  xy: 1398, 526
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Protoceratops
   rotate: false
-  xy: 1742, 692
+  xy: 1448, 544
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Red Cross-Germania
   rotate: false
-  xy: 1742, 656
+  xy: 1516, 670
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rock Elemental
   rotate: false
-  xy: 1782, 696
+  xy: 1556, 692
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rugops
   rotate: false
-  xy: 1782, 624
+  xy: 1624, 778
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-Transcendence era
   rotate: false
-  xy: 1742, 584
+  xy: 1722, 850
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Shastasaur Rider
   rotate: false
-  xy: 1782, 588
+  xy: 1772, 908
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Siamosaurus Rider
   rotate: false
-  xy: 1862, 588
+  xy: 1812, 868
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Skorpiovenator
   rotate: false
-  xy: 1902, 596
+  xy: 1852, 872
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Stethacanthus
   rotate: false
-  xy: 1942, 616
+  xy: 1892, 900
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Stomatosuchus
   rotate: false
-  xy: 1822, 562
+  xy: 1892, 864
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tapejara Rider
   rotate: false
-  xy: 1902, 524
+  xy: 1016, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tek Becklespinax
   rotate: false
-  xy: 1942, 544
+  xy: 1164, 260
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tek Spino
   rotate: false
-  xy: 1942, 508
+  xy: 1164, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tek Tapejara Rider
   rotate: false
-  xy: 1902, 488
+  xy: 1164, 188
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Total War Mecha
   rotate: false
-  xy: 1604, 486
+  xy: 1124, 128
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Transhuman Champion
   rotate: false
-  xy: 1604, 450
+  xy: 1084, 118
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tylosaurus
   rotate: false
-  xy: 1604, 306
+  xy: 1164, 80
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+UnitIcons/Albertosaurus
+  rotate: false
+  xy: 112, 908
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Alpha Leedsicthys
+  rotate: false
+  xy: 4, 692
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Alpha Tylosaurus
+  rotate: false
+  xy: 112, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Andrew Rider
+  rotate: false
+  xy: 220, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Android Homodeus
+  rotate: false
+  xy: 4, 476
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Arthopleura
+  rotate: false
+  xy: 328, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Astrocetus
+  rotate: false
+  xy: 436, 908
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Becklespinax
+  rotate: false
+  xy: 4, 368
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Bloodthirsty War Criminal
+  rotate: false
+  xy: 112, 476
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/CR73L DICTATOR
+  rotate: false
+  xy: 220, 584
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Cameroceras
+  rotate: false
+  xy: 328, 692
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Champion
+  rotate: false
+  xy: 436, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Draconial Jeep
+  rotate: false
+  xy: 652, 908
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Elite Reaper
+  rotate: false
+  xy: 4, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Enforcer
+  rotate: false
+  xy: 112, 260
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Fasolasuchus
+  rotate: false
+  xy: 436, 584
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/GR33N DE4TH
+  rotate: false
+  xy: 760, 908
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Genyodectes
+  rotate: false
+  xy: 4, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Gigantoraptor
+  rotate: false
+  xy: 220, 260
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Gustav Weapon
+  rotate: false
+  xy: 328, 368
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Hydrotherosaurus
+  rotate: false
+  xy: 544, 584
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Imperial Theropod
+  rotate: false
+  xy: 760, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Kaiwhekea
+  rotate: false
+  xy: 112, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mapusaurus
+  rotate: false
+  xy: 544, 476
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Napoleon
+  rotate: false
+  xy: 220, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Neovenator Rider
+  rotate: false
+  xy: 652, 476
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Plotosaurus
+  rotate: false
+  xy: 868, 584
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Prionosuchus Rider
+  rotate: false
+  xy: 1192, 908
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Protoceratops
+  rotate: false
+  xy: 544, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Qianzhousaurus
+  rotate: false
+  xy: 652, 260
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rock Elemental
+  rotate: false
+  xy: 976, 584
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rugops
+  rotate: false
+  xy: 1192, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Shastasaur Rider
+  rotate: false
+  xy: 868, 368
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Siamosaurus Rider
+  rotate: false
+  xy: 1192, 692
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Skorpiovenator
+  rotate: false
+  xy: 1300, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stethacanthus 
+  rotate: false
+  xy: 652, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stomatosuchus
+  rotate: false
+  xy: 760, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tapejara Rider
+  rotate: false
+  xy: 1300, 692
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tek Becklespinax
+  rotate: false
+  xy: 1408, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tek Spino
+  rotate: false
+  xy: 1516, 908
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tek Tapejara Rider
+  rotate: false
+  xy: 760, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Total War Mecha
+  rotate: false
+  xy: 976, 260
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Transhuman Champion
+  rotate: false
+  xy: 1084, 368
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tylosaurus
+  rotate: false
+  xy: 1300, 584
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Bloody Hate
   rotate: false
-  xy: 1524, 706
+  xy: 1084, 310
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Demolitio Circuitus
   rotate: false
-  xy: 1788, 970
+  xy: 1192, 418
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Divine I
   rotate: false
-  xy: 1524, 648
+  xy: 1300, 526
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Divine II
   rotate: false
-  xy: 1524, 648
+  xy: 1300, 526
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Divine III
   rotate: false
-  xy: 1524, 648
+  xy: 1300, 526
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Forest Hater
   rotate: false
-  xy: 1582, 706
+  xy: 1408, 634
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Insanity Mostrum
   rotate: false
-  xy: 1788, 912
+  xy: 1516, 742
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Interfectorem Circuitus
   rotate: false
-  xy: 1846, 970
+  xy: 1624, 850
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Kind of Heart
   rotate: false
-  xy: 1524, 590
+  xy: 1732, 958
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Terror I
   rotate: false
-  xy: 1640, 706
+  xy: 976, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Terror II
   rotate: false
-  xy: 1640, 706
+  xy: 976, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Terror III
   rotate: false
-  xy: 1640, 706
+  xy: 976, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0

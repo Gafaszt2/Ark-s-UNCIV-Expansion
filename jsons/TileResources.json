@@ -3,111 +3,111 @@
 	{
 		"name": "Tsintaosaurus",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Grassland","Sunken Land"],
+		"terrainsCanBeFoundOn": ["Grassland"],
 		"food": 1,
 		"improvement": "Camp",
 		"improvementStats": {"food": 1},
-		"uniques": ["Generated on every [36] tiles <in [Featureless] [Grassland] tiles>",
-					"Generated on every [44] tiles <in [Featureless] [Grassland] tiles> <in [Hill] Regions>"]
+		"uniques": ["Generated on every [306] tiles <in [Featureless] [Grassland] tiles>",
+					"Generated on every [404] tiles <in [Featureless] [Grassland] tiles> <in [Hill] Regions>"]
 	},
         {
 		"name": "Dilophosaur",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Grassland","Sunken Land"],
+		"terrainsCanBeFoundOn": ["Grassland"],
 		"food": 1,
 		"improvement": "Camp",
 		"improvementStats": {"food": 1},
-		"uniques": ["Generated on every [89] tiles <in [Featureless] [Grassland] tiles>",
+		"uniques": ["Generated on every [809] tiles <in [Featureless] [Grassland] tiles>",
 					"Generated on every [400] tiles <in [Featureless] [Grassland] tiles> <in [Hill] Regions>"]
 	},
         {
 		"name": "Pinacosaurus",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Hill","Sunken Land"],
+		"terrainsCanBeFoundOn": ["Hill"],
 		"production": 1,
 		"improvement": "Camp",
 		"improvementStats": {"production": 1},
-		"uniques": ["Generated on every [37] tiles <in [Featureless] [Grassland] tiles>",
-					"Generated on every [44] tiles <in [Featureless] [Grassland] tiles> <in [Hill] Regions>"]
+		"uniques": ["Generated on every [307] tiles <in [Featureless] [Grassland] tiles>",
+					"Generated on every [404] tiles <in [Featureless] [Grassland] tiles> <in [Hill] Regions>"]
 	},
         {
 		"name": "Ouranosaurus",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Desert","Sunken Land"],
+		"terrainsCanBeFoundOn": ["Desert"],
 		"food": 1,
 		"improvement": "Camp",
 		"improvementStats": {"culture": 1},
-		"uniques": ["Generated on every [40] tiles <in [Featureless] [Desert] tiles>",
-					"Generated on every [50] tiles <in [Featureless] [Desert] tiles> <in [Hill] Regions>"]
+		"uniques": ["Generated on every [400] tiles <in [Featureless] [Desert] tiles>",
+					"Generated on every [500] tiles <in [Featureless] [Desert] tiles> <in [Hill] Regions>"]
 	},
         {
 		"name": "Postosuchus",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Plains","Forest","Sunken Land"],
+		"terrainsCanBeFoundOn": ["Plains","Forest"],
 		"food": 1,
 		"improvement": "Camp",
 		"improvementStats": {"culture": 1},
-		"uniques": ["Generated on every [40] tiles <in [Featureless] [Plains] tiles>",
-					"Generated on every [70] tiles <in [Forest] tiles>"]
+		"uniques": ["Generated on every [400] tiles <in [Featureless] [Plains] tiles>",
+					"Generated on every [700] tiles <in [Forest] tiles>"]
 	},
         {
 		"name": "Nasutoceratops",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Forest","Sunken Land"],
+		"terrainsCanBeFoundOn": ["Forest"],
 		"food": 1,
 		"improvement": "Camp",
 		"improvementStats": {"faith": 1},
-		"uniques": ["Generated on every [40] tiles <in [Forest] tiles>"]
+		"uniques": ["Generated on every [400] tiles <in [Forest] tiles>"]
 	},
         {
 		"name": "Anzu",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Forest","Hill","Sunken Land"],
+		"terrainsCanBeFoundOn": ["Forest","Hill"],
 		"gold": 1,
 		"improvement": "Camp",
 		"improvementStats": {"culture": 1},
-		"uniques": ["Generated on every [700] tiles <in [Hill] tiles>", "Generated on every [700] tiles <in [Forest] tiles>"]
+		"uniques": ["Generated on every [7000] tiles <in [Hill] tiles>", "Generated on every [700] tiles <in [Forest] tiles>"]
 	},
         {
 		"name": "Dilong",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Jungle","Swamp Zone","Sunken Land"],
+		"terrainsCanBeFoundOn": ["Jungle"],
 		"culture": 1,
 		"improvement": "Camp",
 		"improvementStats": {"happiness": 1},
-		"uniques": ["Generated on every [700] tiles <in [Jungle] tiles>", "Generated on every [100] tiles <in [Swamp Zone] tiles>"]
+		"uniques": ["Generated on every [7000] tiles <in [Jungle] tiles>", "Generated on every [100] tiles <in [Swamp Zone] tiles>"]
 	},
         {
 		"name": "Kelenken",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Plains","Forest","Sunken Land"],
+		"terrainsCanBeFoundOn": ["Plains","Forest"],
 		"culture": 1,
 		"improvement": "Camp",
 		"improvementStats": {"faith": 1},
-		"uniques": ["Generated on every [700] tiles <in [Plains] tiles>", "Generated with weight [35] <in [Plains] Regions>", "Generated on every [700] tiles <in [Forest] tiles>"]
+		"uniques": ["Generated on every [7000] tiles <in [Plains] tiles>", "Generated with weight [35] <in [Plains] Regions>", "Generated on every [700] tiles <in [Forest] tiles>"]
 	},
         {
 		"name": "Neovenator",
 		"resourceType": "Strategic",
-		"terrainsCanBeFoundOn": ["Hill","Sunken Land"],
+		"terrainsCanBeFoundOn": ["Hill",],
 		"production": 1,
 		"improvement": "Camp",
 		"improvementStats": {"gold": 1},
-		"uniques": ["Generated on every [700] tiles <in [Hill] tiles>", "Generated with weight [35] <in [Tundra] Regions>"]
+		"uniques": ["Generated on every [1700] tiles <in [Hill] tiles>", "Generated with weight [35] <in [Tundra] Regions>"]
 	},
         {
 		"name": "Siamosaurus",
 		"resourceType": "Strategic",
-		"terrainsCanBeFoundOn": ["Swamp Zone","Sunken Land"],
+		"terrainsCanBeFoundOn": ["Swamp Zone"],
 		"production": 1,
 		"improvement": "Camp",
 		"improvementStats": {"happiness": 1},
-		"uniques": ["Generated on every [330] tiles <in [Swamp Zone] tiles>"]
+		"uniques": ["Generated on every [1330] tiles <in [Swamp Zone] tiles>"]
 	},
         {
 		"name": "Prionosuchus",
 		"resourceType": "Strategic",
-		"terrainsCanBeFoundOn": ["Coast","Sunken Coast"],
+		"terrainsCanBeFoundOn": ["Coast"],
 		"gold": 1,
 		"improvement": "Fishing Boats",
 		"improvementStats": {"food": 1},
@@ -134,18 +134,18 @@
         {
 		"name": "Reeds",
 		"resourceType": "Strategic",
-		"terrainsCanBeFoundOn": ["Sunken Land","Grassland"],
+		"terrainsCanBeFoundOn": ["Grassland"],
 		"food": 1,
 		"improvement": "Farm",
 		"improvementStats": {"production": 1},
-                "uniques": ["Generated on every [320] tiles <in [Grassland] tiles>"]
+                "uniques": ["Generated on every [2020] tiles <in [Grassland] tiles>"]
 	},
         {
 		"name": "Seagrass",
 		"resourceType": "Strategic",
                 "revealedBy": "Slingshot",
-		"terrainsCanBeFoundOn": ["Sunken Coast","Coast"],
-                "uniques": ["Generated on every [320] tiles <in [Coast] tiles>"]
+		"terrainsCanBeFoundOn": ["Coast"],
+                "uniques": ["Generated on every [220] tiles <in [Coast] tiles>"]
 		"food": 1,
 		"improvement": "Acuatic Exploration",
 		"improvementStats": {"production": 1},
@@ -154,8 +154,8 @@
 		"name": "Sea Scales",
 		"resourceType": "Strategic",
                 "revealedBy": "Dock",
-                "uniques": ["Generated on every [520] tiles <in [Ocean] tiles>"]
-		"terrainsCanBeFoundOn": ["Sunken Ocean","Ocean"],
+                "uniques": ["Generated on every [320] tiles <in [Ocean] tiles>"]
+		"terrainsCanBeFoundOn": ["Ocean"],
 		"production": 1,
 		"improvement": "Acuatic Exploration",
 		"improvementStats": {"gold": 1},
@@ -164,7 +164,7 @@
 		"name": "Seashells",
                 "revealedBy": "Fabricator",
 		"resourceType": "Strategic",
-		"terrainsCanBeFoundOn": ["Sunken Coast","Coast"],
+		"terrainsCanBeFoundOn": ["Coast"],
                 "uniques": ["Generated on every [320] tiles <in [Coast] tiles>"]
 		"culture": 1,
 		"improvement": "Acuatic Exploration",
@@ -174,17 +174,17 @@
 		"name": "Volcanic Ore",
 		"resourceType": "Strategic",
                 "revealedBy": "Auto Torret",
-		"terrainsCanBeFoundOn": ["Sunken Ocean","Ocean"],
+		"terrainsCanBeFoundOn": ["Ocean"],
 		"science": 1,
-                "uniques": ["Generated on every [420] tiles <in [Ocean] tiles>"]
+                "uniques": ["Generated on every [320] tiles <in [Ocean] tiles>"]
 		"improvement": "Acuatic Exploration",
 		"improvementStats": {"science": 1},
 	},
         {
 		"name": "Coral",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Sunken Coast","Coast"],
-                "uniques": ["Generated on every [920] tiles <in [Coast] tiles>"]
+		"terrainsCanBeFoundOn": ["Coast"],
+                "uniques": ["Generated on every [420] tiles <in [Coast] tiles>"]
 		"production": 1,
 		"improvement": "Acuatic Exploration",
 		"improvementStats": {"production": 1},
@@ -192,8 +192,8 @@
         {
 		"name": "Marble",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Sunken Land","Plains"],
-                "uniques": ["Generated on every [920] tiles <in [Plains] tiles>"]
+		"terrainsCanBeFoundOn": ["Plains"],
+                "uniques": ["Generated on every [9020] tiles <in [Plains] tiles>"]
 		"gold": 1,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1},
@@ -201,49 +201,55 @@
         {
 		"name": "Limestone",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Sunken Land"],
+		"terrainsCanBeFoundOn": ["Plains"],
 		"production": 1,
 		"improvement": "Mine",
+                "uniques": ["Generated on every [9020] tiles <in [Plains] tiles>"]
 		"improvementStats": {"production": 1},
 	},
         {
 		"name": "Whale Fat",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Sunken Land"],
+		"terrainsCanBeFoundOn": ["Plains"],
 		"science": 1,
 		"improvement": "Camp",
+                "uniques": ["Generated on every [9020] tiles <in [Plains] tiles>"]
 		"improvementStats": {"culture": 1},
 	},
         {
 		"name": "Equus",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Autumn Land","Temperate Land"],
+		"terrainsCanBeFoundOn": ["Grassland"],
 		"food": 1,
 		"improvement": "Camp",
+                "uniques": ["Generated on every [7000] tiles <in [Grassland] tiles>"]
 		"improvementStats": {"food": 1},
 	},
         {
 		"name": "Andrewsarchus",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Autumn Land","Temperate Land"],
+		"terrainsCanBeFoundOn": ["Grassland"],
 		"food": 1,
 		"improvement": "Camp",
+                "uniques": ["Generated on every [7000] tiles <in [Grassland] tiles>"]
 		"improvementStats": {"production": 1},
 	},
         {
 		"name": "Coal",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Autumn Land","Temperate Land"],
+		"terrainsCanBeFoundOn": ["Grassland"],
 		"production": 1,
 		"improvement": "Mine",
+                "uniques": ["Generated on every [7000] tiles <in [Grassland] tiles>"]
 		"improvementStats": {"production": 1},
 	},
         {
 		"name": "Aluminium",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Autumn Land","Temperate Land"],
+		"terrainsCanBeFoundOn": ["Grassland"],
 		"production": 1,
 		"improvement": "Mine",
+                "uniques": ["Generated on every [7000] tiles <in [Grassland] tiles>"]
 		"improvementStats": {"science": 1},
 	},
         {
@@ -254,7 +260,7 @@
                 "production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1},
-                "uniques": ["Generated on every [700] tiles <in [Hill] tiles>"]
+                "uniques": ["Generated on every [7000] tiles <in [Hill] tiles>"]
 	},
         {
 		"name": "Ruby",
@@ -264,7 +270,7 @@
                 "production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1},
-                "uniques": ["Generated on every [700] tiles <in [Hill] tiles>"]
+                "uniques": ["Generated on every [7000] tiles <in [Hill] tiles>"]
 	},
         {
 		"name": "Peridot",
@@ -274,7 +280,7 @@
                 "production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1},
-                "uniques": ["Generated on every [700] tiles <in [Hill] tiles>"]
+                "uniques": ["Generated on every [7000] tiles <in [Hill] tiles>"]
 	},
         {
 		"name": "Amethyst",
@@ -284,7 +290,7 @@
                 "production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1},
-                "uniques": ["Generated on every [700] tiles <in [Hill] tiles>"]
+                "uniques": ["Generated on every [7000] tiles <in [Hill] tiles>"]
 	},
         {
 		"name": "Aquamarine",
@@ -294,7 +300,7 @@
                 "production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1},
-                "uniques": ["Generated on every [700] tiles <in [Hill] tiles>"]
+                "uniques": ["Generated on every [7000] tiles <in [Hill] tiles>"]
 	},
         {
 		"name": "Topaz",
@@ -304,113 +310,7 @@
                 "production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1},
-                "uniques": ["Generated on every [700] tiles <in [Hill] tiles>"]
-	},
-        	{
-		"name": "Fiber",
-		"resourceType": "Strategic",
-		"terrainsCanBeFoundOn": ["Plains","Grassland","Hill","Aberrant Blue Zone","Aberrant Green Zone","Aberrant Pink Zone","Dead Land","Fallout Land","Genesis Soil","Tek Soil","Autumn Land","Temperate Land","Boreal"], // Hill only if plains or grassland
-		"production": 1,
-		"improvement": "Pasture",
-		"improvementStats": {"production": 1},
-		"uniques": ["Guaranteed with Strategic Balance resource option",
-					"Generated with weight [100] <in [Featureless] [Grassland] tiles>",
-					"Generated with weight [100] <in [Featureless] [Plains] tiles>",
-                                        "Generated on every [10] tiles <in [Aberrant Green Zone] tiles>"
-					"Minor deposits generated with weight [10] <in [Grassland] [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
-					"Minor deposits generated with weight [10] <in [Plains] [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
-					"Minor deposits generated with weight [100] <in [Featureless] [Grassland] tiles> <in [Fresh Water] tiles>",
-					"Minor deposits generated with weight [20] <in [Featureless] [Grassland] tiles> <in tiles without [Fresh Water]>",
-					"Minor deposits generated with weight [30] <in [Featureless] [Plains] tiles>"],
-		"majorDepositAmount": {"sparse": 4, "default": 4, "abundant": 6},
-		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
-	},
-	{
-		"name": "Thatch",
-		"resourceType": "Strategic",
-		"terrainsCanBeFoundOn": ["Grassland","Plains","Desert","Tundra","Snow","Hill","Marsh","Aberrant Blue Zone","Aberrant Green Zone","Aberrant Pink Zone","Dead Land","Fallout Land","Genesis Soil","Tek Soil","Autumn Land","Temperate Land","Boreal"],
-		"production": 1,
-		"improvement": "Mine",
-		"uniques": ["Guaranteed with Strategic Balance resource option",
-					"Generated with weight [45] <in [Featureless] [Tundra] tiles>",
-					"Generated with weight [25] <in [Featureless] [Snow] tiles>",
-					"Generated with weight [35] <in [Featureless] [Desert] tiles>",
-					"Generated with weight [26] <in [Hill] tiles>",
-                                        "Generated on every [10] tiles <in [Aberrant Green Zone] tiles>"
-					"Minor deposits generated with weight [10] <in [Marsh] tiles> <in tiles without [Hill]>",
-					"Minor deposits generated with weight [10] <in [Jungle] [Hill] tiles>",
-					"Minor deposits generated with weight [20] <in [Forest] tiles>",
-					"Minor deposits generated with weight [20] <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
-					"Minor deposits generated with weight [30] <in [Featureless] [Grassland] tiles> <in tiles without [Fresh Water]>",
-					"Minor deposits generated with weight [20] <in [Featureless] [Plains] tiles>",
-					"Minor deposits generated with weight [10] <in [Featureless] [Desert] tiles>",
-					"Minor deposits generated with weight [10] <in [Featureless] [Tundra] tiles>",
-					"Minor deposits generated with weight [10] <in [Featureless] [Snow] tiles>"],
-		"majorDepositAmount": {"sparse": 4, "default": 6, "abundant": 9},
-		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
-	},
-	{
-		"name": "Wood",
-		"resourceType": "Strategic",
-		"terrainsCanBeFoundOn": ["Grassland","Plains","Hill","Jungle","Forest","Marsh","Aberrant Blue Zone","Aberrant Green Zone","Aberrant Pink Zone","Dead Land","Fallout Land","Genesis Soil","Tek Soil","Autumn Land","Temperate Land","Boreal"],
-		"production": 1,
-		"improvement": "Mine",
-		"improvementStats": {"production": 1},
-		"uniques": ["Generated with weight [35] <in [Hill] tiles>",
-					"Generated with weight [30] <in [Jungle] tiles> <in tiles without [Hill]>",
-					"Generated with weight [30] <in [Forest] tiles> <in tiles without [Hill]>",
-					"Minor deposits generated with weight [10] <in [Marsh] tiles> <in tiles without [Hill]>",
-					"Minor deposits generated with weight [10] <in [Jungle] tiles>",
-                                        "Generated on every [10] tiles <in [Aberrant Green Zone] tiles>"
-					"Minor deposits generated with weight [10] <in [Forest] tiles>",
-					"Minor deposits generated with weight [20] <in [Grassland] [Hill] tiles>",
-					"Minor deposits generated with weight [20] <in [Plains] [Hill] tiles>",
-					"Minor deposits generated with weight [30] <in [Desert] [Hill] tiles>",
-					"Minor deposits generated with weight [30] <in [Tundra] [Hill] tiles>",
-					"Minor deposits generated with weight [30] <in [Snow] [Hill] tiles>"],
-		"majorDepositAmount": {"sparse": 5, "default": 7, "abundant": 10},
-		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 3}
-	},
-	{
-		"name": "Chitin",
-                "revealedBy": "Spike Wall",
-		"resourceType": "Strategic",
-		"terrainsCanBeFoundOn": ["Desert","Plains","Tundra","Snow","Marsh","Jungle","Aberrant Blue Zone","Aberrant Green Zone","Aberrant Pink Zone","Dead Land","Fallout Land","Genesis Soil","Tek Soil","Autumn Land","Temperate Land","Boreal"],
-		"production": 1,
-		"improvedBy": ["Mine"],
-		"improvementStats": {"production": 3},
-		"uniques": ["Deposits in [Coast] tiles always provide [4] resources",
-					"Guaranteed with Strategic Balance resource option",
-					"Generated with weight [65] <in [Marsh] tiles> <in tiles without [Hill]>",
-					"Generated with weight [40] <in [Featureless] [Tundra] tiles>",
-					"Generated with weight [60] <in [Featureless] [Snow] tiles>",
-					"Generated with weight [65] <in [Featureless] [Desert] tiles>",
-					"Generated with weight [100] <in [Featureless] [Coast] tiles>",
-					"Minor deposits generated with weight [20] <in [Marsh] tiles> <in tiles without [Hill]>",
-					"Minor deposits generated with weight [10] <in [Jungle] tiles> <in tiles without [Hill]>",
-					"Minor deposits generated with weight [10] <in [Featureless] [Desert] tiles>",
-					"Minor deposits generated with weight [20] <in [Featureless] [Tundra] tiles>",
-					"Minor deposits generated with weight [20] <in [Featureless] [Snow] tiles>"],
-		"majorDepositAmount": {"sparse": 5, "default": 7, "abundant": 9},
-		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 3}
-	},
-	{
-		"name": "Metal",
-                "revealedBy": "Smithy",
-		"resourceType": "Strategic",
-		"terrainsCanBeFoundOn": ["Desert","Tundra","Hill","Snow","Jungle","Aberrant Blue Zone","Aberrant Green Zone","Aberrant Pink Zone","Dead Land","Fallout Land","Genesis Soil","Tek Soil","Autumn Land","Temperate Land","Boreal"],
-		"production": 1,
-		"improvement": "Mine",
-		"improvementStats": {"production": 1},
-		"uniques": ["Generated with weight [15] <in [Featureless] [Tundra] tiles>",
-					"Generated with weight [15] <in [Featureless] [Snow] tiles>",
-					"Generated with weight [39] <in [Hill] tiles>",
-                                        "Generated on every [10] tiles <in [Aberrant Green Zone] tiles>"
-					"Minor deposits generated with weight [20] <in [Jungle] tiles>",
-					"Minor deposits generated with weight [10] <in [Featureless] [Desert] tiles>"],
-		"majorDepositAmount": {"sparse": 5, "default": 8, "abundant": 10},
-                "uniques": ["Generated on every [7] tiles <in [Genesis Soil] tiles>"]
-		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 3}
+                "uniques": ["Generated on every [7000] tiles <in [Hill] tiles>"]
 	},
         {
 		"name": "Park",
