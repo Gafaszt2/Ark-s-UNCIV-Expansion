@@ -12,6 +12,17 @@
 		"attackSound": "dinoroar"
 	},
         {
+		"name": "Mesosaurus",
+                "upgradesTo": "Plesio Rider",
+		"unitType": "Melee Water",
+		"movement": 3,
+		"strength": 33,
+		"cost": 158,
+		"requiredTech": "Fishing Rod",
+                "obsoleteTech": "Dock",
+		"attackSound": "dinoroar"
+	},
+        {
 		"name": "Neovenator Rider",
                 "obsoleteTech": "Transhumanism",
                 "upgradesTo": "Giga Rider",
@@ -152,10 +163,20 @@
 		"movement": 3,
 		"strength": 18,
 		"cost": 65,
-                "uniques": ["Can also be produced in cities next to [Sunken Coast]"]
 		"requiredTech": "Slingshot",
                 "obsoleteTech": "Raft",
                 "requiredResource": "Seagrass",
+		"attackSound": "dinoroar"
+	},
+        {
+		"name": "Simolestes",
+                "upgradesTo": "Megalodon Rider",
+		"unitType": "Melee Water",
+		"movement": 3,
+		"strength": 18,
+		"cost": 70,
+		"requiredTech": "Slingshot",
+                "obsoleteTech": "Raft",
 		"attackSound": "dinoroar"
 	},
         {
@@ -178,7 +199,6 @@
 		"movement": 3,
 		"strength": 32,
 		"cost": 120,
-                "uniques": ["Can also be produced in cities next to [Sunken Coast]"]
 		"requiredTech": "Fishing Rod",
                 "requiredResource": "Sea Scales",
 		"attackSound": "dinoroar"
@@ -192,8 +212,18 @@
 		"cost": 320,
 		"requiredTech": "Auto Torret",
                 "obsoleteTech": "Tek Sword",
-                "uniques": ["Can also be produced in cities next to [Sunken Coast]"]
                 "requiredResource": "Volcanic Ore",
+		"attackSound": "dinoroar"
+	},
+        {
+		"name": "Dakosaurus",
+                "upgradesTo": "Alpha Tylosaurus",
+		"unitType": "Melee Water",
+		"movement": 2,
+		"strength": 135,
+		"cost": 329,
+		"requiredTech": "Auto Torret",
+                "obsoleteTech": "Tek Sword",
 		"attackSound": "dinoroar"
 	},
         {
@@ -205,7 +235,6 @@
 		"requiredTech": "Tek Sword",
                 "requiredResource": "Volcanic Ore",
                 "obsoleteTech": "Tek Pistols",
-                "uniques": ["Can also be produced in cities next to [Sunken Coast]"]
 		"attackSound": "dinoroar"
 	},
         {
@@ -215,7 +244,6 @@
 		"movement": 2,
 		"strength": 500,
 		"cost": 390,
-                "uniques": ["Can also be produced in cities next to [Sunken Coast]"]
 		"requiredTech": "Tek Pistols",
                 "requiredResource": "Volcanic Ore",
 		"attackSound": "dinoroar"
@@ -718,6 +746,32 @@
 		"attackSound": "herb"
 	},
         {
+		"name": "Nigersaurus",
+		"unitType": "Destroyer of Theropods",
+		"movement": 3,
+		"strength": 14,
+		"cost": 125,
+		"requiredTech": "Slingshot",
+                "upgradesTo": "Kapro Rider",
+                "obsoleteTech": "Professional Domestication",
+		"uniques": ["Can move after attacking", "[+15]% Strength <when fighting in [Grassland] tiles>"],
+		"hurryCostModifier": 20,
+		"attackSound": "herb"
+	},
+        {
+		"name": "Alamosaurus",
+		"unitType": "Destroyer of Theropods",
+		"movement": 3,
+		"strength": 14,
+		"cost": 125,
+		"requiredTech": "Slingshot",
+                "upgradesTo": "Kapro Rider",
+                "obsoleteTech": "Professional Domestication",
+		"uniques": ["Can move after attacking", "[+15]% Strength <when fighting in [Hill] tiles>"],
+		"hurryCostModifier": 20,
+		"attackSound": "herb"
+	},
+        {
 		"name": "Europasaurus",
 		"unitType": "Destroyer of Theropods",
                 "obsoleteTech": "Canteen",
@@ -771,7 +825,7 @@
 		"unitType": "Mounted",
                 "obsoleteTech": "Spike Wall",
 		"movement": 2,
-		"strength": 17,
+		"strength": 15,
 		"cost": 120,
 		"requiredTech": "Raft",
                 "uniques": ["[+15]% Strength <when fighting in [Hill] tiles>"]
@@ -823,5 +877,44 @@
 		"cost": 225,
 		"requiredTech": "Chainsaw",
 		"attackSound": "chain"
+	},
+        {
+		"name": "Atopodentatus",
+                "obsoleteTech": "GPS",
+                "upgradesTo": "Dunkleosteous Rider",
+		"unitType": "Melee Water",
+		"movement": 3,
+		"strength": 40,
+                "uniques": ["[+10]% Strength <when fighting in [Bonus resource] tiles>", "[+10% Strength <when fighting in [Strategic resource] tiles>"]
+		"cost": 140,
+		"requiredTech": "Dock",
+		"attackSound": "dinoroar"
+	},
+        {
+		"name": "Elasmosaurus",
+                "obsoleteTech": "GPS",
+                "upgradesTo": "Dunkleosteous Rider",
+		"unitType": "Melee Water",
+		"movement": 3,
+		"strength": 40,
+                "uniques": ["[+20]% Strength <when fighting in [Ocean] tiles>", "[+10% Strength <when fighting in [Strategic resource] tiles>"]
+		"cost": 140,
+		"requiredTech": "Dock",
+		"attackSound": "dinoroar"
+	},
+        {
+		"name": "Oxalaia",
+                "upgradesTo": "Giga Rider",
+		"unitType": "Mounted",
+		"movement": 2,
+		"strength": 60,
+		"cost": 210,
+		"requiredTech": "Chain Bola",
+                "obsoleteTech": "Tek Shield",
+		"uniques": ["Can move after attacking", "[+20]% Strength <when fighting in [Coast] tiles>", "[+20]% Strength <when fighting in [Jungle] tiles>"],
+		"hurryCostModifier": 20,
+                "requiredResource": "Metal",
+                "promotions": ["Amphibious"],
+		"attackSound": "dinoroar"
 	},
 ]
