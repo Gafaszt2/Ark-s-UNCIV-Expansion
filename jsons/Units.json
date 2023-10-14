@@ -314,6 +314,33 @@
 		"attackSound": "missile"
 	},
         {
+		"name": "Tek Corrupted Azdarcho",
+                "obsoleteTech": "Transhumanism",
+                "upgradesTo": "Tek Corrupted Fasolasuchus",
+		"unitType": "Corrupted",
+		"movement": 4,
+		"strength": 280,
+		"cost": 380,
+              "requiredResource": "Extinction Nodule",
+		"requiredTech": "Tek Shield",
+		"uniques": ["[+60]% Strength <vs cities>", "Can move after attacking"],
+		"hurryCostModifier": 20,
+		"attackSound": "missile"
+	},
+        {
+		"name": "Tek Corrupted Fasolasuchus",
+                "obsoleteTech": "Transhumanism",
+		"unitType": "Mounted",
+		"movement": 3,
+		"strength": 340,
+		"cost": 340,
+                "requiredResource": "Extinction Nodule",
+		"requiredTech": "Tek Riffle",
+		"uniques": ["[+20]% Strength <vs cities>","[+20]% Strength <vs [Siege] units>", "Can move after attacking"],
+		"hurryCostModifier": 20,
+		"attackSound": "dinoroar"
+	},
+        {
 		"name": "Andrew Rider",
                 "requiredResource": "Andrewsarchus"
 		"unitType": "Mounted",
@@ -631,6 +658,81 @@
                 "uniques": ["Can build [Land] improvements on tiles"],
         },
         {
+		"name": "Dinopithecus King",
+                "requiredResource": "Heart of the Shadows"
+		"unitType": "Boss",
+		"movement": 1,
+		"strength": 400,
+		"cost": 700,
+		"attackSound": "chari"
+                "requiredTech": "Transhumanism",
+                "uniques": ["[+25]% Strength <when fighting in [Jungle] tiles>"],
+        },
+        {
+		"name": "Fenrir",
+                "requiredResource": "Heart of the Shadows"
+		"unitType": "Boss",
+		"movement": 1,
+		"strength": 400,
+		"cost": 700,
+		"attackSound": "chari"
+                "requiredTech": "Transhumanism",
+                "uniques": ["[+25]% Strength <when fighting in [Tundra] tiles>"],
+        },
+        {
+		"name": "Dragon",
+                "requiredResource": "Heart of the Shadows"
+		"unitType": "Boss",
+		"movement": 1,
+		"strength": 400,
+		"cost": 700,
+		"attackSound": "chari"
+                "requiredTech": "Transhumanism",
+                "uniques": ["[+25]% Strength <when fighting in [Hill] tiles>"],
+        },
+        {
+		"name": "Broodmother",
+                "requiredResource": "Heart of the Shadows"
+		"unitType": "Boss",
+		"movement": 1,
+		"strength": 400,
+		"cost": 700,
+		"attackSound": "chari"
+                "requiredTech": "Transhumanism",
+                "uniques": ["[1] additional attacks per turn", "Double movement in [Open terrain]"],
+        },
+        {
+		"name": "King Titan",
+                "requiredResource": "Heart of the Shadows"
+		"unitType": "Boss",
+		"movement": 1,
+		"strength": 400,
+		"cost": 700,
+		"attackSound": "chari"
+                "requiredTech": "Transhumanism",
+                "uniques": ["[1] additional attacks per turn", "Double movement in [Rough terrain]"],
+        },
+        {
+		"name": "Moerder",
+                "requiredResource": "Heart of the Shadows"
+		"unitType": "Submarine",
+		"movement": 1,
+		"strength": 450,
+		"cost": 700,
+		"attackSound": "herb"
+                "requiredTech": "Transhumanism",
+                "uniques": ["Double movement in [Ocean]"],
+        },
+        {
+		"name": "Submarine Shonisaurus",
+		"unitType": "Submarine",
+		"movement": 1,
+		"strength": 220,
+		"cost": 300,
+		"attackSound": "herb"
+                "requiredTech": "Transhumanism",
+        },
+        {
 		"name": "Champion",
                 "upgradesTo": "Transhuman Champion",
                 "obsoleteTech": "War of the Robots",
@@ -718,6 +820,28 @@
 		"cost": 300,
 		"attackSound": "gdrAttack"
                 "requiredTech": "Serving Machines",
+        },
+        {
+		"name": "Patagotitan Machine Gun",
+                "requiredResource": "Extinction Nodule",
+		"unitType": "Corrupted",
+		"movement": 2,
+		"strength": 390,
+		"cost": 300,
+		"attackSound": "corrup"
+                "uniques": ["[+25]% Strength <when fighting in [Foreign Land] tiles>"]
+                "requiredTech": "Serving Machines",
+        },
+        {
+		"name": "Patagotitan Steel Armor",
+                "requiredResource": "Extinction Nodule",
+		"unitType": "Corrupted",
+		"movement": 2,
+		"strength": 390,
+                "uniques": ["[+25]% Strength <when fighting in [Friendly Land] tiles>"]
+		"cost": 300,
+		"attackSound": "corrup"
+                "requiredTech": "Heart of Steel",
         },
         {
 		"name": "Saurosuchus",
@@ -916,5 +1040,73 @@
                 "requiredResource": "Metal",
                 "promotions": ["Amphibious"],
 		"attackSound": "dinoroar"
+	},
+        {
+		"name": "Corrupted Dsungaripterus",
+		"unitType": "Corrupted",
+                "obsoleteTech": "Canteen",
+		"movement": 3,
+		"strength": 50,
+		"cost": 210,
+		"requiredTech": "Industrial Grill",
+                "uniques": ["[+10]% Strength <when fighting in [Dead Land] tiles>"]
+		"hurryCostModifier": 20,
+                "requiredResource": "Extinction Nodule",
+		"attackSound": "corrup"
+	},
+        {
+		"name": "Corrupted Ptera",
+                "upgradesTo": "Corrupted Dsungaripterus",
+		"unitType": "Corrupted",
+		"movement": 2,
+		"strength": 45,
+		"cost": 255,
+		"requiredTech": "Fabricator",
+                "obsoleteTech": "Industrial Grill",
+		"hurryCostModifier": 20,
+                "requiredResource": "Extinction Nodule",
+                "promotions": ["Terror I", "Terror II"],
+		"attackSound": "corrup"
+	},
+        {
+		"name": "Corrupted Fasolasuchus",
+		"unitType": "Corrupted",
+                "obsoleteTech": "Chain Bola",
+		"movement": 3,
+		"strength": 60,
+		"cost": 325,
+		"requiredTech": "Canteen",
+		"hurryCostModifier": 20,
+                "requiredResource": "Extinction Nodule",
+                "promotions": ["Terror I", "Divine I"],
+		"attackSound": "corrup"
+	},
+        {
+		"name": "Corrupted Dreadnoughtus",
+		"unitType": "Corrupted",
+                "obsoleteTech": "Tek Forcefield",
+		"movement": 2,
+		"strength": 80,
+		"cost": 490,
+		"requiredTech": "Chain Bola",
+                "requiredResource": "Metal",
+                "uniques": ["[+20]% Strength <when fighting in [Hill] tiles>", "[-10]% Strength <when fighting in [Forest] tiles>"]
+                "requiredResource": "Extinction Nodule",
+		"hurryCostModifier": 20,
+                "promotions": ["Terror I", "Terror II", "Terror III"],
+		"attackSound": "corrup"
+	},
+        {
+		"name": "Corrupted Azdarcho",
+		"unitType": "Corrupted",
+                "obsoleteTech": "Tek Forcefield",
+		"movement": 4,
+		"strength": 70,
+		"cost": 318,
+		"requiredTech": "Flamethrower",
+                "requiredResource": "Extinction Nodule",
+		"hurryCostModifier": 20,
+                "promotions": ["Divine I", "Divine II"],
+		"attackSound": "corrup"
 	},
 ]

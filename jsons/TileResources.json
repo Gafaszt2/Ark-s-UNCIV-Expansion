@@ -210,10 +210,9 @@
         {
 		"name": "Whale Fat",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Plains"],
+		"terrainsCanBeFoundOn": ["Fallout Land"],
 		"science": 1,
 		"improvement": "Camp",
-                "uniques": ["Generated on every [9020] tiles <in [Plains] tiles>"]
 		"improvementStats": {"culture": 1},
 	},
         {
@@ -231,7 +230,7 @@
 		"terrainsCanBeFoundOn": ["Grassland"],
 		"food": 1,
 		"improvement": "Camp",
-                "uniques": ["Generated on every [7000] tiles <in [Grassland] tiles>"]
+                "uniques": ["Generated on every [17000] tiles <in [Grassland] tiles>"]
 		"improvementStats": {"production": 1},
 	},
         {
@@ -240,7 +239,7 @@
 		"terrainsCanBeFoundOn": ["Grassland"],
 		"production": 1,
 		"improvement": "Mine",
-                "uniques": ["Generated on every [7000] tiles <in [Grassland] tiles>"]
+                "uniques": ["Generated on every [17000] tiles <in [Grassland] tiles>"]
 		"improvementStats": {"production": 1},
 	},
         {
@@ -249,7 +248,7 @@
 		"terrainsCanBeFoundOn": ["Grassland"],
 		"production": 1,
 		"improvement": "Mine",
-                "uniques": ["Generated on every [7000] tiles <in [Grassland] tiles>"]
+                "uniques": ["Generated on every [17000] tiles <in [Grassland] tiles>"]
 		"improvementStats": {"science": 1},
 	},
         {
@@ -260,7 +259,7 @@
                 "production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1},
-                "uniques": ["Generated on every [7000] tiles <in [Hill] tiles>"]
+                "uniques": ["Generated on every [17000] tiles <in [Hill] tiles>"]
 	},
         {
 		"name": "Ruby",
@@ -270,7 +269,7 @@
                 "production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1},
-                "uniques": ["Generated on every [7000] tiles <in [Hill] tiles>"]
+                "uniques": ["Generated on every [17000] tiles <in [Hill] tiles>"]
 	},
         {
 		"name": "Peridot",
@@ -280,7 +279,7 @@
                 "production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1},
-                "uniques": ["Generated on every [7000] tiles <in [Hill] tiles>"]
+                "uniques": ["Generated on every [17000] tiles <in [Hill] tiles>"]
 	},
         {
 		"name": "Amethyst",
@@ -290,7 +289,7 @@
                 "production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1},
-                "uniques": ["Generated on every [7000] tiles <in [Hill] tiles>"]
+                "uniques": ["Generated on every [17000] tiles <in [Hill] tiles>"]
 	},
         {
 		"name": "Aquamarine",
@@ -300,7 +299,7 @@
                 "production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1},
-                "uniques": ["Generated on every [7000] tiles <in [Hill] tiles>"]
+                "uniques": ["Generated on every [17000] tiles <in [Hill] tiles>"]
 	},
         {
 		"name": "Topaz",
@@ -310,12 +309,31 @@
                 "production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1},
-                "uniques": ["Generated on every [7000] tiles <in [Hill] tiles>"]
+                "uniques": ["Generated on every [17000] tiles <in [Hill] tiles>"]
+	},
+        {
+		"name": "Heart of the Shadows",
+                "revealedBy": "Transhumanism",
+		"resourceType": "Strategic",
+		"terrainsCanBeFoundOn": ["Grassland","Plains","Snow","Tundra"],
+                "production": 3,
+		"improvement": "Mine",
+                "uniques": ["Generated on every [4999] tiles <in [Hill] tiles>"]
+                "majorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1},
+		"minorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1}
 	},
         {
 		"name": "Park",
                 "revealedBy": "Smithy",
 		"resourceType": "Strategic",
 		"production": 1,
+	},
+        {
+		"name": "Extinction Nodule",
+		"resourceType": "Strategic",
+                "revealedBy": "Smithy",
+		"terrainsCanBeFoundOn": ["Dead Land","Fallout Land"],
+		"production": 1,
+		"improvement": "Mine",
 	},
 ]

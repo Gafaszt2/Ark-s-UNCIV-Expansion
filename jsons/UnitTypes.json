@@ -5,6 +5,11 @@
         "uniques": ["[+4] Sight", "Can see over obstacles", "[+35]% Strength <vs [Tek Assault Vehicles] units>"]
     },
     {
+        "name": "Boss",
+        "movementType": "Land"
+        "uniques": ["[+4] Sight", "[+5]% Strength <vs [Tek Assault Vehicles] units>", "[+5]% Strength <vs [Tek Siege Vehicles] units>", "[+5]% Strength <vs [Tek Planes] units>"]
+    },
+    {
         "name": "Tek Siege Vehicles",
         "movementType": "Land"
         "uniques": ["[+30]% Strength <vs cities>"]
@@ -56,6 +61,11 @@
         "name": "Destroyer of Theropods",
         "movementType": "Land"
         "uniques": ["[+10]% Strength <vs [Mounted] units>","[+10]% Strength <vs [Chariot] units>","[-10]% Strength <vs [Gunpowder] units>"]
+    },
+    {
+        "name": "Corrupted",
+        "movementType": "Land"
+        "uniques": ["[+20]% Strength <vs cities> <when attacking>"]
     },
     {
         "name": "Armored",

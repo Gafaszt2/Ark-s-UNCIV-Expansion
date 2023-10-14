@@ -1,2 +1,11 @@
 [
+ {
+		"name": "Extinction Mountain",
+		"type": "Land",
+		"production": 1,
+		"impassable": true, 
+		"unbuildable": true,
+		"movementCost": 1,
+		"RGB": [189, 214, 255]
+	},
 ]

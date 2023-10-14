@@ -606,6 +606,7 @@
 				"name": "Transhumanism",
 				"row": 5,
 				"prerequisites": ["Tek Armor", "Tek Forcefield", "Tek Pistols", "Tek Riffle", "Pulse Cannon", "Shield Protector"],
+"quote": "Irma developed Trasnhumanism as a way to escape the loop of the Tek era Arks, she slowly desroyed what normal humans built."
 			}
 		]
 	},
@@ -620,11 +621,13 @@
 				"name": "Infinity Theory",
 				"row": 2,
 				"prerequisites": ["Transhumanism"],
+                                "quote": "Maybe the Arks are just Infinity, since there were years since we dont know how this cycle can repeat over and over, maybe its because we ascended so much humanity has modeled the universe itself."
 			},
                         {
 				"name": "Smart Resource Refinement",
 				"row": 4,
 				"prerequisites": ["Transhumanism"],
+                                "quote": "Having that much resources made the Arks very primal, so they started to refine fibers and wood to make modern material, as polimers."
 			},
                         {
 				"name": "War of the Robots",

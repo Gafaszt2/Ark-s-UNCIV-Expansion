@@ -3,7 +3,7 @@
 	{
 		"name": "Heal Instantly",
 		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
-		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"],
+		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine","Chariot","Destroyer of Theropods"],
         "row": 0,
         "column": 0
     },
@@ -748,7 +748,7 @@
 	{
 		"name": "Divine I",
 		"uniques": ["[+10]% Strength <when attacking>"],
-		"unitTypes": ["Chariot","Destroyer of Theropods"],
+		"unitTypes": ["Chariot","Destroyer of Theropods","Corrupted"],
         "column": 28,
         "row": 10
 	},
@@ -756,7 +756,7 @@
 		"name": "Divine II",
 		"prerequisites": ["Divine I"],
 		"uniques": ["[+15]% Strength <when attacking>"],
-		"unitTypes": ["Chariot","Destroyer of Theropods"],
+		"unitTypes": ["Chariot","Destroyer of Theropods","Corrupted"],
         "column": 28,
         "row": 11
 	},
@@ -764,21 +764,21 @@
 		"name": "Divine III",
 		"prerequisites": ["Divine II"],
 		"uniques": ["[+10]% Strength <when attacking>"],
-		"unitTypes": ["Chariot","Destroyer of Theropods"],
+		"unitTypes": ["Chariot","Destroyer of Theropods","Corrupted"],
         "column": 28,
         "row": 12
 	},
 	{
 		"name": "Terror I",
 		"uniques": ["[+10]% to Flank Attack bonuses"],
-		"unitTypes": ["Chariot","Destroyer of Theropods"],
+		"unitTypes": ["Chariot","Destroyer of Theropods","Corrupted"],
         "column": 29,
         "row": 10
 	},
 	{
 		"name": "Terror II",
 		"prerequisites": ["Terror I"],
-		"uniques": ["[+20]% to Flank Attack bonuses"],
+		"uniques": ["[+20]% to Flank Attack bonuses","Corrupted"],
 		"unitTypes": ["Chariot","Destroyer of Theropods"],
         "column": 29,
         "row": 11
@@ -787,7 +787,7 @@
 		"name": "Terror III",
 		"prerequisites": ["Terror II"],
 		"uniques": ["[+10]% to Flank Attack bonuses"],
-		"unitTypes": ["Chariot","Destroyer of Theropods"],
+		"unitTypes": ["Chariot","Destroyer of Theropods","Corrupted"],
         "column": 29,
         "row": 12
 	},
@@ -795,7 +795,7 @@
 		"name": "Interfectorem Circuitus",
 		"prerequisites": ["Terror III"],
 		"uniques": ["[+20]% Strength <vs [Wounded] units>", "[+5]% to Flank Attack bonuses"],
-		"unitTypes": ["Chariot","Destroyer of Theropods"],
+		"unitTypes": ["Chariot","Destroyer of Theropods","Corrupted"],
         "column": 30,
         "row": 10
 	},
@@ -803,7 +803,7 @@
 		"name": "Demolitio Circuitus", // Not called "Siege" in order to not conflict with siege type units for translations
 		"prerequisites": ["Divine III"],
 		"uniques": ["[+60]% Strength <vs cities>"],
-		"unitTypes": ["Chariot","Destroyer of Theropods"],
+		"unitTypes": ["Chariot","Destroyer of Theropods","Corrupted"],
         "column": 30,
         "row": 11
 	},
@@ -811,7 +811,7 @@
 		"name": "Bloody Hate",
 		"prerequisites": ["Terror III","Divine III"],
 		"uniques": ["[2] additional attacks per turn"],
-		"unitTypes": ["Chariot","Destroyer of Theropods"],
+		"unitTypes": ["Chariot","Destroyer of Theropods","Corrupted"],
         "column": 30,
         "row": 12
 	},
@@ -819,7 +819,7 @@
 		"name": "Forest Hater",
 		"prerequisites": ["Terror II","Divine II"],
 		"uniques": ["Double movement in [Forest]","Double movement in [Jungle]"],
-		"unitTypes": ["Chariot","Destroyer of Theropods"],
+		"unitTypes": ["Chariot","Destroyer of Theropods","Corrupted"],
         "column": 29,
         "row": 13
 	},
@@ -827,7 +827,7 @@
 		"name": "Insanity Mostrum",
 		"prerequisites": ["Terror I", "Divine I"],
 		"uniques": ["Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast"],
-		"unitTypes": ["Chariot","Destroyer of Theropods"],
+		"unitTypes": ["Chariot","Destroyer of Theropods","Corrupted"],
         "column": 30,
         "row": 13
 	},
@@ -835,7 +835,7 @@
 		"name": "Kind of Heart",
 		"prerequisites": ["Divine III"],
 		"uniques": ["[+10] HP when healing <in [Foreign Land] tiles>", "All adjacent units heal [+10] HP when healing"],
-		"unitTypes": ["Chariot","Destroyer of Theropods"],
+		"unitTypes": ["Chariot","Destroyer of Theropods","Corrupted"],
         "column": 30,
         "row": 14
 	},
