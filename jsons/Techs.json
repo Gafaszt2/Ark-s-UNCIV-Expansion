@@ -633,11 +633,13 @@
 				"name": "War of the Robots",
 				"row": 8,
 				"prerequisites": ["Transhumanism"],
+                                "quote": "Making giant machines were something Irma liked, not as much as maybe other people would thought, but the robot science destroyed giant part of the biosphere of the Arks."
 			},
                         {
 				"name": "Space Industry",
 				"row": 9,
 				"prerequisites": ["Transhumanism"],
+                                "quote": "Upon discovering the universe, we are indeed shaping the world itself, at points we dont even know."
 			}
 		]
 	},
@@ -652,21 +654,25 @@
 				"name": "Galactic Theory",
 				"row": 2,
 				"prerequisites": ["Infinity Theory"],
+                                "quote": "Our mind cant tolerate this anymore, its time to destroy the universe, and conquer this galaxy until the world only knows pain _ Irma."
 			},
                         {
 				"name": "Heart of Steel",
 				"row": 4,
 				"prerequisites": ["Smart Resource Refinement"],
+                                "quote": "The heart is made of steel, and a lot of people have an flesh and bloody heart, we need the reorganization, not the war _ Mehmet."
 			},
                         {
 				"name": "Serving Machines",
 				"row": 8,
 				"prerequisites": ["War of the Robots"],
+                                "quote": "The world can curse this roots, but now we want to kill, the plants can take care of that, but those Mekas are way better _ Mila."
 			},
                         {
 				"name": "Total War",
 				"row": 9,
 				"prerequisites": ["Space Industry"],
+                                "quote": "America, has responded, now im turning 20, she is still alive, i must kill Irma, at all costs, the american dream will be the future _ Evolet."
 			}
 		]
 	},
