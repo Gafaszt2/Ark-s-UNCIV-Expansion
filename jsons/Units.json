@@ -1109,4 +1109,29 @@
                 "promotions": ["Divine I", "Divine II"],
 		"attackSound": "corrup"
 	},
+        {
+		"name": "TYRANT",
+                "replaces": "HLNA",
+		"uniqueTo": "Zare",
+		"unitType": "Scout",
+		"movement": 3,
+		"strength": 5,
+		"cost": 50,
+		"attackSound": "nonmetalhit"
+		"obsoleteTech": "Cryopod",
+        },
+        {
+		"name": "Irritator Rider",
+                "replaces": "Theri Rider",
+		"uniqueTo": "Zare",
+		"unitType": "Mounted",
+		"movement": 3,
+		"strength": 39,
+		"cost": 90,
+		"requiredTech": "Metal Hatchet",
+                "obsoleteTech": "Sword",
+		"uniques": ["Can move after attacking", "[+20]% Strength <when fighting in [Jungle] tiles>", "[+10]% Strength <when fighting in [Lakes] tiles>", "[+10]% Strength <when fighting in [Coast] tiles>"],
+		"hurryCostModifier": 20,
+		"attackSound": "dinoroar"
+	},
 ]

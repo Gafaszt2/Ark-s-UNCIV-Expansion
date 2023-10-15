@@ -185,7 +185,7 @@
 		"name": "Spiras Foria",
 		"leaderName": "Mila",
 		"adjective": ["Autumn"],
-		"startBias": ["Autumn Land"],
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Ascension",
 
 		"startIntroPart1": "Mila was a young woman who was born in the autumn forests, so much was her fascination that she performed an operation by cutting lianas into her tissue, forcing a mutation to transform into the new mother earth, the majority of botanists were consumed by her song through the temperate forests, drags them towards madness, and the only thing that is written in the telegrams is Spiras Foria",
@@ -201,11 +201,41 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Afkar Jadida",
-                "uniques": ["[+1 Production] from every [Forest]", "[+1 Food] from every [Ark Monument]", "[+1 Gold] from every [Windmill]"],
+                "uniques": ["[+1 Production] from every [Forest] and [Jungle]", "[+1 Food] from every [2] [Forest] and [Jungle]", "[+1 Production] from every [Lumber mill]"],
 
 		"outerColor": [84, 13, 3],
 		"innerColor": [252, 116, 5],
 		"cities": ["Tiperrary","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	}
+        {
+		"name": "Zare",
+		"leaderName": "Anezka",
+		"adjective": ["Zare"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Anezka appeared, said in ancient europe, but the stone writtings travelled beyond what we know, or what we dont know, ancient europe might be dead, but we still have Anezka",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Byt znovuzrozen",
+                "uniques": ["[+1 Science] from every [10] [Faith] and [Culture]", "[+1 Science] from every [Great Improvement]"],
+
+		"outerColor": [81, 214, 168],
+		"innerColor": [3, 41, 107],
+		"cities": ["Zemrit","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
 			"Generations","Dogmatic"],
