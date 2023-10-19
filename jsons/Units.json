@@ -8,6 +8,7 @@
 		"cost": 158,
 		"requiredTech": "Fishing Rod",
                 "obsoleteTech": "Dock",
+                "uniques": ["Never appears as a Barbarian unit"],
                 "requiredResource": "Prionosuchus",
 		"attackSound": "dinoroar"
 	},
@@ -61,7 +62,7 @@
 		"rangedStrength": 70,
 		"cost": 340,
 		"requiredTech": "Assault Riffle",
-		"uniques": ["[+40]% Strength <vs [Siege] units>"],
+		"uniques": ["[+40]% Strength <vs [Siege] units>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot"
 	},
         {
@@ -87,7 +88,7 @@
 		"strength": 330,
 		"cost": 550,
 		"requiredTech": "Tek Riffle",
-		"uniques": ["[+13]% Strength <vs cities>","[+10]% Strength <vs [Siege] units>", "Can move after attacking"],
+		"uniques": ["[+13]% Strength <vs cities>","[+10]% Strength <vs [Siege] units>", "Can move after attacking", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "dinoroar"
 	},
@@ -101,7 +102,7 @@
 		"cost": 120,
 		"requiredTech": "Sword",
                 "requiredResource": "Wood",
-		"uniques": ["Can move after attacking"],
+		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "dinoroar"
 	},
@@ -113,6 +114,7 @@
 		"movement": 2,
 		"strength": 100,
 		"cost": 400,
+                "uniques": ["Never appears as a Barbarian unit"],
 		"requiredTech": "Radio",
 		"attackSound": "shot"
 	},
@@ -666,7 +668,7 @@
 		"cost": 700,
 		"attackSound": "chari"
                 "requiredTech": "Transhumanism",
-                "uniques": ["[+25]% Strength <when fighting in [Jungle] tiles>"],
+                "uniques": ["[+25]% Strength <when fighting in [Jungle] tiles>", "Never appears as a Barbarian unit"],
         },
         {
 		"name": "Fenrir",
@@ -677,7 +679,7 @@
 		"cost": 700,
 		"attackSound": "chari"
                 "requiredTech": "Transhumanism",
-                "uniques": ["[+25]% Strength <when fighting in [Tundra] tiles>"],
+                "uniques": ["[+25]% Strength <when fighting in [Tundra] tiles>", "Never appears as a Barbarian unit"],
         },
         {
 		"name": "Dragon",
@@ -688,7 +690,7 @@
 		"cost": 700,
 		"attackSound": "chari"
                 "requiredTech": "Transhumanism",
-                "uniques": ["[+25]% Strength <when fighting in [Hill] tiles>"],
+                "uniques": ["[+25]% Strength <when fighting in [Hill] tiles>", "Never appears as a Barbarian unit"],
         },
         {
 		"name": "Broodmother",
@@ -699,7 +701,7 @@
 		"cost": 700,
 		"attackSound": "chari"
                 "requiredTech": "Transhumanism",
-                "uniques": ["[1] additional attacks per turn", "Double movement in [Open terrain]"],
+                "uniques": ["[1] additional attacks per turn", "Never appears as a Barbarian unit", "Double movement in [Open terrain]"],
         },
         {
 		"name": "King Titan",
@@ -710,7 +712,7 @@
 		"cost": 700,
 		"attackSound": "chari"
                 "requiredTech": "Transhumanism",
-                "uniques": ["[1] additional attacks per turn", "Double movement in [Rough terrain]"],
+                "uniques": ["[1] additional attacks per turn", "Never appears as a Barbarian unit", "Double movement in [Rough terrain]"],
         },
         {
 		"name": "Moerder",
@@ -721,7 +723,7 @@
 		"cost": 700,
 		"attackSound": "herb"
                 "requiredTech": "Transhumanism",
-                "uniques": ["Double movement in [Ocean]"],
+                "uniques": ["Double movement in [Ocean]","Never appears as a Barbarian unit"],
         },
         {
 		"name": "Submarine Shonisaurus",
@@ -1116,7 +1118,8 @@
 		"unitType": "Scout",
 		"movement": 3,
 		"strength": 5,
-		"cost": 50,
+		"cost": 50, 
+                "uniques": ["Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit"
 		"obsoleteTech": "Cryopod",
         },
@@ -1130,7 +1133,7 @@
 		"cost": 90,
 		"requiredTech": "Metal Hatchet",
                 "obsoleteTech": "Sword",
-		"uniques": ["Can move after attacking", "[+20]% Strength <when fighting in [Jungle] tiles>", "[+10]% Strength <when fighting in [Lakes] tiles>", "[+10]% Strength <when fighting in [Coast] tiles>"],
+		"uniques": ["Can move after attacking", "[+20]% Strength <when fighting in [Jungle] tiles>", "[+10]% Strength <when fighting in [Lakes] tiles>", "[+10]% Strength <when fighting in [Coast] tiles>", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "dinoroar"
 	},
