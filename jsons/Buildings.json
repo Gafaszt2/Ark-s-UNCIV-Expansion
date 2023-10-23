@@ -87,7 +87,7 @@
 		"name": "Restaurant",
                 "uniqueTo": "Merveilleuse Commande",
 		"gold": 5,
-                "culture": 3,
+                "culture": 5,
                 "science": -1,
 		"hurryCostModifier": 50,
 		"requiredTech": "GPS"
@@ -95,11 +95,9 @@
         {
 		"name": "Europe Bank",
                 "uniqueTo": "Germania",
-		"gold": 4,
-                "production": 2,
-                "faith": -2,
+		"gold": 6,
+                "production": 4,
                 "culture": -1,
-               "science": -1,
 		"hurryCostModifier": 50,
 		"requiredTech": "Fabricator"
 	},
