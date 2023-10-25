@@ -381,11 +381,101 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Marsh Popular Democrats",
-                "uniques": ["[+15]% Strength <for [Mounted] units> on [Swamp Zone], "[+2 Production] from every [Swamp Zone]", "[+2 Food] from every [Marsh]"],
+                "uniques": ["[+15]% Strength <for [Mounted] units> on [Swamp Zone]", "[+2 Production] from every [Swamp Zone]", "[+2 Food] from every [Marsh]"],
                 
                 "outerColor": [247, 155, 79],
 		"innerColor": [3, 12, 107],
 		"cities": ["Democrats Place","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        {
+		"name": "Radical Feminism Society",
+		"leaderName": "Anxn",
+		"adjective": ["Radical Feminists"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Irma searched the most radical people for join her cause, what she found? Anxn, a person that represents a tiny portion of the American Empire, now she will... win?.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Irma Lover",
+                "uniques": ["[+15]% Culture [in all cities]", "[-15]% Faith [in all cities]", "[+25]% [Culture] [in all cities] <when at war>"],
+                
+                "outerColor": [242, 219, 255],
+		"innerColor": [185, 78, 242],
+		"cities": ["Rights","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	}
+        {
+		"name": "Male Supremacy Group",
+		"leaderName": "Commander Mithen",
+		"adjective": ["Supremacy Males"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Irma searched the most radical people for join her cause, what she found? Anxn, a person that represents a tiny portion of the American Empire, now she will... win?.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Teufelslied",
+                "uniques": ["[+20]% XP gained from combat <for [Military] units>", "[+15]% Production [in all cities]"],
+                
+                "outerColor": [171, 17, 0],
+		"innerColor": [48, 20, 17],
+		"cities": ["Mankind","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	}
+        {
+		"name": "Communism Republic",
+		"leaderName": "General Shchors",
+		"adjective": ["Communist"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Irma feared the snow men, that have kind of weird ideas of how the world shoul work, lets see if they can win this match.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Stalin Legacy",
+                "uniques": ["[+20]% of excess happiness converted to [Production]", "[+20]% of excess happiness converted to [Science]", "[+5]% Science [in all cities]"],
+                
+                "outerColor": [250, 207, 202],
+		"innerColor": [48, 20, 17],
+		"cities": ["Aratkia","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
 			"Generations","Dogmatic"],
