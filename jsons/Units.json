@@ -20,6 +20,7 @@
 		"strength": 33,
 		"cost": 158,
 		"requiredTech": "Fishing Rod",
+                "uniques": ["Never appears as a Barbarian unit"],
                 "obsoleteTech": "Dock",
 		"attackSound": "dinoroar"
 	},
@@ -32,7 +33,7 @@
 		"strength": 42,
 		"cost": 90,
 		"requiredTech": "Crossbow",
-		"uniques": ["Can move after attacking", "[+5]% Strength <when fighting in [Hill] tiles>"],
+		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit", "[+5]% Strength <when fighting in [Hill] tiles>"],
 		"hurryCostModifier": 20,
                 "requiredResource": "Neovenator",
 		"attackSound": "dinoroar"
@@ -46,7 +47,7 @@
 		"strength": 49,
 		"cost": 180,
 		"requiredTech": "Greenhouse",
-		"uniques": ["Can move after attacking", "[+5]% Strength <when fighting in [Coast] tiles>"],
+		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit", "[+5]% Strength <when fighting in [Coast] tiles>"],
 		"hurryCostModifier": 20,
                 "requiredResource": "Siamosaurus",
 		"attackSound": "dinoroar"
@@ -129,7 +130,7 @@
 		"cost": 110,
 		"attackSound": "nonmetalhit"
                 "requiredTech": "Flak Armor",
-                "uniques": ["Can build [Land] improvements on tiles", "Requires at least [1] population"],
+                "uniques": ["Can build [Land] improvements on tiles", "Never appears as a Barbarian unit", "Requires at least [1] population"],
         },
         {
 		"name": "Panzer",
@@ -153,7 +154,7 @@
 		"requiredTech": "Slingshot",
                 "upgradesTo": "Kapro Rider",
                 "obsoleteTech": "Professional Domestication",
-		"uniques": ["Can move after attacking", "[+15]% Strength <when fighting in [Coast] tiles>"],
+		"uniques": ["Can move after attacking", "[+15]% Strength <when fighting in [Coast] tiles>", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
                 "requiredResource": "Reeds",
 		"attackSound": "dinoroar"
@@ -165,6 +166,7 @@
 		"movement": 3,
 		"strength": 18,
 		"cost": 65,
+                "uniques": ["Never appears as a Barbarian unit"],
 		"requiredTech": "Slingshot",
                 "obsoleteTech": "Raft",
                 "requiredResource": "Seagrass",
@@ -177,6 +179,7 @@
 		"movement": 3,
 		"strength": 18,
 		"cost": 70,
+                "uniques": ["Never appears as a Barbarian unit"],
 		"requiredTech": "Slingshot",
                 "obsoleteTech": "Raft",
 		"attackSound": "dinoroar"
@@ -188,6 +191,7 @@
                 "obsoleteTech": "Raft",
 		"movement": 2,
 		"strength": 17,
+                "uniques": ["Never appears as a Barbarian unit"],
 		"cost": 70,
 		"requiredTech": "Slingshot",
                 "requiredResource": "Kelp",
@@ -198,6 +202,7 @@
                 "upgradesTo": "Plesio Rider",
 		"unitType": "Melee Water",
                 "obsoleteTech": "Dock",
+                "uniques": ["Never appears as a Barbarian unit"],
 		"movement": 3,
 		"strength": 32,
 		"cost": 120,
@@ -211,6 +216,7 @@
 		"unitType": "Melee Water",
 		"movement": 2,
 		"strength": 155,
+                "uniques": ["Never appears as a Barbarian unit"],
 		"cost": 320,
 		"requiredTech": "Auto Torret",
                 "obsoleteTech": "Tek Sword",
@@ -221,6 +227,7 @@
 		"name": "Dakosaurus",
                 "upgradesTo": "Alpha Tylosaurus",
 		"unitType": "Melee Water",
+                "uniques": ["Never appears as a Barbarian unit"],
 		"movement": 2,
 		"strength": 135,
 		"cost": 329,
@@ -232,6 +239,7 @@
 		"name": "Alpha Tylosaurus",
 		"unitType": "Melee Water",
 		"movement": 2,
+                "uniques": ["Never appears as a Barbarian unit"],
 		"strength": 377,
 		"cost": 320,
 		"requiredTech": "Tek Sword",
@@ -243,6 +251,7 @@
 		"name": "Alpha Leedsicthys",
                 "obsoleteTech": "Transhumanism",
 		"unitType": "Melee Water",
+                "uniques": ["Never appears as a Barbarian unit"],
 		"movement": 2,
 		"strength": 500,
 		"cost": 390,
@@ -253,6 +262,7 @@
         {
 		"name": "Shastasaur Rider",
                 "obsoleteTech": "Transhumanism",
+                "uniques": ["Never appears as a Barbarian unit"],
 		"unitType": "Melee Water",
 		"movement": 2,
 		"strength": 450,
@@ -270,7 +280,7 @@
 		"cost": 310,
 		"requiredTech": "Auto Torret",
                 "requiredResource": "Seashells",
-		"uniques": ["Can move after attacking"],
+		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
                 "promotions": ["Drill III"],
 		"attackSound": "dinoroar"
@@ -284,7 +294,7 @@
 		"cost": 340,
                 "requiredResource": "Seashells",
 		"requiredTech": "Tek Riffle",
-		"uniques": ["[+20]% Strength <vs cities>","[+20]% Strength <vs [Siege] units>", "Can move after attacking"],
+		"uniques": ["[+20]% Strength <vs cities>", "Never appears as a Barbarian unit", "[+20]% Strength <vs [Siege] units>", "Can move after attacking"],
 		"hurryCostModifier": 20,
 		"attackSound": "dinoroar"
 	},
@@ -296,7 +306,7 @@
 		"cost": 151,
 		"requiredTech": "Cryopod",
                 "requiredResource": "Chitin",
-		"uniques": ["Can move after attacking"],
+		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
                 "upgradesTo": "Tropeo Rider",
                 "obsoleteTech": "Auto Torret",
@@ -311,7 +321,7 @@
 		"strength": 270,
 		"cost": 380,
 		"requiredTech": "Tek Shield",
-		"uniques": ["[+60]% Strength <vs cities>", "Can move after attacking"],
+		"uniques": ["[+60]% Strength <vs cities>", "Can move after attacking", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "missile"
 	},
@@ -325,7 +335,7 @@
 		"cost": 380,
               "requiredResource": "Extinction Nodule",
 		"requiredTech": "Tek Shield",
-		"uniques": ["[+60]% Strength <vs cities>", "Can move after attacking"],
+		"uniques": ["[+60]% Strength <vs cities>", "Can move after attacking", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "missile"
 	},
@@ -338,7 +348,7 @@
 		"cost": 340,
                 "requiredResource": "Extinction Nodule",
 		"requiredTech": "Tek Riffle",
-		"uniques": ["[+20]% Strength <vs cities>","[+20]% Strength <vs [Siege] units>", "Can move after attacking"],
+		"uniques": ["[+20]% Strength <vs cities>","[+20]% Strength <vs [Siege] units>", "Never appears as a Barbarian unit", "Can move after attacking"],
 		"hurryCostModifier": 20,
 		"attackSound": "dinoroar"
 	},
@@ -351,7 +361,7 @@
 		"cost": 190,
 		"requiredTech": "Cryopod",
                 "obsoleteTech": "Chain Bola",
-		"uniques": ["Can move after attacking", "[1] additional attacks per turn", "Double movement in [Open terrain]"],
+		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit", "[1] additional attacks per turn", "Double movement in [Open terrain]"],
 		"hurryCostModifier": 20,
                 "promotions": ["Shock I"],
 		"attackSound": "dinoroar"
@@ -363,6 +373,7 @@
 		"strength": 19,
 		"cost": 80,
 		"requiredTech": "Cementing Paste",
+                "uniques": ["Never appears as a Barbarian unit"],
                 "upgradesTo": "Kapro Rider",
                 "obsoleteTech": "Professional Domestication",
 		"hurryCostModifier": 20,
@@ -378,7 +389,7 @@
 		"requiredTech": "Spike Wall",
                 "upgradesTo": "Stego Rider",
                 "obsoleteTech": "Tranq Arrow",
-		"uniques": ["[+10]% Strength <vs [Mounted] units>"],
+		"uniques": ["[+10]% Strength <vs [Mounted] units>", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "chari"
 	},
@@ -390,7 +401,7 @@
 		"strength": 88,
 		"cost": 310,
 		"requiredTech": "Auto Torret",
-		"uniques": ["[+10]% Strength <vs [Mounted] units>", "[+20]% Strength <when fighting in [Jungle] tiles>"],
+		"uniques": ["[+10]% Strength <vs [Mounted] units>", "[+20]% Strength <when fighting in [Jungle] tiles>", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
                 "obsoleteTech": "Tek Forcefield",
                 "promotions": ["Divine I"],
@@ -405,7 +416,7 @@
 		"requiredTech": "Professional Domestication",
                 "upgradesTo": "Rugops",
                 "obsoleteTech": "Fabricator",
-		"uniques": ["[+10]% Strength <when fighting in [Hill] tiles>"],
+		"uniques": ["[+10]% Strength <when fighting in [Hill] tiles>", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "chari"
 	},
@@ -416,6 +427,7 @@
 		"unitType": "Melee Water",
 		"movement": 2.5,
 		"strength": 49,
+                "uniques": ["Never appears as a Barbarian unit"],
 		"cost": 105,
 		"requiredTech": "Electronics",
 		"attackSound": "dinoroar"
@@ -427,6 +439,7 @@
 		"movement": 2,
 		"strength": 38,
 		"cost": 210,
+                "uniques": ["Never appears as a Barbarian unit"],
 		"requiredTech": "Metal Pick",
                 "obsoleteTech": "Pike",
 		"hurryCostModifier": 20,
@@ -442,7 +455,7 @@
 		"cost": 200,
 		"requiredTech": "Gunpowder",
                 "requiredResource": "Chitin",
-                "uniques": ["[+20]% Strength <when fighting in [Desert] tiles>", "[+10]% Strength <when fighting in [Hill] tiles>", "[+10]% Strength <when fighting in [Plains] tiles>"]
+                "uniques": ["[+20]% Strength <when fighting in [Desert] tiles>", "[+10]% Strength <when fighting in [Hill] tiles>", "[+10]% Strength <when fighting in [Plains] tiles>", "Never appears as a Barbarian unit"]
                 "obsoleteTech": "Pike",
 		"hurryCostModifier": 20,
                 "promotions": ["Terror I"],
@@ -460,7 +473,7 @@
                 "requiredResource": "Metal",
                 "obsoleteTech": "Pike",
 		"hurryCostModifier": 20,
-                "uniques": ["[+20]% Strength <when fighting in [Dead Land] tiles>", "[+10]% Strength <when fighting in [Fallout Land] tiles>", "[+25]% Strength <when fighting in [Tek Soil] tiles>"]
+                "uniques": ["[+20]% Strength <when fighting in [Dead Land] tiles>", "[+10]% Strength <when fighting in [Fallout Land] tiles>", "[+25]% Strength <when fighting in [Tek Soil] tiles>", "Never appears as a Barbarian unit"]
                 "promotions": ["Interfectorem Circuitus"],
 		"attackSound": "chari"
 	},
@@ -471,6 +484,7 @@
 		"movement": 2,
 		"strength": 41,
 		"cost": 220,
+                "uniques": ["Never appears as a Barbarian unit"],
 		"requiredTech": "Pike",
 		"hurryCostModifier": 20,
                 "obsoleteTech": "Fabricator",
@@ -484,6 +498,7 @@
 		"movement": 2,
 		"strength": 46,
 		"cost": 255,
+                "uniques": ["Never appears as a Barbarian unit"],
 		"requiredTech": "Fabricator",
                 "obsoleteTech": "Canteen",
 		"hurryCostModifier": 20,
@@ -496,6 +511,7 @@
                 "obsoleteTech": "Tek Forcefield",
 		"movement": 2,
 		"strength": 52,
+                "uniques": ["Never appears as a Barbarian unit"],
 		"cost": 325,
 		"requiredTech": "Canteen",
 		"hurryCostModifier": 20,
@@ -508,6 +524,7 @@
 		"movement": 3,
 		"strength": 154,
 		"cost": 390,
+                "uniques": ["Never appears as a Barbarian unit"],
 		"requiredTech": "Tek Forcefield",
                 "obsoleteTech": "Transhumanism",
 		"hurryCostModifier": 20,
@@ -520,6 +537,7 @@
 		"movement": 3,
 		"strength": 29,
 		"cost": 70,
+                "uniques": ["Never appears as a Barbarian unit"],
 		"requiredTech": "Tranq Arrow",
                 "obsoleteTech": "Fabricator",
 		"hurryCostModifier": 20,
@@ -535,7 +553,7 @@
 		"cost": 190,
 		"requiredTech": "Chain Bola",
                 "requiredResource": "Metal",
-                "uniques": ["[+20]% Strength <when fighting in [Desert] tiles>", "[+10]% Strength <when fighting in [Hill] tiles>", "[-5]% Strength <when fighting in [Tundra] tiles>"]
+                "uniques": ["[+20]% Strength <when fighting in [Desert] tiles>", "[+10]% Strength <when fighting in [Hill] tiles>", "[-5]% Strength <when fighting in [Tundra] tiles>", "Never appears as a Barbarian unit"]
 		"hurryCostModifier": 20,
                 "promotions": ["Terror I", "Terror II", "Terror III"],
 		"attackSound": "chari"
@@ -548,6 +566,7 @@
 		"movement": 3,
 		"strength": 51,
 		"cost": 120,
+                "uniques": ["Never appears as a Barbarian unit"],
 		"requiredTech": "Greenhouse",
 		"attackSound": "dinoroar"
 	},
@@ -559,7 +578,7 @@
 		"strength": 210,
 		"cost": 390,
 		"requiredTech": "Tek Riffle",
-		"uniques": ["[+20]% Strength <vs cities>","[+20]% Strength <vs [Siege] units>", "Can move after attacking"],
+		"uniques": ["[+20]% Strength <vs cities>","[+20]% Strength <vs [Siege] units>", "Can move after attacking", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "dinoroar"
 	},
@@ -832,7 +851,7 @@
 		"strength": 390,
 		"cost": 300,
 		"attackSound": "corrup"
-                "uniques": ["[+25]% Strength <when fighting in [Foreign Land] tiles>"]
+                "uniques": ["[+25]% Strength <when fighting in [Foreign Land] tiles>", "Never appears as a Barbarian unit"]
                 "requiredTech": "Serving Machines",
         },
         {
@@ -841,7 +860,7 @@
 		"unitType": "Corrupted",
 		"movement": 2,
 		"strength": 390,
-                "uniques": ["[+25]% Strength <when fighting in [Friendly Land] tiles>"]
+                "uniques": ["[+25]% Strength <when fighting in [Friendly Land] tiles>", "Never appears as a Barbarian unit"]
 		"cost": 300,
 		"attackSound": "corrup"
                 "requiredTech": "Heart of Steel",
@@ -854,7 +873,7 @@
 		"strength": 48,
 		"cost": 210,
 		"requiredTech": "Industrial Grill",
-                "uniques": ["[+20]% Strength <when fighting in [Jungle] tiles>"]
+                "uniques": ["[+20]% Strength <when fighting in [Jungle] tiles>", "Never appears as a Barbarian unit"]
 		"hurryCostModifier": 20,
                 "promotions": ["Terror I"],
 		"attackSound": "chari"
@@ -867,7 +886,7 @@
 		"strength": 48,
 		"cost": 210,
 		"requiredTech": "Electronics",
-                "uniques": ["[+20]% Strength <when fighting in [Plains] tiles>", "[+5]% Strength <when fighting in [Tundra] tiles>"]
+                "uniques": ["[+20]% Strength <when fighting in [Plains] tiles>", "Never appears as a Barbarian unit", "[+5]% Strength <when fighting in [Tundra] tiles>"]
 		"hurryCostModifier": 20,
                 "promotions": ["Terror I"],
 		"attackSound": "herb"
@@ -881,7 +900,7 @@
 		"requiredTech": "Slingshot",
                 "upgradesTo": "Kapro Rider",
                 "obsoleteTech": "Professional Domestication",
-		"uniques": ["Can move after attacking", "[+15]% Strength <when fighting in [Grassland] tiles>"],
+		"uniques": ["Can move after attacking", "[+15]% Strength <when fighting in [Grassland] tiles>", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "herb"
 	},
@@ -894,7 +913,7 @@
 		"requiredTech": "Slingshot",
                 "upgradesTo": "Kapro Rider",
                 "obsoleteTech": "Professional Domestication",
-		"uniques": ["Can move after attacking", "[+15]% Strength <when fighting in [Hill] tiles>"],
+		"uniques": ["Can move after attacking", "[+15]% Strength <when fighting in [Hill] tiles>", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "herb"
 	},
@@ -906,7 +925,7 @@
 		"strength": 48,
 		"cost": 210,
 		"requiredTech": "Electronics",
-                "uniques": ["[+20]% Strength <when fighting in [Grassland] tiles>", "[+5]% Strength <when fighting in [Desert] tiles>"]
+                "uniques": ["[+20]% Strength <when fighting in [Grassland] tiles>", "[+5]% Strength <when fighting in [Desert] tiles>", "Never appears as a Barbarian unit"]
 		"hurryCostModifier": 20,
                 "promotions": ["Divine I"],
 		"attackSound": "herb"
@@ -919,7 +938,7 @@
 		"strength": 58,
 		"cost": 210,
 		"requiredTech": "GPS",
-                "uniques": ["[+20]% Strength <when fighting in [Tundra] tiles>", "[+15]% Strength <when fighting in [Snow] tiles>"]
+                "uniques": ["[+20]% Strength <when fighting in [Tundra] tiles>", "Never appears as a Barbarian unit", "[+15]% Strength <when fighting in [Snow] tiles>"]
 		"hurryCostModifier": 20,
 		"attackSound": "dinoroar"
 	},
@@ -931,7 +950,7 @@
 		"strength": 14,
 		"cost": 110,
 		"requiredTech": "Narcotics",
-                "uniques": ["[+5]% Strength <when fighting in [Swamp Zone] tiles>"]
+                "uniques": ["[+5]% Strength <when fighting in [Swamp Zone] tiles>", "Never appears as a Barbarian unit"]
 		"hurryCostModifier": 20,
 		"attackSound": "chari"
 	},
@@ -943,7 +962,7 @@
 		"strength": 15,
 		"cost": 110,
 		"requiredTech": "Spyglass",
-                "uniques": ["[+5]% Strength <when fighting in [Desert] tiles>"]
+                "uniques": ["[+5]% Strength <when fighting in [Desert] tiles>", "Never appears as a Barbarian unit"]
 		"hurryCostModifier": 20,
 		"attackSound": "chari"
 	},
@@ -955,7 +974,7 @@
 		"strength": 15,
 		"cost": 120,
 		"requiredTech": "Raft",
-                "uniques": ["[+15]% Strength <when fighting in [Hill] tiles>"]
+                "uniques": ["[+15]% Strength <when fighting in [Hill] tiles>", "Never appears as a Barbarian unit"]
 		"hurryCostModifier": 20,
 		"attackSound": "dinoroar"
 	},
@@ -967,7 +986,7 @@
 		"strength": 18,
 		"cost": 180,
 		"requiredTech": "Stone Houses",
-                "uniques": ["[+15]% Strength <when fighting in [Desert] tiles>"]
+                "uniques": ["[+15]% Strength <when fighting in [Desert] tiles>", "Never appears as a Barbarian unit"]
 		"hurryCostModifier": 20,
 		"attackSound": "herb"
 	},
@@ -979,7 +998,7 @@
 		"strength": 60,
 		"cost": 310,
 		"requiredTech": "Chainsaw",
-                "uniques": ["[+10]% Strength <when fighting in [Desert] tiles>", "[+10]% Strength <when fighting in [Hill] tiles>", "[+15]% Strength <when fighting in [Strategic resource] tiles>"]
+                "uniques": ["[+10]% Strength <when fighting in [Desert] tiles>", "Never appears as a Barbarian unit", "[+10]% Strength <when fighting in [Hill] tiles>", "[+15]% Strength <when fighting in [Strategic resource] tiles>"]
 		"hurryCostModifier": 20,
 		"attackSound": "chain"
 	},
@@ -1012,7 +1031,7 @@
 		"unitType": "Melee Water",
 		"movement": 3,
 		"strength": 40,
-                "uniques": ["[+10]% Strength <when fighting in [Bonus resource] tiles>", "[+10% Strength <when fighting in [Strategic resource] tiles>"]
+                "uniques": ["[+10]% Strength <when fighting in [Bonus resource] tiles>", "Never appears as a Barbarian unit", "[+10% Strength <when fighting in [Strategic resource] tiles>"]
 		"cost": 140,
 		"requiredTech": "Dock",
 		"attackSound": "dinoroar"
@@ -1024,7 +1043,7 @@
 		"unitType": "Melee Water",
 		"movement": 3,
 		"strength": 40,
-                "uniques": ["[+20]% Strength <when fighting in [Ocean] tiles>", "[+10% Strength <when fighting in [Strategic resource] tiles>"]
+                "uniques": ["[+20]% Strength <when fighting in [Ocean] tiles>", "Never appears as a Barbarian unit", "[+10% Strength <when fighting in [Strategic resource] tiles>"]
 		"cost": 140,
 		"requiredTech": "Dock",
 		"attackSound": "dinoroar"
@@ -1038,7 +1057,7 @@
 		"cost": 210,
 		"requiredTech": "Chain Bola",
                 "obsoleteTech": "Tek Shield",
-		"uniques": ["Can move after attacking", "[+20]% Strength <when fighting in [Coast] tiles>", "[+20]% Strength <when fighting in [Jungle] tiles>"],
+		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit", "[+20]% Strength <when fighting in [Coast] tiles>", "[+20]% Strength <when fighting in [Jungle] tiles>"],
 		"hurryCostModifier": 20,
                 "requiredResource": "Metal",
                 "promotions": ["Amphibious"],
@@ -1052,7 +1071,7 @@
 		"strength": 50,
 		"cost": 210,
 		"requiredTech": "Industrial Grill",
-                "uniques": ["[+10]% Strength <when fighting in [Dead Land] tiles>"]
+                "uniques": ["[+10]% Strength <when fighting in [Dead Land] tiles>", "Never appears as a Barbarian unit"]
 		"hurryCostModifier": 20,
                 "requiredResource": "Extinction Nodule",
 		"attackSound": "corrup"
@@ -1093,7 +1112,7 @@
 		"cost": 490,
 		"requiredTech": "Chain Bola",
                 "requiredResource": "Metal",
-                "uniques": ["[+20]% Strength <when fighting in [Hill] tiles>", "[-10]% Strength <when fighting in [Forest] tiles>"]
+                "uniques": ["[+20]% Strength <when fighting in [Hill] tiles>", "[-10]% Strength <when fighting in [Forest] tiles>", "Never appears as a Barbarian unit"]
                 "requiredResource": "Extinction Nodule",
 		"hurryCostModifier": 20,
                 "promotions": ["Terror I", "Terror II", "Terror III"],
@@ -1147,7 +1166,7 @@
 		"unitType": "Melee Water",
 		"movement": 3,
 		"strength": 45,
-                "uniques": ["[+15% Strength <when fighting in [Luxury resource] tiles>"]
+                "uniques": ["[+15% Strength <when fighting in [Luxury resource] tiles>", "Never appears as a Barbarian unit"]
 		"cost": 140,
 		"requiredTech": "Dock",
 		"attackSound": "dinoroar"
@@ -1250,7 +1269,7 @@
 		"cost": 140,
 		"requiredTech": "Metal Hatchet",
                 "obsoleteTech": "Sword",
-		"uniques": ["Can move after attacking"],
+		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "dinoroar"
 	},
@@ -1345,5 +1364,32 @@
 		"attackSound": "herb"
                 "requiredTech": "Transhumanism",
         },
+        {
+		"name": "Katipunero",
+                "replaces": "Flak Survivor",
+		"uniqueTo": "Fililpino Throne",
+                "upgradesTo": "Android Homodeus",
+                "obsoleteTech": "Transhumanism",
+		"unitType": "Sword",
+		"movement": 3,
+		"strength": 42,
+                "rangedStrength": 25,
+		"cost": 100,
+		"attackSound": "nonmetalhit"
+                "requiredTech": "Flak Armor",
+                "uniques": ["Never appears as a Barbarian unit", "Can build [Land] improvements on tiles", "Requires at least [1] population"],
+        },
+        {
+		"name": "Mamikonian",
+                "replaces": "Great General",
+		"uniqueTo": "Armenia Illumination",
+		"unitType": "Civilian",
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "[+15]% Strength bonus for [Military] units within [2] tiles", "[+15]% Strength bonus for [Mounted] units within [2] tiles"
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
         
 ]

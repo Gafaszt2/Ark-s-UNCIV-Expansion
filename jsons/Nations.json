@@ -481,4 +481,71 @@
 			"Generations","Dogmatic"],
         "spyNames": ["Sir Charles"]
 	}
+        {
+		"name": "Fililpino Throne",
+		"leaderName": "Kudarat IV",
+		"adjective": ["Fililpino"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "During some of the travels on the Arks, Sophia founded Kudarat on some distanct shores, with a lot of city states and forts, those people had some power over faith, that no one could match.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Helper of the Faith",
+                "uniques": ["[+40% Faith] from City-States", "[+1 Faith] from every [2] [Wooden Fort]",
+"[+2 Faith] from every [Cement Works]",
+"[+2 Faith] from every [Stone Fort]",
+"[+3 Faith] from every [Metal Fort]",
+"[+3 Faith] from every [Tek Forcefields]",
+"[+4 Faith] from every [Tek Protector]",
+"[+5 Faith] from every [Tek Armor Fabricator]" ],
+                
+                "outerColor": [61, 71, 21],
+		"innerColor": [32, 252, 3],
+		"cities": ["Agenda","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        {
+		"name": "Armenia Illumination",
+		"leaderName": "Tiridates XI",
+		"adjective": ["Armenian"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "The Armenians mourned their loss and made a monument where they kept their bones and footprints and dedicated an eternal poem to them, while other groups sought to end all kinds of memory..",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "The Illumination of Tiridates",
+                "uniques": ["[+1 Happiness] from every [2] [Faith]",
+"[+1 Faith] from every [Hill]"],
+                
+                "outerColor": [168, 47, 116],
+		"innerColor": [255, 219, 120],
+		"cities": ["Tigrana shat","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	}
 ]

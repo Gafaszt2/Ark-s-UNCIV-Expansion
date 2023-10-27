@@ -77,6 +77,7 @@
 	},
         {
 		"name": "Fruit Market Price",
+"replaces": "Fruit Market",
                 "uniqueTo": "Imperio da Grandeza",
 		"gold": 2,
                 "culture": -2,
@@ -85,6 +86,7 @@
 	},
         {
 		"name": "Restaurant",
+"replaces": "Market",
                 "uniqueTo": "Merveilleuse Commande",
 		"gold": 5,
                 "culture": 5,
@@ -94,6 +96,7 @@
 	},
         {
 		"name": "Europe Bank",
+"replaces": "Definitive Market",
                 "uniqueTo": "Germania",
 		"gold": 6,
                 "production": 4,
@@ -103,6 +106,7 @@
 	},
         {
 		"name": "Sunken Exportation",
+"replaces": "Coelacanth Fishing",
                 "uniqueTo": "Sunken",
 		"food": 2,
                 "production": 1,
@@ -112,6 +116,7 @@
         {
 		"name": "Mosque",
                 "uniqueTo": "Alwahid hu Alsahih",
+"replaces": "Rockwell House",
 		"faith": 2,
                 "culture": 2,
 		"hurryCostModifier": 50,
@@ -119,6 +124,7 @@
 	},
         {
 		"name": "Flower Palace",
+"replaces": "Rockwell House",
                 "uniqueTo": "Spiras Foria",
 		"culture": 2,
                 "science": 1,
@@ -127,6 +133,7 @@
 	},
         {
 		"name": "Nuclear Plant",
+"replaces": "Fabricators",
                 "uniqueTo": "Imperial America",
                 "greatPersonPoints": {"Great Engineer": 4},
 		"production": 3,
@@ -236,5 +243,26 @@
 "Cannot be purchased",
 "Never destroyed when city is captured",
                 ]
+	},
+        {
+		"name": "Palengke",
+                "replaces": "Market",
+                "uniqueTo": "Fililpino Throne",
+                "gold": 1
+                "food": 2
+                "happiness": 1
+		"hurryCostModifier": 70,
+                "requiredTech": "Preserving Bin"
+	},
+        {
+		"name": "Vank",
+                "replaces": "Rockwell House",
+                "uniqueTo": "Armenia Illumination",
+                "greatPersonPoints": {"Great Scientist": 2},
+		"faith": 2,
+		"hurryCostModifier": 50,
+		"requiredTech": "Spyglass" 
+"uniques":["[+1 Faith] from every [Lake] [in this city]"]
+                "requiredBuilding": "Rockwell Stories"
 	},
 ]
