@@ -83,8 +83,8 @@
                 "uniqueName": "Freedom",
                 "uniques": ["[+1 Gold] from every [Ark Monument]", "[+1 Happiness] from every [Ark Monument]", "[-2 Gold] from every [Place Mark]"],
 
-		"outerColor": [163, 150, 98],
-		"innerColor": [247, 200, 161],
+		"outerColor": [63, 105, 242],
+		"innerColor": [198, 209, 247],
 		"cities": ["Washington","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
@@ -263,8 +263,8 @@
                 "uniqueName": "Coast Fighters",
                 "uniques": ["[+15]% Strength <when fighting in [Coast] tiles>", "[+15]% Strength <when fighting in [Swamp Zone] tiles>", "[+1 Gold] from every [Coast]", "Double quantity of [Coral] produced", "Double quantity of [Black Pearl] produced"],
 
-		"outerColor": [247, 156, 180],
-		"innerColor": [73, 136, 173],
+		"outerColor": [51, 14, 34],
+		"innerColor": [247, 156, 205],
 		"cities": ["Life","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
@@ -291,7 +291,7 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Against Germania",
-                "uniques": ["[+5]% Production when constructing [Chariot] units [in all cities]", "[+1 Production] from every [3][Mine]", "Double quantity of [Heart of the Shadows] produced", "[+10]% Strength for cities"],
+                "uniques": ["[+5]% Production when constructing [Chariot] units [in all cities]", "[+1 Production] from every [3] [Mine]", "Double quantity of [Heart of the Shadows] produced", "[+10]% Strength for cities"],
 
 		"outerColor": [49, 0, 105],
 		"innerColor": [252, 136, 161],
@@ -543,6 +543,36 @@
                 "outerColor": [168, 47, 116],
 		"innerColor": [255, 219, 120],
 		"cities": ["Tigrana shat","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	}
+        {
+		"name": "Mega Korea",
+		"leaderName": "Sun Ultra",
+		"adjective": ["Korean"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Irma was born on the Birmountia lands, before going insane with Germania project, this people have not died yet, Margaret seems to bring light to their lives",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Turtle Ships",
+                "uniques": ["[+10]% Production when constructing [Water Melee] units [in all cities]","[+1 Science] from every [3] [Coast]", "[+1 Science] from every [2] [Ark Monument]", "[+10]% Production when constructing [Civilian] units [in all cities]"],
+
+		"outerColor": [73, 39, 245],
+		"innerColor": [10, 10, 10],
+		"cities": ["Seoul","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
 			"Generations","Dogmatic"],

@@ -1391,5 +1391,33 @@
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	},
-        
+        {
+		"name": "Pukyongosaurus",
+                "replaces": "Europasaurus",
+		"uniqueTo": "Mega Korea",
+		"unitType": "Destroyer of Theropods",
+                "obsoleteTech": "Canteen",
+		"movement": 2,
+		"strength": 53,
+		"cost": 230,
+		"requiredTech": "Electronics",
+                "uniques": ["[+20]% Strength <when fighting in [Grassland] tiles>", "[+5]% Strength <when fighting in [Desert] tiles>", "Never appears as a Barbarian unit"]
+		"hurryCostModifier": 20,
+                "promotions": ["Divine I"],
+		"attackSound": "herb"
+	},
+        {
+		"name": "Koreaceratops",
+                "replaces": "Chilesaurus",
+		"uniqueTo": "Mega Korea",
+		"unitType": "Mounted",
+                "obsoleteTech": "Spike Wall",
+		"movement": 2,
+		"strength": 17,
+		"cost": 110,
+		"requiredTech": "Raft",
+                "uniques": ["[+30]% Strength <when fighting in [Coast] tiles>", "Never appears as a Barbarian unit"]
+		"hurryCostModifier": 20,
+		"attackSound": "dinoroar"
+	},
 ]
