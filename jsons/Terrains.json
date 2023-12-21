@@ -8,4 +8,23 @@
 		"movementCost": 1,
 		"RGB": [189, 214, 255]
 	},
+ {
+		"name": "WooDanher",
+		"type": "Land",
+		"food": 2,
+		"impassable": false, 
+		"unbuildable": false,
+		"movementCost": 1,
+		"RGB": [47, 74, 8]
+	},
+ {
+		"name": "WoodFelenk",
+		"type": "Land",
+		"food": 1,
+                "faith": 2,
+		"impassable": true, 
+		"unbuildable": false,
+		"movementCost": 1,
+		"RGB": [28, 43, 7]
+	},
 ]

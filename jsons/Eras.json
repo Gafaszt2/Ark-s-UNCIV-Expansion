@@ -112,5 +112,24 @@
         "iconRGB": [138, 251, 255]
         "uniques": ["May not generate great prophet equivalents naturally"
         ]
+    },  
+    {
+        "name": "Space Race era",
+        "researchAgreementCost": 250,
+        "startingSettlerCount": 3,
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 3,
+        "startingMilitaryUnit": "Astronaut",
+        "startingGold": 1350,
+        "startingCulture": 690,
+        "settlerPopulation": 3,
+        "baseUnitBuyCost": 320,
+        "embarkDefense": 8,
+        "startPercent": 37,
+        "settlerBuildings": ["Ark Monument","Picking Up Stones","Picking Up Berries","Flint Recolection","Mining Beach Stones","Hunting Beach Creatures","Wooden Fort","Market","Circus","Place Mark","Water Recolection","Rockwell Stories"],
+        "citySound": "cityTranscendence",
+        "iconRGB": [138, 251, 255]
+        "uniques": ["May not generate great prophet equivalents naturally"
+        ]
     }
 ]

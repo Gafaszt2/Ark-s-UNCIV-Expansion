@@ -1,6 +1,37 @@
 [
         {
 		//nations
+		"name": "4044",
+		"leaderName": "GR1M",
+		"adjective": ["4044"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "ERROR MACRO.",
+		"startIntroPart2": "",
+
+		"declaringWar": "xxxcccccxx",
+		"attacked": "mmmxccc xxcccc.",
+		"defeated": "ERROR ERROR ERROR ERROR ERROR.",
+		"introduction": "EV3N THE D4RK3ST N1GHT WILL 3ND AND TH3 5UN W1LL R1S3",
+
+		"neutralHello": "XXCCCX CCCCXXX.",
+		"hateHello": "ERROR ERROR ERROR ERROR ERROR",
+
+		"tradeRequest": "XCCXX CCCXXXXX.",
+                "uniqueName": "50055",
+                "uniques": ["[Gold] cost of purchasing [All] units [-30]%","[+10]% Production when constructing [Military] units [in all cities]","[+1 Faith] [in all cities]"],
+
+		"outerColor": [3, 3, 3],
+		"innerColor": [214, 210, 210],
+		"cities": ["10449","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        {
+		//nations
 		"name": "Imperio da Grandeza",
 		"leaderName": "Sophia",
 		"adjective": ["Brasilians"],

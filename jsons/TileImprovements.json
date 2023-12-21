@@ -6,7 +6,14 @@
 		"food": 1,
 		"turnsToBuild": 2,
 		"uniques": ["Can only be built to improve a resource"],
-	}
+	},
+        {
+		"name": "Wendigo Camp",
+		"terrainsCanBeBuiltOn": ["WooDanher"],
+		"culture": 1,
+                "production": 2,
+		"turnsToBuild": 8,
+	},
         {
 		"name": "Nothosaurus",
 		"terrainsCanBeBuiltOn": ["Land"],

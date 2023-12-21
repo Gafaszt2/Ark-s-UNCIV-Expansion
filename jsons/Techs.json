@@ -613,7 +613,7 @@
     {
 		"columnNumber": 21,
 		"era": "Transcendence era",
-		"techCost": 500,
+		"techCost": 550,
 		"buildingCost": 510,
 		"wonderCost": 185,
 		"techs": [
@@ -646,7 +646,7 @@
     {
 		"columnNumber": 22,
 		"era": "Transcendence era",
-		"techCost": 500,
+		"techCost": 600,
 		"buildingCost": 510,
 		"wonderCost": 185,
 		"techs": [
@@ -678,15 +678,165 @@
 	},
     {
 		"columnNumber": 23,
-		"era": "Transcendence era",
-		"techCost": 500,
+		"era": "Space Race era",
+		"techCost": 700,
 		"buildingCost": 510,
 		"wonderCost": 185,
 		"techs": [
                         {
-				"name": "End of The World",
+				"name": "Space Exploration",
 				"row": 5,
 				"prerequisites": ["Galactic Theory", "Heart of Steel", "Serving Machines", "Total War"],
+			}
+		]
+	},
+    {
+		"columnNumber": 24,
+		"era": "Space Race era",
+		"techCost": 770,
+		"buildingCost": 510,
+		"wonderCost": 185,
+		"techs": [
+                        {
+				"name": "Catadioptric Telescopes",
+				"row": 2,
+				"prerequisites": ["Space Exploration"],
+                                "quote": "."
+			},
+                        {
+				"name": "Advanced Space Probes",
+				"row": 6,
+				"prerequisites": ["Space Exploration"],
+                                "quote": "."
+			},
+                        {
+				"name": "Atomic Spectrometers",
+				"row": 9,
+				"prerequisites": ["Space Exploration"],
+                                "quote": "."
+			}
+		]
+	},
+    {
+		"columnNumber": 25,
+		"era": "Space Race era",
+		"techCost": 790,
+		"buildingCost": 510,
+		"wonderCost": 185,
+		"techs": [
+                        {
+				"name": "Space Dark Faith",
+				"row": 2,
+				"prerequisites": ["Catadioptric Telescopes"],
+                                "quote": "."
+			},
+                        {
+				"name": "Nuclear Reaction",
+				"row": 3,
+				"prerequisites": ["Catadioptric Telescopes","Advanced Space Probes"],
+                                "quote": "."
+			},
+                        {
+				"name": "Tech Shipments",
+				"row": 8,
+				"prerequisites": ["Atomic Spectrometers"],
+                                "quote": "."
+			},
+                        {
+				"name": "Astral Metals",
+				"row": 9,
+				"prerequisites": ["Atomic Spectrometers"],
+                                "quote": "."
+			}
+		]
+	},
+    {
+		"columnNumber": 26,
+		"era": "Space Race era",
+		"techCost": 900,
+		"buildingCost": 510,
+		"wonderCost": 185,
+		"techs": [
+                        {
+				"name": "Nuclear Genetic Studies",
+				"row": 3,
+				"prerequisites": ["Space Dark Faith","Nuclear Reaction"],
+                                "quote": "."
+			},
+                        {
+				"name": "Atomic Future Studies",
+				"row": 9,
+				"prerequisites": ["Tech Shipments","Astral Metals"],
+                                "quote": "."
+			}
+		]
+	},
+    {
+		"columnNumber": 27,
+		"era": "Space Race era",
+		"techCost": 940,
+		"buildingCost": 510,
+		"wonderCost": 185,
+		"techs": [
+                        {
+				"name": "Nuclear Composites",
+				"row": 3,
+				"prerequisites": ["Nuclear Genetic Studies"],
+                                "quote": "."
+			},
+{
+				"name": "Skin Genetics",
+				"row": 4,
+				"prerequisites": ["Nuclear Genetic Studies","Atomic Future Studies"],
+                                "quote": "."
+			},
+{
+				"name": "Globalization",
+				"row": 8,
+				"prerequisites": ["Nuclear Genetic Studies","Atomic Future Studies"],
+                                "quote": "."
+			},
+                        {
+				"name": "Legacy Research",
+				"row": 9,
+				"prerequisites": ["Atomic Future Studies"],
+                                "quote": "."
+			}
+		]
+	},
+    {
+		"columnNumber": 28,
+		"era": "Space Race era",
+		"techCost": 1000,
+		"buildingCost": 510,
+		"wonderCost": 185,
+		"techs": [
+                        {
+				"name": "Star Troops",
+				"row": 3,
+				"prerequisites": ["Nuclear Composites","Skin Genetics"],
+                                "quote": "."
+			},
+                        {
+				"name": "Black Holes",
+				"row": 9,
+				"prerequisites": ["Globalization","Legacy Research"],
+                                "quote": "."
+			}
+		]
+	},
+    {
+		"columnNumber": 29,
+		"era": "Space Race era",
+		"techCost": 1000,
+		"buildingCost": 510,
+		"wonderCost": 185,
+		"techs": [
+                        {
+				"name": "Future",
+				"row": 6,
+				"prerequisites": ["Star Troops","Black Holes"],
+                                "quote": "."
 			}
 		]
 	}
