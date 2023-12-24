@@ -11,63 +11,18 @@
 		"name": "Wendigo Camp",
 		"terrainsCanBeBuiltOn": ["WooDanher"],
 		"culture": 1,
-                "production": 2,
 		"turnsToBuild": 8,
-	},
+	}
         {
-		"name": "Nothosaurus",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"happiness": 1,
-                "science": 2,
-		"uniques": ["Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]", "Cannot be built on [Strategic resource] tiles", "Cannot be built on [Bonus resource] tiles", "Cannot be built on [Luxury resource] tiles"]
-	},
+		"name": "Wendigo Pasture",
+		"terrainsCanBeBuiltOn": ["WooDanher"],
+		"food": 1,
+		"turnsToBuild": 4,
+	} 
         {
-		"name": "Shonisaurus",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"happiness": 1,
-                "culture": 2,
-		"uniques": ["Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
-	},
-        {
-		"name": "Tanystropheus",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"gold": 1,
-                "food": 2,
-		"uniques": ["Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
-	},
-        {
-		"name": "Hainosaurus",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"faith": 1,
-                "food": 2,
-		"uniques": ["Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
-	},
-         {
-		"name": "Kentrosaurus",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"production": 2,
-                "science": 1,
-		"uniques": ["Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
-	},
-        {
-		"name": "Cryolophosaurus",
-		"terrainsCanBeBuiltOn": ["Land"],
+		"name": "Wendigo Science Facility",
+		"terrainsCanBeBuiltOn": ["WooDanher"],
 		"science": 1,
-                "culture": 2,
-		"uniques": ["Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
-	},
-        {
-		"name": "Acrocanthosaurus",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"gold": 2,
-                "science": 1,
-		"uniques": ["Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
-	},
-        {
-		"name": "Proceratosaurus",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"faith": 2,
-                "gold": 1,
-		"uniques": ["Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
-	},
+		"turnsToBuild": 12,
+	}
 ]

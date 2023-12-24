@@ -323,12 +323,6 @@
 		"minorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1}
 	},
         {
-		"name": "Park",
-                "revealedBy": "Smithy",
-		"resourceType": "Strategic",
-		"production": 1,
-	},
-        {
 		"name": "Extinction Nodule",
 		"resourceType": "Strategic",
                 "revealedBy": "Smithy",

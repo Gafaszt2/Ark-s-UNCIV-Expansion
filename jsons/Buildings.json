@@ -76,6 +76,28 @@
 		"requiredTech": "Fishing Rod"
 	},
         {
+		"name": "Palisada",
+"replaces": "Windmill",
+                "uniqueTo": "Smierc",
+                "greatPersonPoints": {"Great Engineer": 1},
+		"food": 1,
+                "production": 3,
+                "maintenance": 1,
+		"hurryCostModifier": 50,
+		"requiredTech": "Stone Irrigation Pipe"
+	},
+        {
+		"name": "Feudal Village",
+"replaces": "Neighborhood",
+                "uniqueTo": "Smierc",
+                "greatPersonPoints": {"Great Engineer": 1},
+		"food": 1,
+                "culture": 1,
+                "gold": 3,
+		"hurryCostModifier": 50,
+		"requiredTech": "Fishing Rod"
+	},
+        {
 		"name": "Fruit Market Price",
 "replaces": "Fruit Market",
                 "uniqueTo": "Imperio da Grandeza",
@@ -132,6 +154,16 @@
 		"requiredTech": "Gunpowder"
 	},
         {
+		"name": "Cryopod Fridge",
+                "replaces": "Ark Monument",
+                "uniqueTo": "Cryogenic Empire",
+		"science": 1,
+                "production": 1,
+		"cost": 70,
+		"hurryCostModifier": 20,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+        {
 		"name": "Nuclear Plant",
 "replaces": "Fabricators",
                 "uniqueTo": "Imperial America",
@@ -141,108 +173,6 @@
                 "maintenance": 1,
 		"hurryCostModifier": 50,
 		"requiredTech": "Flamethrower"
-	},
-        {
-		"name": "Park Creation",
-                "uniques": ["Provides [1] [Park]"],
-		"hurryCostModifier": 25,
-		"requiredTech": "Smithy"
-	},
-        {
-		"name": "Notho Colocation",
-            "requiredBuilding": "Park Creation"
-            "requiredResource": "Park"
-		"requiredTech": "Smithy"
-		"uniques": [
-"Creates a [Nothosaurus] improvement on a specific tile",
-"Unsellable",
-"Cannot be purchased",
-"Never destroyed when city is captured",
-                ]
-	},
-        {
-		"name": "Shoni Colocation",
-            "requiredBuilding": "Park Creation"
-            "requiredResource": "Park"
-		"requiredTech": "Smithy"
-		"uniques": [
-"Creates a [Shonisaurus] improvement on a specific tile",
-"Unsellable",
-"Cannot be purchased",
-"Never destroyed when city is captured",
-                ]
-	},
-        {
-		"name": "Tany Colocation",
-            "requiredBuilding": "Park Creation"
-            "requiredResource": "Park"
-		"requiredTech": "Smithy"
-		"uniques": [
-"Creates a [Tanystropheus] improvement on a specific tile",
-"Unsellable",
-"Cannot be purchased",
-"Never destroyed when city is captured",
-                ]
-	},
-        {
-		"name": "Haino Colocation",
-            "requiredBuilding": "Park Creation"
-            "requiredResource": "Park"
-		"requiredTech": "Smithy"
-		"uniques": [
-"Creates a [Hainosaurus] improvement on a specific tile",
-"Unsellable",
-"Cannot be purchased",
-"Never destroyed when city is captured",
-                ]
-	},
-        {
-		"name": "Kentro Colocation",
-            "requiredBuilding": "Park Creation"
-            "requiredResource": "Park"
-		"requiredTech": "Smithy"
-		"uniques": [
-"Creates a [Kentrosaurus] improvement on a specific tile",
-"Unsellable",
-"Cannot be purchased",
-"Never destroyed when city is captured",
-                ]
-	},
-        {
-		"name": "Cryo Colocation",
-            "requiredBuilding": "Park Creation"
-            "requiredResource": "Park"
-		"requiredTech": "Smithy"
-		"uniques": [
-"Creates a [Cryolophosaurus] improvement on a specific tile",
-"Unsellable",
-"Cannot be purchased",
-"Never destroyed when city is captured",
-                ]
-	},
-        {
-		"name": "Acro Colocation",
-            "requiredBuilding": "Park Creation"
-            "requiredResource": "Park"
-		"requiredTech": "Smithy"
-		"uniques": [
-"Creates a [Acrocanthosaurus] improvement on a specific tile",
-"Unsellable",
-"Cannot be purchased",
-"Never destroyed when city is captured",
-                ]
-	},
-        {
-		"name": "Procerato Colocation",
-            "requiredBuilding": "Park Creation"
-            "requiredResource": "Park"
-		"requiredTech": "Smithy"
-		"uniques": [
-"Creates a [Proceratosaurus] improvement on a specific tile",
-"Unsellable",
-"Cannot be purchased",
-"Never destroyed when city is captured",
-                ]
 	},
         {
 		"name": "Palengke",

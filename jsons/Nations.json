@@ -53,9 +53,132 @@
                 "uniqueName": "Reino da beleza e da Arte",
                 "uniques": ["[+2 Culture] from every [Jungle]", "[+1 Science] from every [Lakes]"],
 
-		"outerColor": [148, 156, 62],
-		"innerColor": [255, 254, 196],
+		"outerColor": [33, 33, 31],
+		"innerColor": [252, 219, 111],
 		"cities": ["Brasilia","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        {
+		//nations
+		"name": "Cryogenic Empire",
+		"leaderName": "Juliana",
+		"adjective": ["Cryogenic"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "The cryogenic empire appeared in very distant areas in the cosmos, the homodeus sought new ways to dominate the world, and found new beasts and new challenges.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Arctic Flower",
+                "uniques": ["[+2 Faith] from each [Trade route]", "Allied City-States provide [Science] equal to [20]% of what they produce for themselves"],
+
+		"outerColor": [202, 247, 250],
+		"innerColor": [8, 60, 64],
+		"cities": ["Snowflake","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        {
+		//nations
+		"name": "Volcanic Nation",
+		"leaderName": "Aleid",
+		"adjective": ["Volcanic"],
+		"startBias": ["Volcano"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "The Fire consumes Everything.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Consumption Force",
+                "uniques": ["[+4 Faith] from every [Volcano]", "[+1 Food] from every [Volcanic Soil]"],
+
+		"outerColor": [82, 43, 38],
+		"innerColor": [240, 55, 31],
+		"cities": ["Infernum","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        {
+		//nations
+		"name": "Dormanta Imperios",
+		"leaderName": "Micaela",
+		"adjective": ["Dormanta"],
+		"startBias": ["Redwoods"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "In the heart of nature, where the sun barely peeks out, lies a dream forest.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Arbara Animos",
+                "uniques": ["[+1 Production] from every [Redwoods]", "[+1 Food] from every [Sap Collector]","[-5]% Culture cost of adopting new Policies"],
+
+		"outerColor": [73, 74, 70],
+		"innerColor": [236, 252, 169],
+		"cities": ["Si Alia","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        {
+		"name": "Smierc",
+		"leaderName": "Karina",
+		"adjective": ["Polish"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "In the heart of nature, where the sun barely peeks out, lies a dream forest.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Wiersze Bólu",
+                "uniques": ["[+20]% Production when constructing [Prey] units [in all cities]","[+20]% Production when constructing [Flying] units [in all cities]","[+15]% Production when constructing [Destroyer of Theropods] units [in all cities]"],
+
+		"outerColor": [232, 202, 162],
+		"innerColor": [74, 14, 43],
+		"cities": ["Kapitał Sakramentalny","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
 			"Generations","Dogmatic"],
@@ -568,8 +691,7 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "The Illumination of Tiridates",
-                "uniques": ["[+1 Happiness] from every [2] [Faith]",
-"[+1 Faith] from every [Hill]"],
+                "uniques": ["[+1 Faith] from every [Hill]"],
                 
                 "outerColor": [168, 47, 116],
 		"innerColor": [255, 219, 120],
@@ -586,7 +708,7 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "Irma was born on the Birmountia lands, before going insane with Germania project, this people have not died yet, Margaret seems to bring light to their lives",
+		"startIntroPart1": "Korea was meant to be this big? it seems so",
 		"startIntroPart2": "",
 
 		"declaringWar": "This is the end!",
