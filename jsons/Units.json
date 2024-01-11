@@ -1531,4 +1531,34 @@
 		"hurryCostModifier": 20,
 		"attackSound": "dinoroar"
 	},
+        {
+		"name": "Sivatherium",
+                "replaces": "Stego Rider",
+		"uniqueTo": "Photogenia",
+		"unitType": "Mammal",
+		"movement": 2,
+		"strength": 30,
+		"cost": 90,
+		"requiredTech": "Tranq Arrow",
+		"uniques": ["[+10]% Strength <when fighting in [Plains] tiles>", "Never appears as a Barbarian unit"]
+		"hurryCostModifier": 20,
+                "upgradesTo": "Theri Rider",
+                "obsoleteTech": "Metal Hatchet",
+		"attackSound": "herb"
+	},
+        {
+		"name": "Elasmotherium",
+                "replaces": "Allo Rider",
+		"uniqueTo": "Photogenia",
+		"unitType": "Mammal",
+		"movement": 3,
+		"strength": 50,
+		"cost": 150,
+		"requiredTech": "Sword",
+                "obsoleteTech": "Fabricator",
+                "uniques": ["[+10]% Strength <when fighting in [Tundra] tiles>","[+10]% Strength <when fighting in [Snow] tiles>", "Never appears as a Barbarian unit"]
+		"uniques": ["Can move after attacking"],
+		"hurryCostModifier": 20,
+		"attackSound": "dinoroar"
+	},
 ]

@@ -323,6 +323,28 @@
 		"minorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1}
 	},
         {
+		"name": "Nuclear Waste",
+                "revealedBy": "Space Exploration",
+		"resourceType": "Strategic",
+		"terrainsCanBeFoundOn": ["Coast"],
+                "gold": 3,
+		"improvement": "Nuclear Collector",
+                "uniques": ["Generated on every [25] tiles <in [Coast] tiles>"]
+                "majorDepositAmount": {"sparse": 1, "default": 4, "abundant": 4},
+		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 4}
+	},
+        {
+		"name": "Amanyte",
+                "revealedBy": "Space Exploration",
+		"resourceType": "Strategic",
+		"terrainsCanBeFoundOn": ["Hill","Beach"],
+                "science": 1,
+		"improvement": "Mine",
+                "uniques": ["Generated on every [60] tiles <in [Beach] tiles>","Generated on every [80] tiles <in [Hill] tiles>"]
+                "majorDepositAmount": {"sparse": 1, "default": 4, "abundant": 4},
+		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 4}
+	},
+        {
 		"name": "Extinction Nodule",
 		"resourceType": "Strategic",
                 "revealedBy": "Smithy",
