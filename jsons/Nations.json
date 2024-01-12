@@ -31,6 +31,36 @@
         "spyNames": ["Sir Charles"]
 	},
         {
+		"name": "Furtaker Empire",
+		"leaderName": "Camila",
+		"adjective": ["Furtaker"],
+		"startBias": ["Beach"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "Camila likes to hang animal taxidermy on her luxury hotel, as her troops try to hold into a land of nowere, in hard times, civilization may shine.",
+		"startIntroPart2": "",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Beach Conquerors",
+                "uniques": ["[+50]% Production when constructing [Mammal] units [in all cities]"],
+
+		"outerColor": [255, 189, 210],
+		"innerColor": [73, 21, 112],
+		"cities": ["Taxidermy","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+        {
 		"name": "Photogenia",
 		"leaderName": "Theodora",
 		"adjective": ["Photogenians"],

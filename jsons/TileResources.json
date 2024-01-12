@@ -210,8 +210,9 @@
         {
 		"name": "Whale Fat",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Fallout Land"],
+		"terrainsCanBeFoundOn": ["Fallout Land","Beach"],
 		"science": 1,
+                "uniques": ["Generated on every [200] tiles <in [Beach] tiles>"]
 		"improvement": "Camp",
 		"improvementStats": {"culture": 1},
 	},
