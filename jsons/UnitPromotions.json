@@ -907,6 +907,50 @@
         "column": 34,
         "row": 18
 	},
+         {
+		"name": "Tooths I",
+		"uniques": ["[+5]% Strength <for [Wounded] units>"],
+		"unitTypes": ["Marine Reptile","Marine Amphibious","Cetaceous","Fish"],
+        "column": 56,
+        "row": 39
+    },
+    {
+		"name": "Tooths II",
+                "prerequisites": ["Tooths I"],
+		"uniques": ["[+15]% Strength <for [Wounded] units>"],
+		"unitTypes": ["Marine Reptile","Marine Amphibious","Cetaceous","Fish"],
+        "column": 57,
+        "row": 40
+    },
+    {
+		"name": "Hydrodynamic Body",
+		"uniques": ["[+1] Movement <in [Ocean] tiles>","[+1] Movement <in [Coast] tiles>","All adjacent units heal [+5] HP when healing"],
+		"unitTypes": ["Marine Reptile","Marine Amphibious","Cetaceous","Fish"],
+        "column": 58,
+        "row": 41
+    },
+
+
+{
+		"name": "Flippers",
+		"uniques": ["[+1] Movement <in [Coral Zone] tiles>","[+25]% Strength <vs cities>"],
+		"unitTypes": ["Marine Reptile"],
+    },
+{
+		"name": "Strong Bite",
+		"uniques": ["Heals [25] damage if it kills a unit"],
+		"unitTypes": ["Marine Amphibious"],
+    },
+{
+		"name": "Lungs",
+		"uniques": ["[+1] Movement <in [Ocean] tiles>","Earn [25]% of the damage done to [City] units as [Gold]"],
+		"unitTypes": ["Cetaceous"],
+    },
+{
+		"name": "Gills",
+		"uniques": ["[+10] HP when healing <in [Foreign Land] tiles>"],
+		"unitTypes": ["Fish"],
+    },
     {
         "name": "[Chu-Ko-Nu] ability",
         "uniques": ["[1] additional attacks per turn", "Can move after attacking"]
