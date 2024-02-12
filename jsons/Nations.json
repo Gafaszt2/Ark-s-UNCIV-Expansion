@@ -1,5 +1,35 @@
 [
             {
+		"name": "Poctulemai",
+		"leaderName": "Gafaszt2",
+		"adjective": ["Argentinian"],
+		"startBias": ["Beach"],
+		"preferredVictoryType":"Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "...now comes a crucial moment, to take this civilization to the stars",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [128, 74, 125],
+		"innerColor": [252, 204, 106],
+		"uniqueName": "Dino Geek",
+		"uniques": ["[+50]% Yield from every [Bonus resource]"],
+		"cities": ["Interesme","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Rossevelt"]
+    },
+            {
 		"name": "Vooruit",
 		"leaderName": "Kracht Hart",
 		"adjective": ["Dutch"],

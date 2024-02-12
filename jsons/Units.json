@@ -13,6 +13,17 @@
 		"attackSound": "dinoroar"
 	},
         {
+		"name": "Takane Lui",
+		"uniqueTo": "Poctulemai",
+                "requiredResource": "Channel",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 28,
+		"cost": 45,
+		"attackSound": "shot"
+                "uniques": ["[+100]% Strength <starting from the [Leather era]>", "[+100]% Strength <starting from the [Smithy era]>", "[+50]% Strength <starting from the [Electric era]>", "[+150]% Strength <starting from the [Tek era]>"],
+        },
+        {
 		"name": "Mesosaurus",
                 "upgradesTo": "Plesio Rider",
 		"unitType": "Marine Reptile",

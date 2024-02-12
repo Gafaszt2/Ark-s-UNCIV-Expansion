@@ -1,5 +1,4 @@
 [
-
 	{
 		"name": "Acuatic Exploration",
 		"terrainsCanBeBuiltOn": ["Coast","Ocean"],

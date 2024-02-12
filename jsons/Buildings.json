@@ -185,6 +185,15 @@
                 "requiredTech": "Preserving Bin"
 	},
         {
+		"name": "Vtuber Station",
+                "requiredTech": "Agriculture"
+                "uniqueTo": "Poctulemai",
+                "isNationalWonder": true,
+		"hurryCostModifier": 25,
+                "cost": 20,
+		"uniques": ["Provides [1] [Channel]"],
+	},
+        {
 		"name": "Vank",
                 "replaces": "Rockwell House",
                 "uniqueTo": "Armenia Illumination",
