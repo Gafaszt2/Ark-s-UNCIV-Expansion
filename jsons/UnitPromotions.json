@@ -781,8 +781,8 @@
 	{
 		"name": "Terror II",
 		"prerequisites": ["Terror I"],
-		"uniques": ["[+20]% to Flank Attack bonuses","Corrupted"],
-		"unitTypes": ["Chariot","Destroyer of Theropods"],
+		"uniques": ["[+20]% to Flank Attack bonuses"],
+		"unitTypes": ["Chariot","Destroyer of Theropods","Corrupted"],
         "column": 29,
         "row": 11
 	},

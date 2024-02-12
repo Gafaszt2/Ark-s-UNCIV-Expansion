@@ -1096,7 +1096,7 @@
 		"strength": 60,
 		"cost": 310,
 		"requiredTech": "Chainsaw",
-                "uniques": ["[+10]% Strength <when fighting in [Desert] tiles>", "Never appears as a Barbarian unit", "[+10]% Strength <when fighting in [Hill] tiles>", "[+15]% Strength <when fighting in [Strategic resource] tiles>"]
+                "uniques": ["[+10]% Strength <when fighting in [Desert] tiles>", "Never appears as a Barbarian unit", "[+10]% Strength <when fighting in [Hill] tiles>", "[+15]% Strength <when fighting in [Ranch] tiles>"]
 		"hurryCostModifier": 20,
 		"attackSound": "chain"
 	},
@@ -1129,7 +1129,7 @@
 		"unitType": "Marine Amphibious",
 		"movement": 3,
 		"strength": 40,
-                "uniques": ["[+10]% Strength <when fighting in [Bonus resource] tiles>", "Never appears as a Barbarian unit", "[+10% Strength <when fighting in [Strategic resource] tiles>"]
+                "uniques": ["Never appears as a Barbarian unit"]
 		"cost": 140,
 		"requiredTech": "Dock",
 		"attackSound": "dinoroar"
@@ -1141,8 +1141,8 @@
 		"unitType": "Marine Reptile",
 		"movement": 3,
 		"strength": 40,
-                "uniques": ["[+20]% Strength <when fighting in [Ocean] tiles>", "Never appears as a Barbarian unit", "[+10% Strength <when fighting in [Strategic resource] tiles>"]
-		"cost": 140,
+                "uniques": ["[+20]% Strength <when fighting in [Ocean] tiles>", "Never appears as a Barbarian unit"]
+		"cost": 200,
 		"requiredTech": "Dock",
 		"attackSound": "dinoroar"
 	},
@@ -1264,7 +1264,7 @@
 		"unitType": "Marine Reptile",
 		"movement": 3,
 		"strength": 45,
-                "uniques": ["[+15% Strength <when fighting in [Luxury resource] tiles>", "Never appears as a Barbarian unit"]
+                "uniques": ["Never appears as a Barbarian unit"]
 		"cost": 140,
 		"requiredTech": "Dock",
 		"attackSound": "dinoroar"
@@ -1290,7 +1290,7 @@
 		"cost": 90,
 		"requiredTech": "Spike Wall",
                 "requiredResource": "Chitin",
-		"uniques": ["Never appears as a Barbarian unit", "[+15% Strength <when fighting in [Coast] tiles>"],
+		"uniques": ["Never appears as a Barbarian unit", "[+10]% Strength <when fighting in [Coast] tiles>"],
 		"hurryCostModifier": 20,
                 "obsoleteTech": "Smithy",
 		"attackSound": "chari"
@@ -1396,7 +1396,7 @@
 		"requiredTech": "Spike Wall",
                 "upgradesTo": "Stego Rider",
                 "obsoleteTech": "Tranq Arrow",
-		"uniques": ["[+15]% Strength <vs [Mounted] units> on [Swamp Zone] or [Marsh] tiles","Never appears as a Barbarian unit"],
+		"uniques": ["[+15]% Strength <vs [Theropoda] units>","[+15]% Strength <vs [Prey] units>","Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "chari"
 	},

@@ -201,7 +201,7 @@
 		"faith": 2,
 		"hurryCostModifier": 50,
 		"requiredTech": "Spyglass" 
-"uniques":["[+1 Faith] from every [Lake] [in this city]"]
+"uniques":["[+1 Faith] from every [Lakes]"]
                 "requiredBuilding": "Rockwell Stories"
 	},
 ]

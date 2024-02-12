@@ -82,7 +82,7 @@
 		"outerColor": [205, 145, 165],
 		"innerColor": [229, 252, 187],
 		"uniqueName": "Ikhanda",
-		"uniques": ["[+1] Production <for [Mounted] units>", "[+5]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"],
+		"uniques": ["Double quantity of [Prionosuchus] produced", "[+5]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"],
 		"cities": ["Great Zimbabwe","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
@@ -112,7 +112,7 @@
 		"outerColor": [225, 65, 73],
 		"innerColor": [91, 26, 117],
 		"uniqueName": "Magyars Legacy",
-		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns.", "[+1 Food] from every [Hill]", "[-1 Food] from every [Coast]"],
+		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns.", "[+2 Culture] from every [Mountain]"],
 		"cities": ["New Vienna","Arat","Prime",
 			"Federal",
 			"United","Arkistia","Obeliskia","Techtia",
@@ -1021,7 +1021,7 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Arctic Flower",
-                "uniques": ["[+2 Faith] from each [Trade route]", "Allied City-States provide [Science] equal to [20]% of what they produce for themselves"],
+                "uniques": ["[+1 Faith] from every [Snow]","[+1 Faith] from every [Tundra]", "Allied City-States provide [Science] equal to [20]% of what they produce for themselves"],
 
 		"outerColor": [202, 247, 250],
 		"innerColor": [8, 60, 64],
@@ -1294,7 +1294,7 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Afkar Jadida",
-                "uniques": ["[+1 Production] from every [Forest] and [Jungle]", "[+1 Food] from every [2] [Forest] and [Jungle]", "[+1 Production] from every [Lumber mill]"],
+                "uniques": ["[+1 Production] from every [Carpentry Area]","[+1 Faith] from every [Carpentry Area]"],
 
 		"outerColor": [84, 13, 3],
 		"innerColor": [252, 116, 5],
@@ -1324,7 +1324,7 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Byt znovuzrozen",
-                "uniques": ["[+1 Science] from every [5] [Faith] and [Culture]", "[+1 Science] from every [Great Improvement]"],
+                "uniques": ["[+1 Science] from every [Faith]", "[+1 Science] from every [Great Improvement]","[-1 Faith] from every [Ranch]","[-1 Faith] from every [Carpentry Area]","[-1 Faith] from every [Mine]","[-1 Faith] from every [Camp]","[-1 Faith] from every [Fishing Boats]"],
 
 		"outerColor": [81, 214, 168],
 		"innerColor": [3, 41, 107],
@@ -1354,7 +1354,7 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Coast Fighters",
-                "uniques": ["[+15]% Strength <when fighting in [Coast] tiles>", "[+15]% Strength <when fighting in [Swamp Zone] tiles>", "[+1 Gold] from every [Coast]", "Double quantity of [Coral] produced", "Double quantity of [Black Pearl] produced"],
+                "uniques": ["[+1 Faith] from every [Coast]", "[+1 Culture] from every [Coast]","[+1 Culture] from every [Ocean]"],
 
 		"outerColor": [51, 14, 34],
 		"innerColor": [247, 156, 205],
@@ -1384,7 +1384,7 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Against Germania",
-                "uniques": ["[+5]% Production when constructing [Chariot] units [in all cities]", "[+1 Production] from every [3] [Mine]", "Double quantity of [Heart of the Shadows] produced", "[+10]% Strength for cities"],
+                "uniques": ["[+5]% Production when constructing [Chariot] units [in all cities]", "[+1 Culture] from every [Mine]", "Double quantity of [Heart of the Shadows] produced", "[+10]% Strength for cities"],
 
 		"outerColor": [49, 0, 105],
 		"innerColor": [252, 136, 161],
@@ -1414,7 +1414,7 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Ma Aikata",
-                "uniques": ["[+10]% Production when constructing [Civilian] units for cities on [Desert] tiles", "[+1 Science] from every [2] [Marble Statue]", "[+10]% Strength for cities on [Desert] tiles"],
+                "uniques": ["[+2 Science] from every [Marble Statue]"],
 
 		"outerColor": [252, 186, 3],
 		"innerColor": [99, 10, 0],
@@ -1444,7 +1444,7 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Urdu Legacy",
-                "uniques": ["[+20]% of excess happiness converted to [Culture]", "[+15]% Strength <for [Mounted] units> on [Tundra] or [Snow] tiles"],
+                "uniques": ["[+60]% of excess happiness converted to [Culture]"],
                 
                 "outerColor": [179, 178, 184],
 		"innerColor": [37, 43, 33],
@@ -1474,7 +1474,7 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Marsh Popular Democrats",
-                "uniques": ["[+15]% Strength <for [Mounted] units> on [Swamp Zone]", "[+2 Production] from every [Swamp Zone]", "[+2 Food] from every [Marsh]"],
+                "uniques": ["[+2 Production] from every [Swamp Zone]","[+2 Faith] from every [Natural Lake]", "[+2 Food] from every [Marsh]"],
                 
                 "outerColor": [247, 155, 79],
 		"innerColor": [3, 12, 107],
@@ -1504,7 +1504,7 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Irma Lover",
-                "uniques": ["[+15]% Culture [in all cities]", "[-15]% Faith [in all cities]", "[+25]% [Culture] [in all cities] <when at war>"],
+                "uniques": ["[+1 Science] from every [Wonder]","[+1 Production] from every [Wonder]","[+1 Culture] from every [Wonder]"],
                 
                 "outerColor": [242, 219, 255],
 		"innerColor": [185, 78, 242],
@@ -1534,7 +1534,7 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Teufelslied",
-                "uniques": ["[+20]% XP gained from combat <for [Military] units>", "[+15]% Production [in all cities]"],
+                "uniques": ["[+20]% XP gained from combat <for [Military] units>", "[+1 Production] from every [Mine]"],
                 
                 "outerColor": [171, 17, 0],
 		"innerColor": [48, 20, 17],
@@ -1564,7 +1564,7 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Stalin Legacy",
-                "uniques": ["[+20]% of excess happiness converted to [Production]", "[+20]% of excess happiness converted to [Science]", "[+5]% Science [in all cities]"],
+                "uniques": ["[+30]% of excess happiness converted to [Production]", "[+20]% of excess happiness converted to [Science]"],
                 
                 "outerColor": [250, 207, 202],
 		"innerColor": [48, 20, 17],
@@ -1594,7 +1594,7 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Helper of the Faith",
-                "uniques": ["[+40% Faith] from City-States", "[+1 Faith] from every [2] [Wooden Fort]",
+                "uniques": ["[+2 Faith] from every [Wonder]", "[+1 Faith] from every [Wooden Fort]",
 "[+2 Faith] from every [Cement Works]",
 "[+2 Faith] from every [Stone Fort]",
 "[+3 Faith] from every [Metal Fort]",
@@ -1660,7 +1660,7 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
                 "uniqueName": "Turtle Ships",
-                "uniques": ["[+10]% Production when constructing [Water Melee] units [in all cities]","[+1 Science] from every [3] [Coast]", "[+1 Science] from every [2] [Ark Monument]", "[+10]% Production when constructing [Civilian] units [in all cities]"],
+                "uniques": ["[+10]% Production when constructing [Marine Reptile] units [in all cities]", "[+1 Science] from every [Ark Monument]", "[+5]% Production when constructing [Civilian] units [in all cities]"],
 
 		"outerColor": [73, 39, 245],
 		"innerColor": [10, 10, 10],
