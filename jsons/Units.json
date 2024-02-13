@@ -1163,7 +1163,7 @@
 	},
         {
 		"name": "Corrupted Dsungaripterus",
-		"unitType": "Corrupted",
+		"unitType": "Flying",
                 "obsoleteTech": "Canteen",
 		"movement": 3,
 		"strength": 50,
